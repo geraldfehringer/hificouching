@@ -41,6 +41,7 @@ plugins:
   - jekyll-leaflet
   - jekyll-mermaid
   - jemoji
+  - jekyll-paginate
 
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
