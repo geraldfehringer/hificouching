@@ -1,5 +1,6 @@
 # HUGO
 .hugo_build.lock
+Gemfile.lock
 
 # OS
 .DS_Store
