@@ -2,7 +2,7 @@
 markdown: kramdown
 site-keywords: HifiCouch, Audiophile
 
-title: HiFi Couchsurfing
+title: HiFi Setups - Couchsurfing
 email: nospam@we-love-music-bye-bye.com
 description: >- # this means to ignore newlines until "baseurl:"
   Meet audiophiles and music enthusiasts all over the world.
@@ -23,7 +23,7 @@ sass:
 # Build settings
 theme: minima
 plugins:
-  - jekyll-leaflet
+#  - jekyll-leaflet
   - jekyll-mermaid
   - jekyll-paginate
   - jekyll-admin

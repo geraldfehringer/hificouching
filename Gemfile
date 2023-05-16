@@ -22,7 +22,7 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "bourbon"
   gem "jekyll-mermaid"
-  gem "jekyll-leaflet"
+#  gem "jekyll-leaflet"
   gem "jekyll-paginate"
   gem 'jekyll-admin', "0.9.0"
 end
