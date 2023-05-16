@@ -9,13 +9,24 @@ layout: page
 
 <script>
     var map = L.map('map').setView([51.505, -0.09], 13);
-    var layer = new L.StamenTileLayer("toner-lite");
-    map.addLayer(layer);
-    var marker = L.marker([51.5, -0.09]).addTo(map);
+
+    var marker = L.marker([51.5, -0.09]){icon: HifiIcon}).addTo(map);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
+
+    var popup = L.popup()
+    .setLatLng([51.513, -0.09])
+    .setContent("I am a standalone popup.")
+    .openOn(map);
+
+    var HifiIcon = L.icon({
+    iconUrl: '/assets/images/hifi-location.png',
+    iconSize:     [38, 95], // size of the icon
+    iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+    popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+    });
 </script>
 
 </div>
