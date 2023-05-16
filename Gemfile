@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem "bourbon"
   gem "jekyll-mermaid"
   gem "jekyll-leaflet"
-  hem "jekyll-paginate"
+  gem "jekyll-paginate"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
