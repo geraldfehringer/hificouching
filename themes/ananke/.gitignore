@@ -1,3 +1,6 @@
+# HUGO
+.hugo_build.lock
+
 # OS
 .DS_Store
 Thumbs.db
