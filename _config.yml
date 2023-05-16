@@ -6,7 +6,6 @@ title: HiFi Couchsurfing
 email: gf@zerohat.net
 description: >- # this means to ignore newlines until "baseurl:"
   Meet audiophiles and music enthusiast all over the world.
-  Listen|Learn|Enjoy|Contribute.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hificouch.world" # the base hostname & protocol for your site, e.g. http://example.com
 
