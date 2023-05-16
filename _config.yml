@@ -40,7 +40,6 @@ plugins:
   - jekyll-feed
   - jekyll-leaflet
   - jekyll-mermaid
-  - faraday-retry
   - jemoji
 
 logo: "/assets/images/df_logo.jpg"

@@ -19,7 +19,6 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jemoji'
   gem 'bourbon'
-  gem 'faraday-retry'
   gem 'jekyll-mermaid'
   gem "jekyll-leaflet"
 end
