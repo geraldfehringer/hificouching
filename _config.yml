@@ -28,7 +28,7 @@ url: "https://hificouch.world" # the base hostname & protocol for your site, e.g
 twitter_username: 
 github_username: 
 
-name: 'Geri'
+name: 'HiFi Couchsurfing'
 author: 'Geri F.'
 author_image: "/assets/images/author.jpg"
 
@@ -65,3 +65,19 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url: 
+    desc: 
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	github
+    url:	
+    desc:	
+    share_url:
+    share_title:
+    share_link:
