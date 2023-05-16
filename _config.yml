@@ -12,6 +12,9 @@ url: "https://hificouch.world" # the base hostname & protocol for your site, e.g
 author-name: 'Geri F.'
 author-image: "/assets/images/author.jpg"
 
+site-image: "/assets/images/gerihifi-banner.png"
+heroimage: "/assets/images/gerihifi-banner.png"
+
 # SASS
 sass:
   sass_dir: _sass
@@ -26,11 +29,6 @@ plugins:
   - jekyll-admin
   - jekyll-feed
   - jemoji
-
-
-
-site-image: "/assets/images/df_logo.jpg"
-heroimage: "/assets/images/df_logo.jpg"
 
 # Permalink
 permalink: "blog/:title"
