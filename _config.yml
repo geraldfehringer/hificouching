@@ -1,22 +1,6 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# WhatATheme
+markdown: kramdown
+site-keywords: HifiCouch, Audiophile
 
 title: HiFi Couchsurfing
 email: gf@zerohat.net
@@ -25,36 +9,54 @@ description: >- # this means to ignore newlines until "baseurl:"
   Listen|Learn|Enjoy|Contribute.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hificouch.world" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username: 
 
-name: 'HiFi Couchsurfing'
-author: 'Geri F.'
-author_image: "/assets/images/author.jpg"
+author-name: 'Geri F.'
+author-image: "/assets/images/author.jpg"
 
-paginate:	5
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-leaflet
   - jekyll-mermaid
-  - jemoji
   - jekyll-paginate
+  - jekyll-admin
+  - jekyll-feed
+  - jemoji
 
-logo: "/assets/images/df_logo.jpg"
-float_logo: true # true, false (default)
-cover: "/assets/images/gerihifi-banner.png"
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+
+site-image: "/assets/images/df_logo.jpg"
+heroimage: "/assets/images/df_logo.jpg"
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
 exclude:
    - .sass-cache/
    - .jekyll-cache/
@@ -66,19 +68,3 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
-
-# social icons and sharing options
-social:
-  - icon:	twitter
-    url: 
-    desc: 
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-  - icon:	github
-    url:	
-    desc:	
-    share_url:
-    share_title:
-    share_link:
