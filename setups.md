@@ -3,7 +3,10 @@ title: Community Setup's
 layout: page
 ---
 
-> Click on Icon to see HiFi setup details
+> **Click on Icon to see HiFi setup details**
+>> Available listening [sessions](calendar) near you? \
+>> _More details & contacts are only available for [registered](users) users!_
+
 
 <div id="map"></div>
 
