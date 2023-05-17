@@ -9,7 +9,7 @@
       {
         "route": "/users",
         "allowedRoles": ["anonymous", "authenticated"],
-        "rewrite": "/.auth/login/b2c"
+        "rewrite": "/.auth/login/aadb2c"
       },
       {
         "route": "/api/*",
