@@ -12,21 +12,8 @@
         "rewrite": "/.auth/login/aadb2c"
       },
       {
-        "route": "/api/*",
-        "methods": ["PUT", "POST", "PATCH", "DELETE"],
-        "allowedRoles": ["administrator"]
-      },
-      {
-        "route": "/api/*",
-        "allowedRoles": ["authenticated"]
-      },
-      {
         "route": "/login",
-        "rewrite": "/.auth/login/github"
-      },
-      {
-        "route": "/.auth/login/twitter",
-        "statusCode": 404
+        "rewrite": "/.auth/login/aadb2c"
       },
       {
         "route": "/logout",
