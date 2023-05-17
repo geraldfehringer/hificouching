@@ -27,7 +27,9 @@
       }
     },
     "globalHeaders": {
-      "content-security-policy": "default-src https: 'unsafe-eval' 'unsafe-inline'; object-src 'none'"
+      "content-security-policy": "default-src https: 'unsafe-eval' 'unsafe-inline'; object-src 'none'",
+      "Access-Control-Allow-Origin": "https://hificouch.world",
+      "Access-Control-Allow-Methods": "POST, GET, OPTIONS"
     },
     "mimeTypes": {
       ".json": "text/json"
@@ -46,9 +48,8 @@
                 }
               },
               "login": {
-                "nameClaimType": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
-                "scopes": [],
-                "loginParameterNames": []
+                "nameClaimType": "email",
+                "scopes": ["openid", "profile"]
               }
             }
           }
