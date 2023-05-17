@@ -8,8 +8,8 @@
       },
       {
         "route": "/users",
-        "methods": ["GET"],
-        "allowedRoles": ["registeredusers"]
+        "allowedRoles": ["anonymous", "authenticated"],
+        "rewrite": "/.auth/login/b2c"
       },
       {
         "route": "/api/*",
@@ -44,5 +44,27 @@
     },
     "mimeTypes": {
       ".json": "text/json"
-    }
+    },
+      "auth": {
+        "identityProviders": {
+          "customOpenIdConnectProviders": {
+            "aadb2c": {
+              "registration": {
+                "clientIdSettingName": "AADB2C_PROVIDER_CLIENT_ID",
+                "clientCredential": {
+                  "clientSecretSettingName": "AADB2C_PROVIDER_CLIENT_SECRET"
+                },
+                "openIdConnectConfiguration": {
+                  "wellKnownOpenIdConfiguration": "https://hificouch.b2clogin.com/hificouch.onmicrosoft.com/B2C_1_UserSignin/v2.0/.well-known/openid-configuration"
+                }
+              },
+              "login": {
+                "nameClaimType": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+                "scopes": [],
+                "loginParameterNames": []
+              }
+            }
+          }
+        }
+      }
   }
