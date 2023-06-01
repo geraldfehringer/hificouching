@@ -1,6 +1,6 @@
 var basemap = new L.TileLayer(baseUrl, {maxZoom: 17, attribution: baseAttribution, opacity: opacity});
 
-var center = new L.LatLng(47.22, 8.33);
+var center = new L.LatLng(0, 0);
 
 var map = new L.Map('map', {center: center, zoom: 2, maxZoom: maxZoom, layers: [basemap]});
 
