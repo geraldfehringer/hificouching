@@ -1,7 +1,7 @@
 <head>
     {% include meta.html %}
     <title>{{site.title}}</title>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
+    <script src="{% if site.baseurl %}{{site.baseurl}}{% else %}{% endif %}/assets/js/jquery.min.js" ></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
     <link rel="stylesheet" href="{% if site.baseurl %}{{site.baseurl}}{% else %}{% endif %}/assets/css/style.css">
@@ -9,8 +9,8 @@
     <link rel="shortcut icon" href="{% if site.favicon-url %}{{site.favicon-url}}{% else %}{{ 'assets/images/logo.png' | absolute_url }}{% endif %}" type="image/x-icon">
     <script src="/assets/js/leaflet.geocsv.js"></script>
   
-    <link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
-    <script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+    <link href="{% if site.baseurl %}{{site.baseurl}}{% else %}{% endif %}/assets/css/bootstrap-combined.min.css" rel="stylesheet">
+    <script src="{% if site.baseurl %}{{site.baseurl}}{% else %}{% endif %}/assets/js/bootstrap.min.js"></script>
     
     <link rel="stylesheet" href="{% if site.baseurl %}{{site.baseurl}}{% else %}{% endif %}/assets/css/leaflet.label.css">
     <link rel="stylesheet" href="{% if site.baseurl %}{{site.baseurl}}{% else %}{% endif %}/assets/css/MarkerCluster.css">
