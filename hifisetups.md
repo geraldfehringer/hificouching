@@ -5,7 +5,6 @@ layout: page
 
 Add your Hifi details in the private Google Forms here:
 
-> **NO EMAIL ADDRESSES ARE COLLECTED!** \
 > **DATA IS STORED IN A PRIVATE GOOGLE ACCOUNT (Gerald Fehringer)!**
 
 <br>
