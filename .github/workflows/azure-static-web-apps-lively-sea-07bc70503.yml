@@ -18,8 +18,20 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: true
-      - name: Get Updated Google Sheets with Geo
-        uses: uses: jroehl/gsheet.action@v2.1.0
+      - id: 'gsheet_gethifidata'
+        uses: jroehl/gsheet.action@v2.1.0
+        with: spreadsheetId ${{ secrets.GSHEET_HIFIGEO }}
+        commands: |
+          [
+            { "command": "getData", "args": { "minCol": 1 } }
+          ]
+        env:
+          GSHEET_CLIENT_EMAIL: ${{ secrets.GSHEET_CLIENT_EMAIL }}
+          GSHEET_PRIVATE_KEY: ${{ secrets.GSHEET_PRIVATE_KEY }}
+      - name: Dump Gsheet Data
+        env:
+           RESULTS: ${{ steps.gsheet_gethifidata.outputs.results }}
+        run: echo "$RESULTS" | jq > assets/csv/hifisetups.csv
       - name: Set up Ruby
         uses: actions/setup-ruby@v1
         with:
