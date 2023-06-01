@@ -24,7 +24,7 @@ jobs:
           spreadsheetId: ${{ secrets.GSHEET_HIFIGEO }}
           commands: |
             [
-              { "command": "getData", "args": { "minCol": 1 } }
+              { "command": "getSpreadsheet" }
             ]
         env:
           GSHEET_CLIENT_EMAIL: ${{ secrets.GSHEET_CLIENT_EMAIL }}
