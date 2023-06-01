@@ -20,11 +20,12 @@ jobs:
           submodules: true
       - id: 'gsheet_gethifidata'
         uses: jroehl/gsheet.action@v2.1.0
-        with: spreadsheetId ${{ secrets.GSHEET_HIFIGEO }}
-        commands: |
-          [
-            { "command": "getData", "args": { "minCol": 1 } }
-          ]
+        with: 
+          spreadsheetId: ${{ secrets.GSHEET_HIFIGEO }}
+          commands: |
+            [
+              { "command": "getData", "args": { "minCol": 1 } }
+            ]
         env:
           GSHEET_CLIENT_EMAIL: ${{ secrets.GSHEET_CLIENT_EMAIL }}
           GSHEET_PRIVATE_KEY: ${{ secrets.GSHEET_PRIVATE_KEY }}
