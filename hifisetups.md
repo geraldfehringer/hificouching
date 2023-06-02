@@ -5,7 +5,7 @@ layout: page
 
 Add your Hifi details in the private Google Forms here:
 
-> **DATA IS STORED IN A PRIVATE GOOGLE ACCOUNT (Gerald Fehringer)!**
+> **DATA IS STORED IN A PRIVATE GOOGLE ACCOUNT (without any Analytics)!**
 
 <br>
 

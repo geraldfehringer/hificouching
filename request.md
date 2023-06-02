@@ -1,14 +1,95 @@
 ---
 title: Ask for listening session
 layout: page
-hide: true
 ---
 
+<script>
+//Get the form element by id
+const sampleForm = document.getElementById("hifiform");
+//Add an event listener to the form element and handler for the submit an event.
+sampleForm.addEventListener("submit", async (e) => {
+  /**
+   * Prevent the default browser behaviour of submitting
+   * the form so that you can handle this instead.
+   */
+  e.preventDefault();
+  /**
+   * Get the element attached to the event handler.
+   */
+  let form = e.currentTarget;
+  /**
+   * Take the URL from the form's `action` attribute.
+   */
+  let url = form.action;
 
-<form accept-charset="UTF-8" action=https://prod-26.westeurope.logic.azure.com:443/workflows/d6db27358f80434ba0cd477bfe2325da/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=sM17fd913-GhCh-zD9MPwpseRrFU_-ZCoIB5kmLITqU" method="POST">
-  <input type="email" name="email" placeholder="Your E-Mail">
-  <input type="text" name="name" placeholder="Your Name">
-  <input type="hidden" name="utf8" value="✓"> <br>
-  <input type="hidden" name="hifisetupid" value="">
-  <button type="submit">Submit</button>
+  try {
+    /**
+     * Takes all the form fields and make the field values
+     * available through a `FormData` instance.
+     */
+    let formData = new FormData(form);
+
+    /**
+     * The `postFormFieldsAsJson()` function in the next step.
+     */
+    let responseData = await postFormFieldsAsJson({ url, formData });
+
+    //Destructure the response data
+    let { serverDataResponse } = responseData;
+
+    //Display the response data in the console (for debugging)
+    console.log(serverDataResponse);
+  } catch (error) {
+    //If an error occurs display it in the console (for debugging)
+    console.error(error);
+  }
+});
+
+/**
+ * Helper function to POST data as JSON with Fetch.
+ */
+async function postFormFieldsAsJson({ url, formData }) {
+  //Create an object from the form data entries
+  let formDataObject = Object.fromEntries(formData.entries());
+  // Format the plain form data as JSON
+  let formDataJsonString = JSON.stringify(formDataObject);
+
+  //Set the fetch options (headers, body)
+  let fetchOptions = {
+    //HTTP method set to POST.
+    method: "POST",
+    //Set the headers that specify you're sending a JSON body request and accepting JSON response
+    headers: {
+      "Content-Type": "application/json",
+      Accept: "application/json",
+    },
+    // POST request body as JSON string.
+    body: formDataJsonString,
+  };
+
+  //Get the response body as JSON.
+  //If the response was not OK, throw an error.
+  let res = await fetch(url, fetchOptions);
+
+  //If the response is not ok throw an error (for debugging)
+  if (!res.ok) {
+    let error = await res.text();
+    throw new Error(error);
+  }
+  //If the response was OK, return the response body.
+  return res.json();
+}
+</script>
+
+**Don't forget, we do need the ID from relevant System, you are interested to hear!**
+
+![](/assets/images/aadb2c-logo-black.png) ![](/assets/images/hifid_copy.png)
+
+<hr>
+
+<form id="hifiform" action="">
+ <input type="text" name="sendername" placeholder="Your Name"> <br>
+ <input type="email" name="senderemail" placeholder="Your E-Mail (not saved!)"> <br> <br>
+ <input type="text" name="hifisetupid" placeholder="Setup ID copyied from Map"> <br> <br> <br>
+ <button type="=submit">Send Request!</button>
 </form>

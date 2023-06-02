@@ -5,8 +5,12 @@ layout: page
 
 > **Click on Icon to see HiFi setup details**
 
-**SHARING YOUR SETUP? \
- Please, add them  [HERE](hifisetups) ...**
+**SHARING YOUR SETUP?** \
+**Please, add them  [HERE](hifisetups) ...**
+
+**REQUEST LISTENING SESSION?** \
+**Please, go  [HERE](request) ...**
+
 
  <br/>
 
