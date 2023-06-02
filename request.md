@@ -88,9 +88,9 @@ async function postFormFieldsAsJson({ url, formData }) {
 <hr>
 
 <form id="hifiform" action="">
- <input type="text" name="sendername" placeholder="Your Name"> <br>
- <input type="email" name="senderemail" placeholder="Your E-Mail (not saved!)"> <br> <br>
- <input type="text" name="hifisetupid" placeholder="Setup ID copyied from Map"> <br> <br> <br>
+ <input type="text" name="sendername" id="sendername" placeholder="Your Name"> <br>
+ <input type="email" name="senderemail" id="senderemail" placeholder="Your E-Mail (not saved!)"> <br> <br>
+ <input type="text" name="hifisetupid" id="hifisetupid" placeholder="Setup ID copyied from Map"> <br> <br> <br>
  <button type="=submit">Send Request!</button>
 </form>
 
