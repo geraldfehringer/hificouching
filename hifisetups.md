@@ -6,6 +6,8 @@ layout: page
 Add your Hifi details in the private Google Forms here:
 
 > **DATA IS STORED IN A PRIVATE GOOGLE ACCOUNT (without any Analytics)!**
+>> If you wanna delete your details, please send an e-mail with your SetupID to: <br>
+>> hificouch [at] zerohat.net
 
 <br>
 
