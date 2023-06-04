@@ -73,7 +73,7 @@ var addCsvMarkers = function() {
     markers = new L.MarkerClusterGroup(clusterOptions);
     points.addData(dataCsv);
     markers.addLayer(points);
-
+   
     map.addLayer(markers);
     try {
         var bounds = markers.getBounds();

@@ -18,3 +18,13 @@ layout: page
 <script src="/assets/js/hifiform.js"></script>
 
 **[GO BACK...](/setups)**
+
+<hr>
+
+**_As setup recipient, you'll receive an email, like that:_**
+
+![](/assets/images/emailrequest.png)
+
+<hr>
+
+**_PLEASE, look in your SPAM-folder, our source email is: hificouch @ zerohat.net_**
