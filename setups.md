@@ -4,7 +4,8 @@ layout: page
 ---
 
 > **Click on Icon to see HiFi setup details** <br>
-> Under the map is a search field - full-text, if you are looking for some specific gear!
+> Under the map is a search field - full-text, if you are looking for some specific gear! <br>
+> Here our [architecture](/assets/images/hifiworld_architecture.png) (open community == full transparency!)
 
 **SHARING YOUR SETUP?** \
 **Please, add them  [HERE](hifisetups) ...**
