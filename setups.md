@@ -5,7 +5,7 @@ layout: page
 
 > **Click on Icon to see HiFi setup details** <br>
 > Under the map is a search field - full-text, if you are looking for some specific gear! <br>
-> Here our web service [architecture](/assets/images/hifiworld_architecture.png)
+> Here our application [architecture](/assets/images/hifiworld_architecture.png)
 
 **SHARING YOUR SETUP?** \
 **Please, add them  [HERE](hifisetups) ...**
@@ -16,6 +16,8 @@ layout: page
 **Please, go  [HERE](request) ...**
 
 <hr>
+
+Map default zoom is based on overall system geo location and will be automatically grouped if more systems are close to each other.
 
 <div id="map"></div>
 <br>
