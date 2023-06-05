@@ -5,10 +5,13 @@ on:
   #schedule:
     # Runs "At 03:00 on every day"
   #  - cron: '0 3 * * *'
-    
+
+env:
+  HIFI_STG_SAS: ${{secrets.HIFI_STG_SAS_TOKEN}}
+
 jobs:
   build:
-    name: Trigger Code Checkout
+    name: Trigger CSV Fix for HifiSetups
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -16,7 +19,29 @@ jobs:
         uses: perl-actions/install-with-cpanm@stable
         with:
           sudo: false
-          install: "DateTime::Format::Excel"
+          install: |
+            DateTime::Format::Excel
+            Text::CSV
       - name: Fix CSV dates and more
         run: |
-          ls -la
+          echo "Get Storage Blob CSV file"
+          if [ -f "assets/csv/hifisetups_tmp.csv" ]; then
+            rm -f assets/csv/hifisetups_tmp.csv
+          fi
+          azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
+          echo "### cut 2 columns"
+          cat assets/csv/hifisetups_tmp.csv | cut -d"," -f2-20 >assets/csv/hifisetups_tmp2.csv
+          echo "### cut header row"
+          sed '1,1d' assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups_tmp3.csv
+          echo "### fix excel date"
+          perl fixexceldate.pl
+          echo "### add header"
+          sed -i 's/"//g' hifisetups_fix.csv
+          head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
+          cat hifisetups_fix.csv >> hifisetups.csv
+          git config --global user.name "geraldfehringer"
+          git add assets/csv/hifisetups.csv
+          git commit -m 'new hifisetups.csv added'
+          pit push origin main
+          
+
