@@ -19,9 +19,6 @@ jobs:
         uses: perl-actions/install-with-cpanm@stable
         with:
           sudo: false
-          install: |
-            DateTime::Format::Excel
-            Text::CSV
       - name: Fix CSV dates and more
         run: |
           echo "Get Storage Blob CSV file"
@@ -29,6 +26,7 @@ jobs:
             rm -f assets/csv/hifisetups_tmp.csv
           fi
           sudo cpanm Text::CSV
+          sudo cpanm DateTime::Format::Excel
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
           echo "### cut 2 columns"
           cat assets/csv/hifisetups_tmp.csv | cut -d"," -f2-20 >assets/csv/hifisetups_tmp2.csv
