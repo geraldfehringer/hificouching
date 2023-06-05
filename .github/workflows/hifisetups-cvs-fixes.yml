@@ -1,0 +1,22 @@
+name: Parse CSV and validate fields
+
+on:
+  workflow_dispatch:
+  #schedule:
+    # Runs "At 03:00 on every day"
+  #  - cron: '0 3 * * *'
+    
+jobs:
+  build:
+    name: Trigger Code Checkout
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install-with-cpanm
+        uses: perl-actions/install-with-cpanm@stable
+        with:
+          sudo: false
+          install: "DateTime::Format::Excel"
+      - name: Fix CSV dates and more
+        run: |
+          ls -la
