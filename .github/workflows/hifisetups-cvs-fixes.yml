@@ -28,6 +28,7 @@ jobs:
           if [ -f "assets/csv/hifisetups_tmp.csv" ]; then
             rm -f assets/csv/hifisetups_tmp.csv
           fi
+          sudo cpanm Text::CSV
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
           echo "### cut 2 columns"
           cat assets/csv/hifisetups_tmp.csv | cut -d"," -f2-20 >assets/csv/hifisetups_tmp2.csv
