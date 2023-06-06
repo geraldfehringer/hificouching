@@ -18,7 +18,7 @@ layout: page
 <hr>
 
 Map default zoom is based on overall system geo location and will be automatically grouped if more systems are close to each other. <br>
-**NOTE: If there is a gree circle with a number: <u>double-click</u> to open ;-)**
+**NOTE: If there is a green circle with a number: <u>double-click</u> to open ;-)**
 
 <div id="map"></div>
 <br>
