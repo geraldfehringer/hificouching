@@ -30,9 +30,7 @@ jobs:
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
           if [ -f assets/csv/hifisetups_tmp.csv ]; then
            echo "### cut 2 columns"
-           cat assets/csv/hifisetups_tmp.csv | cut -d"," -f2-20 >assets/csv/hifisetups_tmp2.csv
-           echo "TEST CUT ROWS"
-           cat assets/csv/hifisetups_tmp.csv | cut -d"," -f2-20
+           cat assets/csv/hifisetups_tmp.csv | cut -d"," -f3-20 >assets/csv/hifisetups_tmp2.csv
            echo "### cut header row"
            sed '1,1d' assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups_tmp3.csv
            echo "### fix excel date"
