@@ -44,8 +44,10 @@ jobs:
             git config --global user.email "gf@zerohat.net"
             git add assets/csv/hifisetups.csv
             git commit -a -m 'new hifisetups.csv added'
-            git push origin main
            fi
           fi
-          
-
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
