@@ -11,7 +11,7 @@ my $file = "hifisetups_fix.csv";
 open( my $output, '>', $file ) or die "'$file' would not open $!";
 open my $fh, "<:encoding(utf8)", $tmpfile or die "$!";
 
-my $csv = Text::CSV->new( { binary => 1 } );
+my $csv = Text::CSV->new( { binary => 1, eol => "\n" } );
 
 while ( my $row = $csv->getline( $fh ) ) {
     my $oldtime = $row->[0];
