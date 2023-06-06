@@ -40,9 +40,10 @@ jobs:
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
            cat hifisetups_fix.csv >> hifisetups.csv
            git config --global user.name "geraldfehringer"
+           git config --global user.email "gf@zerohat.net"
            git add assets/csv/hifisetups.csv
            git commit -m 'new hifisetups.csv added'
-           pit push origin main
+           git push origin main
           fi
           
 
