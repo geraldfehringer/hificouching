@@ -38,12 +38,14 @@ jobs:
            echo "### add header"
            sed -i 's/"//g' hifisetups_fix.csv
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
-           cat hifisetups_fix.csv >> hifisetups.csv
-           git config --global user.name "geraldfehringer"
-           git config --global user.email "gf@zerohat.net"
-           git add assets/csv/hifisetups.csv
-           git commit -m 'new hifisetups.csv added'
-           git push origin main
+           cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
+           if [ -f assets/csv/hifisetups.csv ]; then
+            git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+            git config --global user.email "gf@zerohat.net"
+            git add assets/csv/hifisetups.csv
+            git commit -a -m 'new hifisetups.csv added'
+            git push
+           fi
           fi
           
 
