@@ -31,10 +31,10 @@ jobs:
           if [ -f assets/csv/hifisetups_tmp.csv ]; then
            echo "### cut 2 columns"
            cat assets/csv/hifisetups_tmp.csv | cut -d"," -f2-20 >assets/csv/hifisetups_tmp2.csv
+           echo "TEST CUT ROWS"
+           cat assets/csv/hifisetups_tmp.csv | cut -d"," -f2-20
            echo "### cut header row"
            sed '1,1d' assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups_tmp3.csv
-           cat assets/csv/hifisetups_tmp2.csv
-           cat assets/csv/hifisetups_tmp3.csv
            echo "### fix excel date"
            perl fixexceldate.pl
            echo "### add header"
