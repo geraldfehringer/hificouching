@@ -4,7 +4,7 @@ on:
   #workflow_dispatch:
   schedule:
     # Runs "At 03:00 on every day"
-    - cron: '04 08 * * *'
+    - cron: '04 06 * * *'
 
 env:
   HIFI_STG_SAS: ${{secrets.HIFI_STG_SAS_TOKEN}}
