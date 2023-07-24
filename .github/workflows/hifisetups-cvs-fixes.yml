@@ -2,9 +2,9 @@ name: Parse CSV and validate fields
 
 on:
   workflow_dispatch:
-  #schedule:
+  schedule:
     # Runs "At 03:00 on every day"
-    #- cron: '04 04 * * *'
+    - cron: '04 04 * * *'
 
 env:
   HIFI_STG_SAS: ${{secrets.HIFI_STG_SAS_TOKEN}}
