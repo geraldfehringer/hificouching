@@ -10,7 +10,7 @@ on:
   #    - main
   schedule:
     # Runs "At 03:00 on every day"
-    - cron: '04 05 * * *'
+    - cron: '45 04 * * *'
 
 jobs:
   build_and_deploy_job:
