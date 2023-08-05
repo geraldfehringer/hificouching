@@ -1,2 +1,2 @@
 # hificouching
-HiFI Couchsurfing Website, powered by gerihifi
+HiFI Couchsurfing Website, powered by gerihifi.
