@@ -8,6 +8,7 @@ on:
 
 env:
   HIFI_STG_SAS: ${{secrets.HIFI_STG_SAS_TOKEN}}
+  STATUS: "0"
 
 jobs:
   build:
@@ -40,6 +41,7 @@ jobs:
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
            cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
            if [ -f assets/csv/hifisetups.csv ]; then
+            export ${{ env.STATUS }}="1"
             git config --global user.name "geraldfehringer"
             git config --global user.email "gf@zerohat.net"
             git add assets/csv/hifisetups.csv
@@ -48,6 +50,7 @@ jobs:
            fi
           fi
       - name: Push changes
+        if: ${{ env.STATUS == '1' }}
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
