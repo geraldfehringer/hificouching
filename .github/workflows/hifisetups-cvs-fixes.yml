@@ -41,7 +41,7 @@ jobs:
            cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
            which dos2unix
            $ret=$?
-           if [ $ret -ne 1 ]; then
+           if [ $ret -ne '1' ]; then
              dos2unix assets/csv/hifisetups.csv
            fi
            if [ -f assets/csv/hifisetups.csv ]; then
