@@ -35,16 +35,20 @@ jobs:
            sed '1,1d' assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups_tmp3.csv
            echo "### fix excel date"
            perl fixexceldate.pl
-           echo "### add header"
+           echo "### add header to new hifisetups.csv"
            sed -i 's/"//g' hifisetups_fix.csv
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
+           echo "### add data from csv to new hifisetups.csv"
            cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
+           echo "### if dos2unix exists fix character encoding"
            which dos2unix
            $ret=$?
            if [ $ret -ne '1' ]; then
+             echo "dos2unix fix..."
              dos2unix assets/csv/hifisetups.csv
            fi
            if [ -f assets/csv/hifisetups.csv ]; then
+            echo "new hifisetups.csv added, commit to main brancg"
             echo "FIXSTATUS=1" >> "$GITHUB_ENV"
             git config --global user.name "geraldfehringer"
             git config --global user.email "gf@zerohat.net"
