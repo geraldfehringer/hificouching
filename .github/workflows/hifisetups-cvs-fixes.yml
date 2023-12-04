@@ -40,13 +40,13 @@ jobs:
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
            echo "### add data from csv to new hifisetups.csv"
            cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
-           echo "### if dos2unix exists fix character encoding"
-           which dos2unix
-           $ret=$?
-           if [ $ret -ne '1' ]; then
-             echo "dos2unix fix..."
-             dos2unix assets/csv/hifisetups.csv
-           fi
+           #echo "### if dos2unix exists fix character encoding"
+           #which dos2unix
+           #$ret=$?
+           #if [ $ret -ne '1' ]; then
+           #  echo "dos2unix fix..."
+           #  dos2unix assets/csv/hifisetups.csv
+           #fi
            if [ -f assets/csv/hifisetups.csv ]; then
             echo "new hifisetups.csv added, commit to main brancg"
             echo "FIXSTATUS=1" >> "$GITHUB_ENV"
