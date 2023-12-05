@@ -48,19 +48,19 @@ jobs:
            #  dos2unix assets/csv/hifisetups.csv
            #fi
            if [ -f assets/csv/hifisetups.csv ]; then
-            echo "new hifisetups.csv added, commit to main brancg"
+            echo "new hifisetups.csv added, commit to main branch"
             echo "FIXSTATUS=1" >> "$GITHUB_ENV"
             git config --global user.name "geraldfehringer"
             git config --global user.email "gf@zerohat.net"
-            git add assets/csv/hifisetups.csv
+            #git add assets/csv/hifisetups.csv
             #git add hifisetups.csv
-            git commit -a -m 'new hifisetups.csv added'
-            git push
+            #git commit -a -m 'new hifisetups.csv added'
+            #git push
            fi
           fi
-      #- name: Push changes
-        #if: env.FIXSTATUS == '1'
-      #  uses: ad-m/github-push-action@master
-       # with:
-        #  github_token: ${{ secrets.GITHUB_TOKEN }}
-        #  branch: main
+      - name: Push changes
+        if: env.FIXSTATUS == '1'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
