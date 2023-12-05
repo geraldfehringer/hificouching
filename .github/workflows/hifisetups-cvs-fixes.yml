@@ -58,9 +58,9 @@ jobs:
             git push
            fi
           fi
-      - name: Push changes
-        if: env.FIXSTATUS == '1'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+      #- name: Push changes
+        #if: env.FIXSTATUS == '1'
+      #  uses: ad-m/github-push-action@master
+       # with:
+        #  github_token: ${{ secrets.GITHUB_TOKEN }}
+        #  branch: main
