@@ -17,20 +17,15 @@ jobs:
       - uses: actions/checkout@v4
         with:
           path: main
-      #- name: Install-with-cpanm
-      #  uses: perl-actions/install-with-cpanm@stable
-      #  with:
-      #    sudo: true
-      #   install: |
-      #     Text::CSV
-      #     DateTime::Format::Excel
+      - name: Install-with-cpanm
+        uses: perl-actions/install-with-cpanm@stable
+        with:
+          sudo: true
+          install: |
+            Text::CSV
+            DateTime::Format::Excel
       - name: Fix CSV dates and more
         run: |
-          if [ -f assets/csv/hifisetups.csv ]; then
-            echo "### delete old hifisetups.csv"
-            rm -f assets/csv/hifisetups.csv
-          fi
-          ls -la /
           # sudo cpanm Text::CSV
           # sudo cpanm DateTime::Format::Excel
           exit 0
@@ -46,14 +41,16 @@ jobs:
            echo "### add header to new hifisetups.csv"
            sed -i 's/"//g' hifisetups_fix.csv
            echo "### create NEW assets/csv/hifisetups.csv"
+           touch assets/csv/hifisetups.csv
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
            echo "### add data from csv to new hifisetups.csv"
            cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
+           cat assets/csv/hifisetups.csv
            echo "FIXSTATUS=1" >> "$GITHUB_ENV"
            git config --global user.name "geraldfehringer"
            git config --global user.email "gf@zerohat.net"
            git add assets/csv/hifisetups.csv
-           git commit -m 'new files added'
+           git commit -m 'new hifisetups.csv added'
           fi
       - name: Push changes
         if: env.FIXSTATUS == '1'
