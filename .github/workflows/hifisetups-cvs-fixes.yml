@@ -14,7 +14,9 @@ jobs:
     name: Trigger CSV Fix for HifiSetups
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          path: main
       - name: Install-with-cpanm
         uses: perl-actions/install-with-cpanm@stable
         with:
