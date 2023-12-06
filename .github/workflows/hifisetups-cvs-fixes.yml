@@ -23,7 +23,16 @@ jobs:
         run: |
           echo "Get Storage Blob CSV file"
           if [ -f "assets/csv/hifisetups_tmp.csv" ]; then
+            echo "### delete old hifisetups_tmp.csv"
             rm -f assets/csv/hifisetups_tmp.csv
+          fi
+          if [ -f "assets/csv/hifisetups.csv" ]; then
+            echo "### delete old hifisetups.csv"
+            rm -f assets/csv/hifisetups.csv
+          fi
+          if [ -f "hifisetups_fix.csv" ]; then
+            echo "### delete old hifisetups_fix.csv"
+            rm -f hifisetups_fix.csv
           fi
           sudo cpanm Text::CSV
           sudo cpanm DateTime::Format::Excel
@@ -37,18 +46,15 @@ jobs:
            perl fixexceldate.pl
            echo "### add header to new hifisetups.csv"
            sed -i 's/"//g' hifisetups_fix.csv
+           echo "### create NEW assets/csv/hifisetups.csv"
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
            echo "### add data from csv to new hifisetups.csv"
            cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
-           echo "### New file infos: assets/csv/hifisetups.csv"
-           file assets/csv/hifisetups.csv
-           wc -l assets/csv/hifisetups.csv
            echo "FIXSTATUS=1" >> "$GITHUB_ENV"
            git config --global user.name "geraldfehringer"
            git config --global user.email "gf@zerohat.net"
-           git add .
+           git add assets/csv/hifisetups.csv
            git commit -m 'new files added'
-           #git push
           fi
       - name: Push changes
         if: env.FIXSTATUS == '1'
