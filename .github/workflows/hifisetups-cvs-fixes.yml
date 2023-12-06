@@ -43,12 +43,11 @@ jobs:
            echo "### New file infos: assets/csv/hifisetups.csv"
            file assets/csv/hifisetups.csv
            wc -l assets/csv/hifisetups.csv
-           echo "new hifisetups.csv added, commit to main branch"
            echo "FIXSTATUS=1" >> "$GITHUB_ENV"
            git config --global user.name "geraldfehringer"
            git config --global user.email "gf@zerohat.net"
-           git add assets/csv/hifisetups.csv
-           git commit -m 'new hifisetups.csv added'
+           git add .
+           git commit -m 'new files added'
            #git push
           fi
       - name: Push changes
