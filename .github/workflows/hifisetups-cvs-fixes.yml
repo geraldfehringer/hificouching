@@ -26,8 +26,6 @@ jobs:
       #      DateTime::Format::Excel
       - name: Fix CSV dates and more
         run: |
-          find / -name "fixexceldate.pl"
-          exit 0
           # sudo cpanm Text::CSV
           # sudo cpanm DateTime::Format::Excel
           echo "Get Storage Blob CSV file"
@@ -39,7 +37,7 @@ jobs:
            echo "### cut header row"
            sed '1,1d' assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups_tmp3.csv
            echo "### fix excel date"
-           perl fixexceldate.pl
+           perl /home/runner/work/hificouching/hificouching/main/fixexceldate.pl
            echo "### add header to new hifisetups.csv"
            sed -i 's/"//g' hifisetups_fix.csv
            echo "### create NEW assets/csv/hifisetups.csv"
