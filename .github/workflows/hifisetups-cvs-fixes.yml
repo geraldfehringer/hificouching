@@ -30,6 +30,8 @@ jobs:
           # sudo cpanm DateTime::Format::Excel
           echo "Get Storage Blob CSV file"
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
+          ls -la assets/csv/
+          exit 0
           if [ -f "assets/csv/hifisetups_tmp.csv" ]; then
            echo "### cut 2 columns"
            cat assets/csv/hifisetups_tmp.csv | cut -d"," -f3-20 >assets/csv/hifisetups_tmp2.csv
