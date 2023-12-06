@@ -26,7 +26,9 @@ jobs:
           # sudo cpanm Text::CSV
           # sudo cpanm DateTime::Format::Excel
           echo "Get Storage Blob CSV file"
-          mkdir -p assets/csv/
+          if [ -d "assets/csv/" ]; then
+            mkdir -p assets/csv/
+          fi
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
           if [ -f "assets/csv/hifisetups_tmp.csv" ]; then
            echo "### cut 2 columns"
@@ -34,7 +36,7 @@ jobs:
            echo "### cut header row"
            sed '1,1d' assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups_tmp3.csv
            echo "### fix excel date"
-           perl /home/runner/work/hificouching/hificouching/main/fixexceldate.pl
+           perl fixexceldate.pl
            echo "### add header to new hifisetups.csv"
            sed -i 's/"//g' hifisetups_fix.csv
            echo "### create NEW assets/csv/hifisetups.csv"
