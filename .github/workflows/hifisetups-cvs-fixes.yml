@@ -52,7 +52,7 @@ jobs:
             echo "FIXSTATUS=1" >> "$GITHUB_ENV"
             git config --global user.name "geraldfehringer"
             git config --global user.email "gf@zerohat.net"
-            #git add assets/csv/hifisetups.csv
+            git add assets/csv/hifisetups.csv
             #git add hifisetups.csv
             git commit -a -m 'new hifisetups.csv added'
             #git push
