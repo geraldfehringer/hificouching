@@ -28,7 +28,6 @@ jobs:
         run: |
           # sudo cpanm Text::CSV
           # sudo cpanm DateTime::Format::Excel
-          exit 0
           echo "Get Storage Blob CSV file"
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
           if [ -f assets/csv/hifisetups_tmp.csv ]; then
