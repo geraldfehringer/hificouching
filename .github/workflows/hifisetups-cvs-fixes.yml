@@ -29,7 +29,7 @@ jobs:
           # sudo cpanm Text::CSV
           # sudo cpanm DateTime::Format::Excel
           echo "Get Storage Blob CSV file"
-          mkdir assets/csv/
+          mkdir -p assets/csv/
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
           ls -la assets/csv/
           exit 0
