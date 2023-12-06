@@ -14,9 +14,6 @@ jobs:
     name: Trigger CSV Fix for HifiSetups
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          path: main
       - name: Install-with-cpanm
         uses: perl-actions/install-with-cpanm@stable
         with:
@@ -24,8 +21,8 @@ jobs:
           install: |
             Text::CSV
             DateTime::Format::Excel
-      - name: Fix CSV dates and more
-        run: |
+      - uses: actions/checkout@v4
+      - run: |
           # sudo cpanm Text::CSV
           # sudo cpanm DateTime::Format::Excel
           echo "Get Storage Blob CSV file"
@@ -45,16 +42,10 @@ jobs:
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
            echo "### add data from csv to new hifisetups.csv"
            cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
-           cat assets/csv/hifisetups.csv
            echo "FIXSTATUS=1" >> "$GITHUB_ENV"
            git config --global user.name "geraldfehringer"
            git config --global user.email "gf@zerohat.net"
            git add assets/csv/hifisetups.csv
            git commit -m 'new hifisetups.csv added'
+           git push
           fi
-      - name: Push changes
-        if: env.FIXSTATUS == '1'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
