@@ -17,13 +17,13 @@ jobs:
       - uses: actions/checkout@v4
         with:
           path: main
-      #- name: Install-with-cpanm
-      #  uses: perl-actions/install-with-cpanm@stable
-      #  with:
-      #    sudo: true
-      #    install: |
-      #      Text::CSV
-      #      DateTime::Format::Excel
+      - name: Install-with-cpanm
+        uses: perl-actions/install-with-cpanm@stable
+        with:
+          sudo: true
+          install: |
+            Text::CSV
+            DateTime::Format::Excel
       - name: Fix CSV dates and more
         run: |
           # sudo cpanm Text::CSV
@@ -31,8 +31,6 @@ jobs:
           echo "Get Storage Blob CSV file"
           mkdir -p assets/csv/
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
-          ls -la assets/csv/
-          exit 0
           if [ -f "assets/csv/hifisetups_tmp.csv" ]; then
            echo "### cut 2 columns"
            cat assets/csv/hifisetups_tmp.csv | cut -d"," -f3-20 >assets/csv/hifisetups_tmp2.csv
