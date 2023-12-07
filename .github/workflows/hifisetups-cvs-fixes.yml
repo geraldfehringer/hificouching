@@ -42,7 +42,9 @@ jobs:
              rm -f assets/csv/hifisetups.csv
              ls -la assets/csv/
            fi
-           cd 
+           touch assets/csv/hifisetups.csv
+           echo "### hifisetups.csv touched:"
+           ls -la assets/csv/
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
            echo "### add data from csv to new hifisetups.csv"
            cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
