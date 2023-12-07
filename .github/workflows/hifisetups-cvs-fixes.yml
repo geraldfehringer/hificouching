@@ -54,10 +54,9 @@ jobs:
            rm -f assets/csv/hifisetups_tmp2.csv
            echo "##new CVS: "
            ls -la assets/csv/hifisetups.csv
-           echo "FIXSTATUS=1" >> "$GITHUB_ENV"
            git config --global user.name "geraldfehringer"
            git config --global user.email "gf@zerohat.net"
-           git add .
-           git commit -m 'new hifisetups.csv added'
-           git push --force -u origin main
+           git add assets/csv/hifisetups.csv
+           git commit -a -m 'new hifisetups.csv added'
+           git push
           fi
