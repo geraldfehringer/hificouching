@@ -44,6 +44,7 @@ jobs:
              git rm assets/csv/hifisetups.csv
              git commit -m 'delete old hifisetups.csv'
              git push
+             git pull
            fi
            touch assets/csv/hifisetups.csv
            echo "### hifisetups.csv touched:"
@@ -59,5 +60,5 @@ jobs:
            ls -la assets/csv/hifisetups.csv
            git add assets/csv/hifisetups.csv
            git commit -m 'new hifisetups.csv added'
-           git push -f origin fix-build:main
+           git push -f
           fi
