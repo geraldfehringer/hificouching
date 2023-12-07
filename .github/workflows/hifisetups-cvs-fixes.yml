@@ -26,10 +26,9 @@ jobs:
           # sudo cpanm Text::CSV
           # sudo cpanm DateTime::Format::Excel
           echo "Get Storage Blob CSV file"
-          if [ -d "assets/csv/" ]; then
-            mkdir -p assets/csv/
-          fi
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
+          echo "### new file:hifisetups_tmp.csv"
+          ls -la assets/csv/
           if [ -f "assets/csv/hifisetups_tmp.csv" ]; then
            echo "### cut 2 columns"
            cat assets/csv/hifisetups_tmp.csv | cut -d"," -f3-20 >assets/csv/hifisetups_tmp2.csv
@@ -49,7 +48,6 @@ jobs:
            echo "FIXSTATUS=1" >> "$GITHUB_ENV"
            git config --global user.name "geraldfehringer"
            git config --global user.email "gf@zerohat.net"
-           #mv hifisetups.csv assets/csv/hifisetups.csv
            git add .
            git commit -m 'new hifisetups.csv added'
            git push --force -u origin main
