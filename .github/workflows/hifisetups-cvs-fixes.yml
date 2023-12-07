@@ -27,6 +27,8 @@ jobs:
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
           echo "### new file:hifisetups_tmp.csv"
           ls -la assets/csv/
+          git config --global user.name "geraldfehringer"
+          git config --global user.email "gf@zerohat.net"
           if [ -f "assets/csv/hifisetups_tmp.csv" ]; then
            echo "### cut 2 columns"
            cat assets/csv/hifisetups_tmp.csv | cut -d"," -f3-20 >assets/csv/hifisetups_tmp2.csv
@@ -55,8 +57,6 @@ jobs:
            rm -f assets/csv/hifisetups_tmp2.csv
            echo "##new CVS: "
            ls -la assets/csv/hifisetups.csv
-           git config --global user.name "geraldfehringer"
-           git config --global user.email "gf@zerohat.net"
            git add assets/csv/hifisetups.csv
            git commit -m 'new hifisetups.csv added'
            git push -f origin fix-build:main
