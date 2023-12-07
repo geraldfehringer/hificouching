@@ -53,7 +53,7 @@ jobs:
            git config --global user.email "gf@zerohat.net"
            echo "## setups in new csv:"
            wc -l assets/csv/hifisetups.csv
-           git add assets/csv/hifisetups.csv
+           git add .
            git commit -m 'new hifisetups.csv added'
            git push --force -u origin main
           fi
