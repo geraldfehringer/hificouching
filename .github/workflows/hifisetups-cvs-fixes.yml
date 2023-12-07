@@ -39,7 +39,9 @@ jobs:
            echo "### create NEW assets/csv/hifisetups.csv"
            if [ -f "assets/csv/hifisetups.csv" ] ; then
              echo "### DELETE old assets/csv/hifisetups.csv"
-             rm -f assets/csv/hifisetups.csv
+             git rm assets/csv/hifisetups.csv
+             git commit -m 'delete old hifisetups.csv'
+             git push
            fi
            touch assets/csv/hifisetups.csv
            echo "### hifisetups.csv touched:"
