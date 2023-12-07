@@ -29,6 +29,10 @@ jobs:
           if [ -d "assets/csv/" ]; then
             mkdir -p assets/csv/
           fi
+          if [ -f 'assets/csv/hifisetups.csv' ]; then
+            echo "## assets/csv/hifisetups.csv EXISTS, delete it first."
+            rm -f assets/csv/hifisetups.csv
+          fi
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
           if [ -f "assets/csv/hifisetups_tmp.csv" ]; then
            echo "### cut 2 columns"
@@ -47,7 +51,9 @@ jobs:
            echo "FIXSTATUS=1" >> "$GITHUB_ENV"
            git config --global user.name "geraldfehringer"
            git config --global user.email "gf@zerohat.net"
+           echo "## setups in new csv:"
+           wc -l assets/csv/hifisetups.csv
            git add assets/csv/hifisetups.csv
            git commit -m 'new hifisetups.csv added'
-           git push
+           git push --force -u origin main
           fi
