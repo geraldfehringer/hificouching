@@ -23,8 +23,6 @@ jobs:
             DateTime::Format::Excel
       - uses: actions/checkout@v4
       - run: |
-          # sudo cpanm Text::CSV
-          # sudo cpanm DateTime::Format::Excel
           echo "Get Storage Blob CSV file"
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
           echo "### new file:hifisetups_tmp.csv"
@@ -40,11 +38,15 @@ jobs:
            sed -i 's/"//g' hifisetups_fix.csv
            echo "### create NEW assets/csv/hifisetups.csv"
            if [ -f "assets/csv/hifisetups.csv" ] ; then
+             echo "### DELETE old assets/csv/hifisetups.csv"
              rm -f assets/csv/hifisetups.csv
            fi
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
            echo "### add data from csv to new hifisetups.csv"
            cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
+           rm -f hifisetups_fix.csv
+           rm -f assets/csv/hifisetups_tmp3.csv
+           rm -f assets/csv/hifisetups_tmp2.csv
            echo "FIXSTATUS=1" >> "$GITHUB_ENV"
            git config --global user.name "geraldfehringer"
            git config --global user.email "gf@zerohat.net"
