@@ -40,13 +40,18 @@ jobs:
            if [ -f "assets/csv/hifisetups.csv" ] ; then
              echo "### DELETE old assets/csv/hifisetups.csv"
              rm -f assets/csv/hifisetups.csv
+             ls -la assets/csv/
            fi
+           cd 
            head -1 assets/csv/hifisetups_tmp2.csv > assets/csv/hifisetups.csv
            echo "### add data from csv to new hifisetups.csv"
            cat hifisetups_fix.csv >> assets/csv/hifisetups.csv
            rm -f hifisetups_fix.csv
+           rm -f assets/csv/hifisetups_tmp.csv
            rm -f assets/csv/hifisetups_tmp3.csv
            rm -f assets/csv/hifisetups_tmp2.csv
+           echo "##new CVS: "
+           ls -la assets/csv/hifisetups.csv
            echo "FIXSTATUS=1" >> "$GITHUB_ENV"
            git config --global user.name "geraldfehringer"
            git config --global user.email "gf@zerohat.net"
