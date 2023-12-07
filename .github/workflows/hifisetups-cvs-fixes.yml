@@ -24,7 +24,7 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           echo "Get Storage Blob CSV file"
-          if [ -d "assets/csv/" ]; then
+          if [ ! -d "assets/csv/" ]; then
             mkdir -p assets/csv/
           fi
           azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
