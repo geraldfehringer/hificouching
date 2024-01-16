@@ -13,12 +13,11 @@ tags:
 
 Es gibt eine Vielzahl an sehr guten _Audiophilen-Betriebssystemen (OS)_, jedoch ich persönlich habe nach meinen Recherchen und [Ian Canada DIY DAC/Streamer-Projekt](https://github.com/iancanada/DocumentDownload), klar für **[GentooPlayer](https://gentooplayers.com/)** entschieden.
 
-<br>
-
 **<u>WICHTIGER HINWEIS:</u> Ich nutze KEINE traditionellen Musik-Server auf PC-Basis wie Antipodes, Aurender, Grimm MU1/2, oder Selbstbau X86-Architektur. Ist für mich völlig uinteressant, da ich große CD-Sammlung besitze und Red Book als adäquates Abspielformat liebe, zum Online Streaming selbst!** <br>Des weiteren verkomplizieren PC-Architekturen hochwertige Streamer und es muss viel Aufwand betrieben werden, dass wieder in den Griff zu bekommen (siehe Gaga-Preise von Antipodes, Grimm Mu2 & Konsorten)!
 
 NEIN, für ein optimiertes Streaming-OS benötigt man auch kein 64bit-Architektur, weder viel RAM oder High-End SSD-Festplatten! Dies wird leider immer fälschlich dargestellt! Dies ist nur dann erforderlich, der unbedingt alles in DSD abspielen/konvertieren möchte, oder zusätzlich Upsampling betreiben will. **Hat auf einem Streamer nix zu suchen, wieder Musikserver-Thematik aka Roon/HQPlayer/Audirvana Fraktion !!**
-<br>
+
+---
 
 <u>Hier eine Liste der meist-genutzten OS'e im DIY-Umfeld und meiner Gewichtung:</u>
 
@@ -35,16 +34,17 @@ NEIN, für ein optimiertes Streaming-OS benötigt man auch kein 64bit-Architektu
 
 
 
-> **HINWEIS:** Jeder kommerzielle DAC/Streamer Hersteller egal ob Lumin, Auralic und Konsorten, nutzen unter der _Haube_ entsprechende OpenSource Komponenten/Libraries. <br>
->Lasst Euch hier nicht von der (App)Oberfläche blenden ;-) - **will damit sagen: die obige Liste ist schon für High-End-Anwendungen gedacht und nicht nerdige Spielwiese!**
+> **HINWEIS:** Jeder kommerzielle DAC/Streamer Hersteller egal ob Lumin, Auralic und Konsorten, nutzen unter der _Haube_ entsprechende OpenSource Komponenten/Libraries. Lasst Euch hier nicht von der (App)Oberfläche blenden ;-) - **will damit sagen: die obige Liste ist schon für High-End-Anwendungen gedacht und nicht nerdige Spielwiese!**
+
+---
 
 # Voraussetzungen
 
-- **Gute Streamer-Plattform (aka Player)**
-  - Diese beiden DIY-Projekte sind die Aktivsten hierzu:
-    - (Mein persönlicher Favorit) Ian Canada,https://github.com/iancanada/DocumentDownload
-    - (Doede hat hier den Standard gesetzt!) DDDAC, https://www.dddac.com/
-      - Siehe hierzu auch den Vergleich mit absoluten High-End DACs (MSB, dcs), https://adaudio.wordpress.com/2022/11/01/how-good-is-the-dddac-a-comparison-with-dcs-bartok-mola-mola-tambaqui-and-msb-discrete-and-prestige/
+**Gute Streamer-Plattform (aka Player)**
+- Diese beiden DIY-Projekte sind die Aktivsten hierzu:
+  - (Mein persönlicher Favorit) Ian Canada,https://github.com/iancanada/DocumentDownload
+  - (Doede hat hier den Standard gesetzt!) DDDAC, https://www.dddac.com/
+    - Siehe hierzu auch den Vergleich mit absoluten High-End DACs (MSB, dcs ..), [AD Audio Link](https://adaudio.wordpress.com/2022/11/01/how-good-is-the-dddac-a-comparison-with-dcs-bartok-mola-mola-tambaqui-and-msb-discrete-and-prestige/)
 - **Guter Digital-Analog-Wandler (DAC oder auch ADC genannt)**
   - Für beste Qualität sollte DAC und Streamer in separaten Chassis sein. Ebenso getrennte Software für den Player (sog. Streamer) und DAC.
 - **Saubere LAN-Verkabelung & LAN-Switch**
@@ -52,13 +52,25 @@ NEIN, für ein optimiertes Streaming-OS benötigt man auch kein 64bit-Architektu
     - Schreibe nichts weiter dazu, wird irgendwann ein extra-Blog Artikel ;-)
   - Auch hier gilt wieder die alte HiFi-Weisheit: &nbsp; _**weniger ist mehr!**_
 
+---
 
 # Installation
 
+## Schritt 1:
+
+## Schritt 2:
+
+## Schritt 3:
+
+## Schritt 4:
+
+## Schritt 5:
+
+---
 
 # Online Streaming Empfehlung
 
-Hier gibt es nur noch den Kamfp zwischen Tidal und Qobuz.
+**Hier gibt es nur noch den Kamfp zwischen Tidal und Qobuz.**
 
 Ich persönlich nutze ausschließlich Qobuz, da Künstler mehr bezahlt bekommen, als bei Tidal. Mittlerweile haben beide sehr ähnlichen Bestand an Musiktiteln und HiRres bei Beiden Anbietern TOP!
 
