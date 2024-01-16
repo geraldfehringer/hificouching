@@ -1,6 +1,11 @@
 ---
-title: Gentooplayer Installation Guide
+title: Gentooplayer Installationsanleitung
 layout: blog
+post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+description: Alls zum Thema audiophiles-OS für den Selbstbau.
+tags:
+- hifi
+- diy
 ---
 
 # This is heading 1
