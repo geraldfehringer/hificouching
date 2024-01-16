@@ -1,20 +1,28 @@
 ---
 title: Gentooplayer Installationsanleitung
 layout: post
-post-image: "/assets/images/gerihifi-blog-banner.png"
-description: Alles zum Thema audiophiles-OS für den Selbstbau auf Basis von GentooPlayer.
+post-image: "/assets/images/blog-gentooplayer/gentooplayer-logo.png"
+description: Alles zum Thema audiophiles-OS für den Selbstbau, auf Basis von GentooPlayer.
 tags:
-- hifi
+- streaming
 - diy
 - german
 ---
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+![gerihifi-logo](/assets/images/gerihifi-blog-banner.png)
+
+# Hintergrund
+
+Es gibt eine Vielzahl an sehr guten _Audiophilen-Betriebssystemen (OS)_
+Test
+
+# Voraussetzungen
+
+xx
+
+# Installation
+
+xxx
 
 [This is a link](#)
 

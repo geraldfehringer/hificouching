@@ -1,6 +1,6 @@
 # WhatATheme
 markdown: kramdown
-site-keywords: HifiCouch, Audiophile
+site-keywords: HifiCouch, Audiophile, DIY
 
 title: HiFi Setups - Couchsurfing
 description: >- # this means to ignore newlines until "baseurl:"
@@ -8,11 +8,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hificouch.world" # the base hostname & protocol for your site, e.g. http://example.com
 
-author-name: 'Geri F.'
+author-name: "Geri F."
 author-image: "/assets/images/author.jpg"
+author-url: "https://www.linkedin.com/in/%F0%9F%9A%80-gerald-fehringer-376b84142/"
 
 site-image: "/assets/images/gerihifi-banner.png"
 heroimage: "/assets/images/gerihifi-banner.png"
+
+email: gf@zerohat.net
+github_username: geraldfehringer
 
 # SASS
 sass:
@@ -25,7 +29,7 @@ plugins:
 #  - jekyll-leaflet
   - jekyll-mermaid
   - jekyll-paginate
-  - jekyll-admin
+  #- jekyll-admin
   - jekyll-feed
   - jemoji
 
