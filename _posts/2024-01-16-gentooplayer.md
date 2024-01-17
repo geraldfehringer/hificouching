@@ -136,7 +136,7 @@ PORT     STATE SERVICE
 Nmap done: 256 IP addresses (256 hosts up) scanned in 8.03 seconds
 ```
 
-**Windows: [Nmap+Zenmap](https://nmap.org/download#windows - Latest stable release self-installer nutzen, installieren und Scan durchführen** \
+**Windows: [Nmap+Zenmap](https://nmap.org/download#windows) - Latest stable release self-installer nutzen, installieren und Scan durchführen** \
 -- Windows CMD (Eingabeaufforderung) & danach `ipconfig` aufrufen, um aktuelles Subnetz zu bekommen \
 -- Zenmap in Windows Programme aufrufen \
 -- Scan ausführen wie oben, hier in meinem Home-LAN
