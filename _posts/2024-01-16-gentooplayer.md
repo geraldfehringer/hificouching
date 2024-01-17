@@ -88,7 +88,7 @@ Nutzung eines vernünftigen SD-Card Flashing-Tools \
 
 ### Schritt 3: Boot
 
-Endgerät mit der neu-bespielten SD-Karte und dem GentooPlayer-OS booten.
+Endgerät mit der neu-bespielten SD-Karte und dem GentooPlayer-OS booten. \
 Sicherstellen, dass Streamer korrekt mit LAN/Netzwerkkabel verbunden ist.
 
 Sollte später WLAN genutzt werden, so kann dies danach der initialen Konfiguration durchgeführt werden. Aber für die initiale Konfiguration ist logischerweise eine LAN-Verbindung erforderlich.
@@ -97,7 +97,7 @@ Sollte später WLAN genutzt werden, so kann dies danach der initialen Konfigurat
 
 # Konfiguration
 
-**Hier möchte ich meine Erfahrung teilen, da GentooPlayer für den Neueinsteiger in dem Bereich schon einiges abfordert - nicht unterkriegen lassen ;-)**
+**Hier möchte ich meine Erfahrung teilen, da GentooPlayer für den Neueinsteiger in dem Bereich schon einiges abfordert - nicht unterkriegen lassen ;-)** \
 **Natürlich sollte das nur als GUIDELINE gesehen werden und Ihr müsst entsprechend für Eure Umgebung die richtigen Parameter auswählen.**
 
 **Ich nutze auch die zusätzliche €39-Option für einen optimierten CLANG-LTO Kernel. Ist nicht zwingend notwendig, außer man will wieder das Letzte aus seinem Equipment rausziehen ;-)**
@@ -244,12 +244,11 @@ Ihr könnt diese Konfiguration über 2 Möglichkeiten durchführen:
 
 -- Über die jeweilige Player/Audio Settings selbst hier:
 
-**HINWEIS: es gibt in jedem Bereich immer einen "unscheinbaren" Link der heisst "For more info click here". Darüber kommt man auf die Managementoberfläche der jeweiligen Applikation, wenn diese
-direkt über Browser aufrufbar ist! UNBEDINGT NÄHER ANSEHEN, darüber ist viel Finetuning möglich, oder auch zusätzliche Infos zu den Parametern!**
+**HINWEIS: es gibt in jedem Bereich immer einen "unscheinbaren" Link der heisst "For more info click here". Darüber kommt man auf die Managementoberfläche der jeweiligen Applikation, wenn diese direkt über Browser aufrufbar ist! UNBEDINGT NÄHER ANSEHEN, darüber ist viel Fine-Tuning möglich, oder auch zusätzliche Infos zu den Parametern!**
 
 ![Software Config](/assets/images/blog-gentooplayer/software-config.png)
 
-**Hier ein Beispiel wie man für BubbleUpnp (DLNA) spezielle Konfiguration anpasst:**
+**Hier ein Beispiel wie man für BubbleUpnp (DLNA) spezielle Konfiguration anpasst:** \
 Diese läuft auf TCP-Port: 58050, daher rufe ich den Browser auf, via: http://192.168.178.200:58050/
 
 ..oder MPDP:
@@ -266,9 +265,14 @@ Diese läuft auf TCP-Port: 58050, daher rufe ich den Browser auf, via: http://19
 ![Kernel](/assets/images/blog-gentooplayer/kernel.png)
 
 
+## FUNKTIONSTEST
+
+-- Jetzt Eure UPnP/DLNA-/Airplay-/Spotify-APP (Android, iOS) der Wahl, siehe weiter unten meine Beschreibung, starten und Ihr solltet GentooPlayer finden \
+-- Natürlich muss Euer Smartphone/Tablet/Laptop im selben (W)LAN wie Euer GentooPlayer sein, da ja enstrechender UPnP/DLNA Broadcast vom Gerät gesendet wird
+
 ### Backup erstellen
 
-**HINWEIS: dafür muss ein USB-Stick dran sein, da auf die lokale SD-Karte kein Backup geschrieben werden kann!**
+**HINWEIS: dafür muss ein USB-Stick dran sein, da auf die lokale SD-Karte kein Backup geschrieben werden kann!** \
 **Nachdem man alles konfiguriert hat, unbedingt Backup der Settings durchführen!**
 
 -- Unter `13. Backup/Restore/Install` > richtigen USB-Disk/Stick auswählen und Backup erstellen \
@@ -276,7 +280,7 @@ Diese läuft auf TCP-Port: 58050, daher rufe ich den Browser auf, via: http://19
 
 ### FINALE GRANDE: Ramsystem aktivieren
 
-**Jetzt übertragen wir das LIVE-Systen in den RAM und somit absolut low-latency & optimale OS-Zustand!**
+**Jetzt übertragen wir das LIVE-Systen in den RAM und somit absolut low-latency & optimale OS-Zustand!** \
 **HINWEIS: Ich persönlich nutze immer Mode 5 oder Mode 6, da ich in meinem Raspi 8GB RAM habe !! Ansonsten Mode 4 auswählen !!**
 
 -- Unter `14. Ramsystem` auf `01. Set Ramsystem Mode` klicken, dauert ~5-8min
@@ -295,6 +299,8 @@ Diese läuft auf TCP-Port: 58050, daher rufe ich den Browser auf, via: http://19
 ---
 
 # Streaming Player App
+
+**Nachdem GentooPlayer alles soweit eingestellt
 
 Hier gibt es eine Vielzahl von UPnp, Airplay und Roon-basierten Apps. Ich persönlich nutze ausschließlich:
 
