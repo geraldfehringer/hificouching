@@ -265,7 +265,7 @@ Diese läuft auf TCP-Port: 58050, daher rufe ich den Browser auf, via: http://19
 ![Kernel](/assets/images/blog-gentooplayer/kernel.png)
 
 
-## FUNKTIONSTEST
+### FUNKTIONSTEST
 
 -- Jetzt Eure UPnP/DLNA-/Airplay-/Spotify-APP (Android, iOS) der Wahl, siehe weiter unten meine Beschreibung, starten und Ihr solltet GentooPlayer finden \
 -- Natürlich muss Euer Smartphone/Tablet/Laptop im selben (W)LAN wie Euer GentooPlayer sein, da ja enstrechender UPnP/DLNA Broadcast vom Gerät gesendet wird
