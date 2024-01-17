@@ -17,6 +17,7 @@ tags:
 Es gibt eine Vielzahl an sehr guten _Audiophilen-Betriebssystemen (OS)_, jedoch ich persönlich habe nach meinen Recherchen und [Ian Canada DIY DAC/Streamer-Projekt](https://github.com/iancanada/DocumentDownload), klar für **[GentooPlayer](https://gentooplayers.com/)** entschieden.
 
 **<u>WICHTIGER HINWEIS:</u> Ich nutze KEINE traditionellen Musik-Server auf PC-Basis wie Antipodes, Aurender, Grimm MU1/2, oder Selbstbau X86-Architektur. Ist für mich völlig uninteressant, da ich große CD-Sammlung besitze und Red Book als adäquates Abspielformat liebe, zum Online Streaming selbst! Weder bin ich Fan von Roon oder dass ich alles im DSD-Format abspielen muss. Darüber hinaus können heute Playlists Offline verfügbar gemacht, als auch Alben direkt als Download lokal abgespeichert werden. Des weiteren verkomplizieren PC-Architekturen hochwertige Streamer und es muss viel Aufwand betrieben werden, dass wieder in den Griff zu bekommen.**
+
 **NEIN, für ein optimiertes Streaming-OS benötigt man auch kein 64bit-Architektur, weder viel RAM oder High-End SSD-Festplatten! Dies wird leider immer fälschlich dargestellt! Dies ist nur dann erforderlich, der unbedingt alles in DSD abspielen/konvertieren möchte, oder zusätzlich Upsampling betreiben will. Hat auf einem Streamer nix zu suchen, wieder Musikserver-Thematik für die Roon/HQPlayer/Audirvana-Fraktion.**
 
 ---
@@ -47,15 +48,15 @@ Diese beiden DIY-Projekte sind die Aktivsten hierzu: \
 -- Siehe hierzu auch den Vergleich mit absoluten High-End DACs (MSB, dcs ..) [AD Audio Link](https://adaudio.wordpress.com/2022/11/01/how-good-is-the-dddac-a-comparison-with-dcs-bartok-mola-mola-tambaqui-and-msb-discrete-and-prestige/)
 
 **Guter Digital-Analog-Wandler (DAC oder auch ADC genannt):** \
-Für beste Qualität sollte DAC und Streamer in separaten Chassis sein. Ebenso getrennte Software für den Player (sog. Streamer) und DAC. \
+Für beste Qualität sollte DAC und Streamer in separaten Chassis sein. Ebenso getrennte Software für den Player (sog. Streamer) und DAC.
 
 **Saubere LAN-Verkabelung & LAN-Switch:** \
--- WLAN und Bluetooth sind für mich bei einem High-End Streamer NO-GO \
--- Schreibe nichts weiter dazu, wird irgendwann ein extra-Blog Artikel ;-) \
--- Auch hier gilt wieder die alte HiFi-Weisheit: &nbsp; <u>**weniger ist mehr!**</u>
+-- WLAN und Bluetooth sind für mich bei einem High-End Streamer ein **NO-GO** \
+-- Schreibe nichts weiter dazu, wird irgendwann ein extra-Blog Artikel werden ;-) \
+-- Auch hier gilt wieder die alte HiFi-Weisheit: &nbsp; **<u>weniger ist mehr!</u>**
 
 **Highspeed SD-Card mit mindestens 32GB Speicher** \
--- Ich nutze: Samsung Pro Ultimate / Pro Plus und SanDisk Extreme Pro \
+-- Ich nutze: Samsung Pro Ultimate / Pro Plus und SanDisk Extreme Pro
 
 **SD-Karten Lesegerät** \
 -- Entweder ein (alter) Laptop hat noch einen SD-Leser, ansonsten reicht hier ein Standard USB-Reader (3-in-1), wie Belkell für ~€9 bei Amazon.
@@ -76,7 +77,7 @@ Hier meine kompakte Anleitung für den Raspi, ansonsten auch gerne die GentooPla
 ### Schritt 1: Download
 
 Download des richtigen GentooPlayer Images \
--- https://gentooplayers.com/Download/ \
+-- [https://gentooplayers.com/Download/](https://gentooplayers.com/Download/) \
 -- In meinem Falle: **Raspberry 4B**
 
 ### Schritt 2: Flashing
@@ -96,10 +97,44 @@ Sollte später WLAN genutzt werden, so kann dies danach der initialen Konfigurat
 
 # Konfiguration
 
-Hier möchte ich meine Erfahrung teilen, da GentooPlayer für den Neueinsteiger in dem Bereich schon einiges abfordert - nicht unterkriegen lassen ;-)
+**Hier möchte ich meine Erfahrung teilen, da GentooPlayer für den Neueinsteiger in dem Bereich schon einiges abfordert - nicht unterkriegen lassen ;-)**
 
 ### Initiale Basiskonfiguration
 
+Nachdem der Streamer gebootet hat, kann die Konfiguration über die Weboberfläche stattfinden. Hierzu muss aber die IP-Adresse bekannt sein (wie alle wird DHCP genutzt für die dynamische IP-Adressvergabe in Eurem Netzwerk). Die Managementoberfläche ist hier im Webbrowser abzurufen:
+
+**http://x.x.x.x:5000**
+
+**WIE finde ich meine IP-Adresse?**
+
+-- Hier einige Beispiele in meinem Home-Netzwerk
+
+**Linux (Bsp. [Windows WSL](https://learn.microsoft.com/de-de/windows/wsl/install)): nmap installieren und Scan durchführen** \
+```sh
+# Um Subnetz zu sehen
+sudo show ip addr
+
+# nmap installieren (Debian/Ubuntu)
+sudo apt install nmap
+sudo nmap --open -Pn -p 5000 192.168.178.0/24
+
+#Ergebnis
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-01-17 12:01 CET
+Nmap scan report for 192-168-178-200.fritz.box (192.168.178.200)
+Host is up (0.00036s latency).
+
+PORT     STATE SERVICE
+5000/tcp open  upnp
+
+Nmap done: 256 IP addresses (256 hosts up) scanned in 8.03 seconds
+```
+
+**Windows: [Nmap+Zenmap](https://nmap.org/download#windows - Latest stable release self-installer nutzen) installieren und Scan durchführen** \
+-- Windows CMD (Eingapeaufforderung aufrufen) & danach `ipconfig` aufrufen, um aktuelles Subnetz zu bekommen
+-- Zenmap in Windows Programme aufrufen
+-- Scan ausführen wie oben, hier in meinem Home-LAN
+
+![Zenmap GUI](/assets/images/blog-gentooplayer/zenmap.png)
 
 ---
 
@@ -107,7 +142,8 @@ Hier möchte ich meine Erfahrung teilen, da GentooPlayer für den Neueinsteiger 
 
 **Hier gibt es eigentlich nur Tidal und Qobuz für den <u>audiophilen</u> Genuss. Auch wenn viele der Meinung sind, YT-Musik oder Apple Musik spielen in der selben Liga. Jedoch wird hier eine ganz andere Zielgruppe adressiert und die Anbindung x-beliebiger Endgeräte, nicht nur optimierte HiFi-Streamer!**
 
-**Ich persönlich nutze ausschließlich Qobuz, da Künstler mehr bezahlt bekommen als bei Tidal. Mittlerweile haben beide sehr ähnlichen Bestand an Musiktiteln und Hi-Res ist bei Beiden Anbietern, qualitativ gleichwertig!**
+**Ich persönlich nutze ausschließlich Qobuz, da Künstler mehr bezahlt bekommen als bei Tidal.**  
+**Mittlerweile haben beide sehr ähnlichen Bestand an Musiktiteln und Hi-Res ist bei Beiden Anbietern, qualitativ gleichwertig!**
 
 Spotify nutze ich wegen Hörbücher und Podcast, da sowohl Tidal als auch Qobuz keine Integration hierfür haben und deren Hörbücher Selektion überschaubar sind. Natürlich kann man bei GentooPlayer auch direkt Podcast Anbindung machen, da ich aber Spotify auch auf dem Smartphone nutze, sammle ich hier meine Podcast-/Hörbücher Sammlung.
 
