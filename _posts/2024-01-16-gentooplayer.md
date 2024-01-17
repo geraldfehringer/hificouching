@@ -98,18 +98,25 @@ Sollte später WLAN genutzt werden, so kann dies danach der initialen Konfigurat
 # Konfiguration
 
 **Hier möchte ich meine Erfahrung teilen, da GentooPlayer für den Neueinsteiger in dem Bereich schon einiges abfordert - nicht unterkriegen lassen ;-)**
+**Natürlich sollte das nur als GUIDELINE gesehen werden und Ihr müsst entsprechend für Eure Umgebung die richtigen Parameter auswählen.**
 
-### Initiale Basiskonfiguration
+**Ich nutze auch die zusätzliche €39-Option für einen optimierten CLANG-LTO Kernel. Ist nicht zwingend notwendig, außer man will wieder das Letzte aus seinem Equipment rausziehen ;-)**
 
-Nachdem der Streamer gebootet hat, kann die Konfiguration über die Weboberfläche stattfinden. Hierzu muss aber die IP-Adresse bekannt sein (wie alle wird DHCP genutzt für die dynamische IP-Adressvergabe in Eurem Netzwerk). Die Managementoberfläche ist hier im Webbrowser abzurufen:
+### Initiale Weboberfläche
+
+Nachdem der Streamer gebootet hat, kann die Konfiguration über die Weboberfläche stattfinden. Hierzu muss aber die IP-Adresse bekannt sein (wie alle wird DHCP genutzt für die dynamische IP-Adressvergabe in Eurem Netzwerk). 
+
+Die Managementoberfläche ist hier im Webbrowser abzurufen:
 
 **http://x.x.x.x:5000**
 
+<br>
+
 **WIE finde ich meine IP-Adresse?**
 
--- Hier einige Beispiele in meinem Home-Netzwerk
+-- Hier einige Beispiele in meinem Home-Netzwerk:
 
-**Linux (Bsp. [Windows WSL](https://learn.microsoft.com/de-de/windows/wsl/install)): nmap installieren und Scan durchführen** \
+**Linux (Bsp. [Windows WSL](https://learn.microsoft.com/de-de/windows/wsl/install)): nmap installieren und Scan durchführen**
 ```sh
 # Um Subnetz zu sehen
 sudo show ip addr
@@ -129,12 +136,64 @@ PORT     STATE SERVICE
 Nmap done: 256 IP addresses (256 hosts up) scanned in 8.03 seconds
 ```
 
-**Windows: [Nmap+Zenmap](https://nmap.org/download#windows - Latest stable release self-installer nutzen) installieren und Scan durchführen** \
--- Windows CMD (Eingapeaufforderung aufrufen) & danach `ipconfig` aufrufen, um aktuelles Subnetz zu bekommen
+**Windows: [Nmap+Zenmap](https://nmap.org/download#windows - Latest stable release self-installer nutzen, installieren und Scan durchführen** \
+-- Windows CMD (Eingabeaufforderung) & danach `ipconfig` aufrufen, um aktuelles Subnetz zu bekommen
 -- Zenmap in Windows Programme aufrufen
 -- Scan ausführen wie oben, hier in meinem Home-LAN
 
 ![Zenmap GUI](/assets/images/blog-gentooplayer/zenmap.png)
+
+>**HINWEIS: Zenmap Scans sind generell sehr hilfreich, um zu sehen was alles so in Eurem Home-LAN aktiv ist! Hierzu am Besten in Zenmap das Profil "Quick Scan Plus" auswählen und staunen was so rumdümpelt :-)**
+
+**Somit ist in meinem LAN der GentooPlayer Streamer wie folgt im Webbrowser aufzurufen:**
+
+**http://192.168.178.200:5000**
+
+..und die simple Weboberfläche sollte dargestellt werden.
+
+### Aktivierung Trial-Key
+
+-- Auf `00. Register` klicken > `00. GentooPlayer PC-key` klicken und danach auf "EXECUTE"
+-- Diesen Schhlüssel **vollständig** an Fillipo / gentooplayers@gmail.com senden
+-- Danach schickt er Euch einen Schlüssel, der *zwingend* benötigt wird für die weitere Konfiguration
+-- Sobald Ihr den Schlüssel per Mail bekommen habt:
+-- Wieder zu `00. Register` wechseln > `01. GentooPlayer Key` > key und username schreibt er Euch in die Email, exakt so eintragen und wieder auf "EXECUTE" klicken
+-- Danach Schlüssel/Aktivierung prüfen:
+-- `00. Register` wechseln > `02. GentooPlayer Key-Info` und auf "EXECUTE" klicken
+-- Danach werden alle Aktivierungsdetails angezeigt
+
+### Basiskonfiguration: Systemupdates zuerst einspielen 
+
+**HINWWEIS: Updates & Kernel-Change können nur eingespielt werden, wenn das System noch NICHT im RAM läuft. Also später wenn wir alles sauber im RAM laufen haben lassen, muss immer zuerst das RAM-System disabled werden > Reboot und dann die Schritte ausgeführt werden!**
+
+-- Auf `12. Update/Install/Remove` klicken > `0. GP-Update` und auf "EXECUTE" klicken, dass dauert <1min
+-- Danach erneu unter `12. Update/Install/Remove` auf `1. GP-Version Update`  klicken und schauen ob neue Version vorhanden (Current > Update)
+-- Wenn Update da ist, entsprechend auswählen und auf "EXECUTE", dies wird je nach System +10Minuten dauern, da hier auch Kernel + Pakete aktualisiert werden
+-- Nach erfolgtem Systemupdate, wird nun Firmware aktualisiert
+-- unter `12. Update/Install/Remove` auf `Firmware update`  und auf "EXECUTE" klicken, dass dauert ~2min
+-- Danach Reboot durchführen: unter `02. Reboot system` und auf "EXECUTE" klicken, dass dauert ~2-4min, je nachdem welches System Ihr nutzt
+
+### DAC (Digtial-Analog-Wandler) konfigurieren
+
+**HINWEIS: natürlich müsst Ihr vorher Euren DAC sauber an den Streamer angeschlossen haben, Bsp. SPDIF/BNC/AES-EBU, USB oder HDMI/I2s.**
+**Wer den Ian Canada Streamer & DAC nutzt UNBEDINGT: `i-sabre-q2m and I2S Generic` auswählen!**
+
+Die unterstützen DAC's'findet Ihr immer hierrüber:
+
+![DAC List](/assets/images/blog-gentooplayer/dac-list.png)
+
+---
+
+# Advanced Config Hinweise
+
+**Wie Ihr mit der Zeit sehen werdet, bietet GentooPlayer extrem professionelle Features & zusätzliche Software zum Nachinstallieren.**
+**Hier einige, die ich selber nicht nutze, aber sicherliche nennenswert sind:**
+
+-- [CamillaDSP](https://henquist.github.io/), für professionelle Raumkorrektur / aktive Crossover-Applikationen
+-- Müsst Ihr über die Managementoberfläche hier installieren: `12. Update/Install/Remove` > Install/Remove Camilla
+
+-- [MinimServer](https://minimserver.com/features.html), sehr umfangreicher UPnP Server und dass ist die zugehörige Software
+-- Müsst Ihr über die Managementoberfläche hier installieren: `12. Update/Install/Remove` > Update/install MinimServer + Update/install MinimWatch
 
 ---
 
