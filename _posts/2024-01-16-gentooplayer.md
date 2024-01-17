@@ -8,8 +8,8 @@ tags:
 - streaming
 - diy
 - german
-- nonOpenAI
-- Hirnschmalz
+- nonpenai
+- hirnschmalz
 ---
 
 {% toc %}
@@ -44,19 +44,19 @@ Es gibt eine Vielzahl an sehr guten _Audiophilen-Betriebssystemen (OS)_, jedoch 
 
 # Voraussetzungen
 
-**Gute Streamer-Plattform (aka Player)**
+**Gute Streamer-Plattform (aka Player)** \
 Diese beiden DIY-Projekte sind die Aktivsten hierzu:
 - Mein persönlicher Favorit - Ian Canada, https://github.com/iancanada/DocumentDownload
 - Doede hat hier den DIY-Standard gesetzt - DDDAC, https://www.dddac.com/
-- Siehe hierzu auch den Vergleich mit absoluten High-End DACs (MSB, dcs ..), [AD Audio Link](https://adaudio.wordpress.com/2022/11/01/how-good-is-the-dddac-a-comparison-with-dcs-bartok-mola-mola-tambaqui-and-msb-discrete-and-prestige/)
+- Siehe hierzu auch den Vergleich mit absoluten High-End DACs (MSB, dcs ..) [AD Audio Link](https://adaudio.wordpress.com/2022/11/01/how-good-is-the-dddac-a-comparison-with-dcs-bartok-mola-mola-tambaqui-and-msb-discrete-and-prestige/)
 
-**Guter Digital-Analog-Wandler (DAC oder auch ADC genannt):**
+**Guter Digital-Analog-Wandler (DAC oder auch ADC genannt):** \
 Für beste Qualität sollte DAC und Streamer in separaten Chassis sein. Ebenso getrennte Software für den Player (sog. Streamer) und DAC.
 
 **Saubere LAN-Verkabelung & LAN-Switch:**
 - WLAN und Bluetooth sind für mich bei einem High-End Streamer NO-GO
 - Schreibe nichts weiter dazu, wird irgendwann ein extra-Blog Artikel ;-)
-- Auch hier gilt wieder die alte HiFi-Weisheit: &nbsp; <u>_**weniger ist mehr!**_</u>
+- Auch hier gilt wieder die alte HiFi-Weisheit: &nbsp; <u>**weniger ist mehr!**</u>
 
 **Highspeed SD-Card mit mindestens 32GB Speicher**
 - Ich nutze: Samsung Pro Ultimate / Pro Plus und SanDisk Extreme Pro
@@ -77,19 +77,19 @@ Hier meine kompakte Anleitung für den Raspi, ansonsten auch gerne die GentooPla
 
 **HINWEIS: Ich nutze als Raspi-Plattform das Model 4B mit 8GB RAM. Die aktuelle 5B wurde komplett überarbeitet und ist für einen reinen Streamer nicht empfehlenswert. Hier sind deutlich mehr Anpassungen zur Isolierung von elektronischen Streuungen von der Platine, als auch zwingend ein guter Lüfter erforderlich. Darüber hinaus kriegt man die 4B-Modelle nun zu einem günstigeren Preis ;-)**
 
-## Schritt 1: Download
+### Schritt 1: Download
 
 Download des richtigen GentooPlayer Images
 - https://gentooplayers.com/Download/
 - In meinem Falle: **Raspberry 4B**
 
-## Schritt 2: Flashing
+### Schritt 2: Flashing
 
 Nutzung eines vernünftigen SD-Card Flashing-Tools
 - Ich nutze hier im Windows-Umfeld immer das kostenfreie [balena Etcher](https://etcher.balena.io/)
 - **!! Darauf achten, das richtige OS-Image und der richtige USB-Kartenleser (USB-Platte) ausgewählt wird ;-) !!**
 
-## Schritt 3: Boot
+### Schritt 3: Boot
 
 Endgerät mit der neu-bespielten SD-Karte und dem GentooPlayer-OS booten.
 Sicherstellen, dass Streamer korrekt mit LAN/Netzwerkkabel verbunden ist.
@@ -100,7 +100,7 @@ Sollte später WLAN genutzt werden, so kann dies danach der initialen Konfigurat
 
 # Konfiguration
 
-Hier möchte ich meine Erfahrung teilen, da hier GentooPlayer für den Neueinsteiger in dem Bereich schon einiges abfordert - nicht unterkriegen lassen ;-)
+Hier möchte ich meine Erfahrung teilen, da GentooPlayer für den Neueinsteiger in dem Bereich schon einiges abfordert - nicht unterkriegen lassen ;-)
 
 ## Initiale Basiskonfiguration
 
@@ -113,9 +113,7 @@ Hier möchte ich meine Erfahrung teilen, da hier GentooPlayer für den Neueinste
 
 **Ich persönlich nutze ausschließlich Qobuz, da Künstler mehr bezahlt bekommen als bei Tidal. Mittlerweile haben beide sehr ähnlichen Bestand an Musiktiteln und Hi-Res ist bei Beiden Anbietern, qualitativ gleichwertig!**
 
-Spotify nutze ich wegen Hörbücher und Podcast, da sowohl Tidal als auch Qobuz keine Integration hierfür haben und deren Hörbücher Selektion überschaubar sind.
-
-Natürlich kann man bei GentooPlayer auch direkt Podcast Anbindung machen, da ich aber Spotify auch auf dem Smartphone nutze, sammle ich hier meine Podcast-/Hörbücher Sammlung.
+Spotify nutze ich wegen Hörbücher und Podcast, da sowohl Tidal als auch Qobuz keine Integration hierfür haben und deren Hörbücher Selektion überschaubar sind. Natürlich kann man bei GentooPlayer auch direkt Podcast Anbindung machen, da ich aber Spotify auch auf dem Smartphone nutze, sammle ich hier meine Podcast-/Hörbücher Sammlung.
 
 >**Hier meine Qobuz Playlists  - spezielle Playlisten für HiFi-Gear Testing:**
 >- Vocals/Live/Mitten-Höhen: [https://open.qobuz.com/playlist/14153199](https://open.qobuz.com/playlist/14153199)
