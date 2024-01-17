@@ -8,6 +8,8 @@ tags:
 - streaming
 - diy
 - german
+- nonOpenAI
+- Hirnschmalz
 ---
 
 {% toc %}
@@ -18,9 +20,8 @@ tags:
 
 Es gibt eine Vielzahl an sehr guten _Audiophilen-Betriebssystemen (OS)_, jedoch ich persönlich habe nach meinen Recherchen und [Ian Canada DIY DAC/Streamer-Projekt](https://github.com/iancanada/DocumentDownload), klar für **[GentooPlayer](https://gentooplayers.com/)** entschieden.
 
-**<u>WICHTIGER HINWEIS:</u> Ich nutze KEINE traditionellen Musik-Server auf PC-Basis wie Antipodes, Aurender, Grimm MU1/2, oder Selbstbau X86-Architektur. Ist für mich völlig uninteressant, da ich große CD-Sammlung besitze und Red Book als adäquates Abspielformat liebe, zum Online Streaming selbst! Weder bin ich Fan von Roon oder dass ich alles im DSD-Format abspielen muß. Darüber hinaus können heute Playlists Offline verfügbar gemacht, als auch Alben direkt als Download lokal abgespeichert werden.** <br>Des weiteren verkomplizieren PC-Architekturen hochwertige Streamer und es muss viel Aufwand betrieben werden, dass wieder in den Griff zu bekommen.
-
-NEIN, für ein optimiertes Streaming-OS benötigt man auch kein 64bit-Architektur, weder viel RAM oder High-End SSD-Festplatten! Dies wird leider immer fälschlich dargestellt! Dies ist nur dann erforderlich, der unbedingt alles in DSD abspielen/konvertieren möchte, oder zusätzlich Upsampling betreiben will. **Hat auf einem Streamer nix zu suchen, wieder Musikserver-Thematik für die Roon/HQPlayer/Audirvana-Fraktion.**
+**<u>WICHTIGER HINWEIS:</u> Ich nutze KEINE traditionellen Musik-Server auf PC-Basis wie Antipodes, Aurender, Grimm MU1/2, oder Selbstbau X86-Architektur. Ist für mich völlig uninteressant, da ich große CD-Sammlung besitze und Red Book als adäquates Abspielformat liebe, zum Online Streaming selbst! Weder bin ich Fan von Roon oder dass ich alles im DSD-Format abspielen muss. Darüber hinaus können heute Playlists Offline verfügbar gemacht, als auch Alben direkt als Download lokal abgespeichert werden. Des weiteren verkomplizieren PC-Architekturen hochwertige Streamer und es muss viel Aufwand betrieben werden, dass wieder in den Griff zu bekommen.**
+**NEIN, für ein optimiertes Streaming-OS benötigt man auch kein 64bit-Architektur, weder viel RAM oder High-End SSD-Festplatten! Dies wird leider immer fälschlich dargestellt! Dies ist nur dann erforderlich, der unbedingt alles in DSD abspielen/konvertieren möchte, oder zusätzlich Upsampling betreiben will. Hat auf einem Streamer nix zu suchen, wieder Musikserver-Thematik für die Roon/HQPlayer/Audirvana-Fraktion.**
 
 ---
 
@@ -31,7 +32,7 @@ NEIN, für ein optimiertes Streaming-OS benötigt man auch kein 64bit-Architektu
 | 1. GentooPlayer | https://gentooplayers.com | 30-Tage Trial, danach **einmalig ~€70** pro Hardware, voll optimierter Kernel + RAM lauffähig. Gibt auch gegen ~€40 einmalig Aufpreis, hoch-optimierte Kernel (CLANG CTO) |
 | 2. Moode Audio | https://moodeaudio.org | Hatte ich vor GentooPlayer im Einsatz. Auch TOP-Empfehlung für Raspi-basierte Projekte! Aktuell noch kostenlos. | |
 | 3. Snakeoil OS | https://www.snakeoil-os.net/ | Guter UI, aber volles Ubuntu-Release, teilweise optimierter Kernel |
-| 4. Audiophile Linux | https://www.ap-linux.com | Auch schon länger dabei und nutzen ebenfalls wie GentooPlayder optimierte Audio-Kernel. Komplett kostenlos, daher leider auch nicht besonders aktive Entwicklung. Aktuelle Version von 2019.|
+| 4. Audiophile Linux | https://www.ap-linux.com | Auch schon länger dabei und nutzen ebenfalls wie GentooPlayer optimierte Audio-Kernel. Komplett kostenlos, daher leider auch nicht besonders aktive Entwicklung. Aktuelle Version von 2019.|
 | 5. Audio Linux | https://www.audio-linux.com | Jede Menge Releases. Kostet auch so ab ~€69 einmalig. Zu viele Features und für mich overloaded und auch wieder eher für Musikserver. |
 | 6. Daphile | https://www.daphile.com | X86-basiert, zu hohe HW-Anforderungen, eher für einen PC-basierten Musikserver. |
 | 7. Volumio | https://volumio.com/en/get-started | Freie Version nicht wirklich brauchbar (zu eingeschränkt), aber in wenigen Minuten nutzbar und einfache App-Oberfläche, Premium ~6€ /Monat. Funktioniert am Besten mit deren kommerziellen Hardware! |
@@ -65,7 +66,7 @@ Für beste Qualität sollte DAC und Streamer in separaten Chassis sein. Ebenso g
 
 **Highspeed USB-Stick mit mindestens 64GB Speicher (Zwischenspeicherung für Playlists, Album-Infos, gekaufte Alben/Titeln)**
 - Ich nutze: Kingston DataTraveler, Transcend JetFlash / ESD310
-- Beim Anschliessen auf der Zielplattform darauf achten, zwingend nur USB 3x-Slots zu verwenden
+- Beim Anschließen auf der Zielplattform darauf achten, zwingend nur USB 3x-Slots zu verwenden
 - Kommerzielle Streamer haben nur selten USB-3, außer ganz neue Modelle ;-)
 
 ---
@@ -104,7 +105,6 @@ Hier möchte ich meine Erfahrung teilen, da hier GentooPlayer für den Neueinste
 ## Initiale Basiskonfiguration
 
 
-
 ---
 
 # Online Streaming Empfehlung
@@ -113,15 +113,13 @@ Hier möchte ich meine Erfahrung teilen, da hier GentooPlayer für den Neueinste
 
 **Ich persönlich nutze ausschließlich Qobuz, da Künstler mehr bezahlt bekommen als bei Tidal. Mittlerweile haben beide sehr ähnlichen Bestand an Musiktiteln und Hi-Res ist bei Beiden Anbietern, qualitativ gleichwertig!**
 
-Spotify nutze ich wegen Hörbücher und Podcast, da sowohl Tidal, als auch Qobuz keine Integration hierfür haben und deren Hörbücher Selektion überschaubar sind.
+Spotify nutze ich wegen Hörbücher und Podcast, da sowohl Tidal als auch Qobuz keine Integration hierfür haben und deren Hörbücher Selektion überschaubar sind.
 
 Natürlich kann man bei GentooPlayer auch direkt Podcast Anbindung machen, da ich aber Spotify auch auf dem Smartphone nutze, sammle ich hier meine Podcast-/Hörbücher Sammlung.
-
 
 >**Hier meine Qobuz Playlists  - spezielle Playlisten für HiFi-Gear Testing:**
 >- Vocals/Live/Mitten-Höhen: [https://open.qobuz.com/playlist/14153199](https://open.qobuz.com/playlist/14153199)
 >- Bass/elektronisch: [https://open.qobuz.com/playlist/14153107](https://open.qobuz.com/playlist/14153107)
-
 
 <br>
 
