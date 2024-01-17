@@ -41,28 +41,28 @@ Es gibt eine Vielzahl an sehr guten _Audiophilen-Betriebssystemen (OS)_, jedoch 
 # Voraussetzungen
 
 **Gute Streamer-Plattform (aka Player)** \
-Diese beiden DIY-Projekte sind die Aktivsten hierzu:
--- Mein persönlicher Favorit - Ian Canada, https://github.com/iancanada/DocumentDownload
--- Doede hat hier den DIY-Standard gesetzt - DDDAC, https://www.dddac.com/
+Diese beiden DIY-Projekte sind die Aktivsten hierzu: \
+-- Mein persönlicher Favorit - Ian Canada, https://github.com/iancanada/DocumentDownload \
+-- Doede hat hier den DIY-Standard gesetzt - DDDAC, https://www.dddac.com \
 -- Siehe hierzu auch den Vergleich mit absoluten High-End DACs (MSB, dcs ..) [AD Audio Link](https://adaudio.wordpress.com/2022/11/01/how-good-is-the-dddac-a-comparison-with-dcs-bartok-mola-mola-tambaqui-and-msb-discrete-and-prestige/)
 
 **Guter Digital-Analog-Wandler (DAC oder auch ADC genannt):** \
-Für beste Qualität sollte DAC und Streamer in separaten Chassis sein. Ebenso getrennte Software für den Player (sog. Streamer) und DAC.
+Für beste Qualität sollte DAC und Streamer in separaten Chassis sein. Ebenso getrennte Software für den Player (sog. Streamer) und DAC. \
 
-**Saubere LAN-Verkabelung & LAN-Switch:**
--- WLAN und Bluetooth sind für mich bei einem High-End Streamer NO-GO
--- Schreibe nichts weiter dazu, wird irgendwann ein extra-Blog Artikel ;-)
+**Saubere LAN-Verkabelung & LAN-Switch:** \
+-- WLAN und Bluetooth sind für mich bei einem High-End Streamer NO-GO \
+-- Schreibe nichts weiter dazu, wird irgendwann ein extra-Blog Artikel ;-) \
 -- Auch hier gilt wieder die alte HiFi-Weisheit: &nbsp; <u>**weniger ist mehr!**</u>
 
-**Highspeed SD-Card mit mindestens 32GB Speicher**
--- Ich nutze: Samsung Pro Ultimate / Pro Plus und SanDisk Extreme Pro
+**Highspeed SD-Card mit mindestens 32GB Speicher** \
+-- Ich nutze: Samsung Pro Ultimate / Pro Plus und SanDisk Extreme Pro \
 
-**SD-Karten Lesegerät**
+**SD-Karten Lesegerät** \
 -- Entweder ein (alter) Laptop hat noch einen SD-Leser, ansonsten reicht hier ein Standard USB-Reader (3-in-1), wie Belkell für ~€9 bei Amazon.
 
-**Highspeed USB-Stick mit mindestens 64GB Speicher (Zwischenspeicherung für Playlists, Album-Infos, gekaufte Alben/Titeln)**
--- Ich nutze: Kingston DataTraveler, Transcend JetFlash / ESD310
--- Beim Anschließen auf der Zielplattform darauf achten, zwingend nur USB 3x-Slots zu verwenden
+**Highspeed USB-Stick mit mindestens 64GB Speicher (Zwischenspeicherung für Playlists, Album-Infos, gekaufte Alben/Titeln)** \
+-- Ich nutze: Kingston DataTraveler, Transcend JetFlash / ESD310 \
+-- Beim Anschließen auf der Zielplattform darauf achten, zwingend nur USB 3x-Slots zu verwenden \
 -- Kommerzielle Streamer haben nur selten USB-3, außer ganz neue Modelle ;-)
 
 ---
@@ -75,14 +75,14 @@ Hier meine kompakte Anleitung für den Raspi, ansonsten auch gerne die GentooPla
 
 ### Schritt 1: Download
 
-Download des richtigen GentooPlayer Images
--- https://gentooplayers.com/Download/
+Download des richtigen GentooPlayer Images \
+-- https://gentooplayers.com/Download/ \
 -- In meinem Falle: **Raspberry 4B**
 
 ### Schritt 2: Flashing
 
-Nutzung eines vernünftigen SD-Card Flashing-Tools
--- Ich nutze hier im Windows-Umfeld immer das kostenfreie [balena Etcher](https://etcher.balena.io/)
+Nutzung eines vernünftigen SD-Card Flashing-Tools \
+-- Ich nutze hier im Windows-Umfeld immer das kostenfreie [balena Etcher](https://etcher.balena.io/) \
 -- **!! Darauf achten, das richtige OS-Image und der richtige USB-Kartenleser (USB-Platte) ausgewählt wird ;-) !!**
 
 ### Schritt 3: Boot
