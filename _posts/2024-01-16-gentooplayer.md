@@ -137,8 +137,8 @@ Nmap done: 256 IP addresses (256 hosts up) scanned in 8.03 seconds
 ```
 
 **Windows: [Nmap+Zenmap](https://nmap.org/download#windows - Latest stable release self-installer nutzen, installieren und Scan durchführen** \
--- Windows CMD (Eingabeaufforderung) & danach `ipconfig` aufrufen, um aktuelles Subnetz zu bekommen
--- Zenmap in Windows Programme aufrufen
+-- Windows CMD (Eingabeaufforderung) & danach `ipconfig` aufrufen, um aktuelles Subnetz zu bekommen \
+-- Zenmap in Windows Programme aufrufen \
 -- Scan ausführen wie oben, hier in meinem Home-LAN
 
 ![Zenmap GUI](/assets/images/blog-gentooplayer/zenmap.png)
@@ -151,27 +151,67 @@ Nmap done: 256 IP addresses (256 hosts up) scanned in 8.03 seconds
 
 ..und die simple Weboberfläche sollte dargestellt werden.
 
+**Ich stelle die Oberfläche immer um, sogenannten "Themes", wie folgt:**
+
+-- Ganz nach unten scrollen unt `WI Themes` auswählen und auf `dark1` und  "EXECUTE" klicken, danach Webbrowser Refresh
+
+![Theme](/assets/images/blog-gentooplayer/theme.png)
+
 ### Aktivierung Trial-Key
 
--- Auf `00. Register` klicken > `00. GentooPlayer PC-key` klicken und danach auf "EXECUTE"
--- Diesen Schhlüssel **vollständig** an Fillipo / gentooplayers@gmail.com senden
--- Danach schickt er Euch einen Schlüssel, der *zwingend* benötigt wird für die weitere Konfiguration
--- Sobald Ihr den Schlüssel per Mail bekommen habt:
--- Wieder zu `00. Register` wechseln > `01. GentooPlayer Key` > key und username schreibt er Euch in die Email, exakt so eintragen und wieder auf "EXECUTE" klicken
--- Danach Schlüssel/Aktivierung prüfen:
--- `00. Register` wechseln > `02. GentooPlayer Key-Info` und auf "EXECUTE" klicken
+-- Auf `00. Register` klicken > `00. GentooPlayer PC-key` klicken und danach auf "EXECUTE" \
+-- Diesen Schhlüssel **vollständig** an Fillipo / gentooplayers@gmail.com senden \
+-- Danach schickt er Euch einen Schlüssel, der *zwingend* benötigt wird für die weitere Konfiguration \
+-- Sobald Ihr den Schlüssel per Mail bekommen habt: \
+-- Wieder zu `00. Register` wechseln > `01. GentooPlayer Key` > key und username schreibt er Euch in die Email, exakt so eintragen und wieder auf "EXECUTE" klicken \
+-- Danach Schlüssel/Aktivierung prüfen: \
+-- `00. Register` wechseln > `02. GentooPlayer Key-Info` und auf "EXECUTE" klicken \
 -- Danach werden alle Aktivierungsdetails angezeigt
 
 ### Basiskonfiguration: Systemupdates zuerst einspielen 
 
-**HINWWEIS: Updates & Kernel-Change können nur eingespielt werden, wenn das System noch NICHT im RAM läuft. Also später wenn wir alles sauber im RAM laufen haben lassen, muss immer zuerst das RAM-System disabled werden > Reboot und dann die Schritte ausgeführt werden!**
+**HINWWEIS: Updates & Kernel-Change können nur eingespielt werden, wenn das System noch NICHT im RAM läuft. Also später wenn wir alles sauber im RAM laufen haben lassen, muss immer zuerst das RAM-System disabled werden > Reboot und dann die Schritte ausgeführt werden! NACH ALLEN SETTINGS VERÄNDERUNGEN HIER, UNBEDINGT REBOOT DURCHFÜHREN!**
 
--- Auf `12. Update/Install/Remove` klicken > `0. GP-Update` und auf "EXECUTE" klicken, dass dauert <1min
--- Danach erneu unter `12. Update/Install/Remove` auf `1. GP-Version Update`  klicken und schauen ob neue Version vorhanden (Current > Update)
--- Wenn Update da ist, entsprechend auswählen und auf "EXECUTE", dies wird je nach System +10Minuten dauern, da hier auch Kernel + Pakete aktualisiert werden
--- Nach erfolgtem Systemupdate, wird nun Firmware aktualisiert
--- unter `12. Update/Install/Remove` auf `Firmware update`  und auf "EXECUTE" klicken, dass dauert ~2min
+-- Auf `12. Update/Install/Remove` klicken > `0. GP-Update` und auf "EXECUTE" klicken, dass dauert <1min \
+-- Danach erneu unter `12. Update/Install/Remove` auf `1. GP-Version Update`  klicken und schauen ob neue Version vorhanden (Current > Update) \
+-- Wenn Update da ist, entsprechend auswählen und auf "EXECUTE", dies wird je nach System +10Minuten dauern, da hier auch Kernel + Pakete aktualisiert werden \
+-- Nach erfolgtem Systemupdate, wird nun Firmware aktualisiert \
+-- Unter `12. Update/Install/Remove` auf `Firmware update`  und auf "EXECUTE" klicken, dass dauert ~2min \
 -- Danach Reboot durchführen: unter `02. Reboot system` und auf "EXECUTE" klicken, dass dauert ~2-4min, je nachdem welches System Ihr nutzt
+
+### Timezone + Feste IP vergeben
+
+-- Unbedingt richtige Zeitzone setzen, unter `08. System Base Config` klicken > `Set TimeZone`
+
+**HINWEIS: in diesem Kontextmenü sind auch alle Basisdienste zum Konfigueren hinterlegt: Hostname, Netzwerk, Wifi, Samba Share/NAS einbinden ..**
+
+-- Damit nicht alle Monate mal wieder DHCP-IP dynamisch vergeben wird und plötzlich APP nicht mehr funktioniert, FIXE IP setzen \
+-- Entweder im GentooPlayer unter `08. System Base Config` klicken > `Change Static IP-LAN` \
+-- **VORSICHT: hier müsst Ihr auch in Eurem Router diese MAC zu IP fix reservieren, damit ist nicht irgendwann zu IP-Duplicates kommt!** \
+-- Hier ein Beispiel an der typischen Fritzbox: einloggen > Netzwerk > >Netzwerkverbindungen auswählen & werden alle Netzwerkgeräte angezeigt > richtige anklicken & edit button ganz rechts \
+-- Richtige auswählen und auf fixe IP einstellen, somit bekommt der GentooPlayer nach jedem Reboot die selbe IP vom DHCP zugewiesen!
+
+![Fritzbox DHCP](/assets/images/blog-gentooplayer/fritz.png)
+
+![Fritzbox DHCP2](/assets/images/blog-gentooplayer/fritz2.png)
+
+### SSH aktivieren
+
+**Als alte Linux Nerds, muss SSH aktiv sein ;-) In diesem Kontextmenü kann man auch einige HW-Einstellungen vornehmen!**
+
+-- Unter `09. System Config Advanced` > `TWK various` >
+-- User: root / pwd: gentooplayer
+
+![System special](/assets/images/blog-gentooplayer/system-sepcial.png)
+
+### USB-Stick/SSD-Platte einbinden
+
+**Für die lokale Musikbibliothek sollte unbedingt schneller USB-Stick oder USB-SSD eingebunden werden.**
+
+-- Einfach unter `08. System Base Config` > `Mount Local Disk` die richtige auswählen und Foldername + beim Boot enable konfigurieren
+
+![USB](/assets/images/blog-gentooplayer/usbdisk.png)
+
 
 ### DAC (Digtial-Analog-Wandler) konfigurieren
 
@@ -182,18 +222,103 @@ Die unterstützen DAC's'findet Ihr immer hierrüber:
 
 ![DAC List](/assets/images/blog-gentooplayer/dac-list.png)
 
+### Standard Player-Software AKTIVIEREN
+
+**HINWEIS: Zuerst aktivieren wir die von uns genutzte Software. Nicht alles wahllos aktivieren, kostet unnötig Performance/System Ressourcen!**
+
+Hier meine Konfiguration (nutze kein AirPlay, weder Roon), also passt diese an Euren Gegebenheiten/Vorlieben an!
+
+**Ich nutze als primäre Player-APP (Android) <u>BubbleUpnp</u>, daher ist für mich wichtig diese in der Config zu aktivieren.**
+
+![Software Enabled](/assets/images/blog-gentooplayer/software-enable.png)
+
+### Standard Player-Software KONFIGURIEREN
+
+Nachdem Ihr die Software AKTIVIERT habt, wird diese nun konfiguriert. Hier gilt es primär den entsprechenden DAC von vorhin zu setzen, als auch einige Parameter der jeweiligen Software.
+
+Ihr könnt diese Konfiguration über 2 Möglichkeiten durchführen:
+
+-- Über die zentrale "Übersichtspage" hier:
+
+![Overview](/assets/images/blog-gentooplayer/software-overview.png)
+
+-- Über die jeweilige Player/Audio Settings selbst hier:
+
+**HINWEIS: es gibt in jedem Bereich immer einen "unscheinbaren" Link der heisst "For more info click here". Darüber kommt man auf die Managementoberfläche der jeweiligen Applikation, wenn diese
+direkt über Browser aufrufbar ist! UNBEDINGT NÄHER ANSEHEN, darüber ist viel Finetuning möglich, oder auch zusätzliche Infos zu den Parametern!**
+
+![Software Config](/assets/images/blog-gentooplayer/software-config.png)
+
+**Hier ein Beispiel wie man für BubbleUpnp (DLNA) spezielle Konfiguration anpasst:**
+Diese läuft auf TCP-Port: 58050, daher rufe ich den Browser auf, via: http://192.168.178.200:58050/
+
+..oder MPDP:
+
+![mpd](/assets/images/blog-gentooplayer/mpd.png)
+
+
+### OPTIONAL: hoch-optimierten Kernel nutzen
+
+-- Zuerst kontrollieren, welcher Kernel aktiv ist. Unter `07. Home System` > `01. SystemInfo` > "EXECUTE" anklicken \
+-- Unter `12. Update/Install/Remove` > `2. UP/DW kernel` und relevanten Kernel auswählen \
+-- **HINWEIS: die speziellen Kernel werden nur angezeigt, wenn man die zusätzliche Option bei gentooplayers@gmail.com gekauft hat!**
+
+![Kernel](/assets/images/blog-gentooplayer/kernel.png)
+
+
+### Backup erstellen
+
+**HINWEIS: dafür muss ein USB-Stick dran sein, da auf die lokale SD-Karte kein Backup geschrieben werden kann!**
+**Nachdem man alles konfiguriert hat, unbedingt Backup der Settings durchführen!**
+
+-- Unter `13. Backup/Restore/Install` > richtigen USB-Disk/Stick auswählen und Backup erstellen \
+-- **Es kann immer nur ein Backup auf den Stick abgelegt werden und kein Weiteres, wenn nicht vorher via ssh gelöscht!**
+
+### FINALE GRANDE: Ramsystem aktivieren
+
+**Jetzt übertragen wir das LIVE-Systen in den RAM und somit absolut low-latency & optimale OS-Zustand!**
+**HINWEIS: Ich persönlich nutze immer Mode 5 oder Mode 6, da ich in meinem Raspi 8GB RAM habe !! Ansonsten Mode 4 auswählen !!**
+
+-- Unter `14. Ramsystem` auf `01. Set Ramsystem Mode` klicken, dauert ~5-8min
+
+![RAM Mode](/assets/images/blog-gentooplayer/ram1.png)
+
+-- Danach wenn fertig kopiert, unter `14. Ramsystem` auf `02. Enable/Disable Ramsystem` klicken \
+-- Im unteren Feld "your input >>" `y`eintippen und auf Return/Enter drücken zum Ausführen des Befehls und danach oben wieder auf "EXECUTE" \
+-- Jetzt bootet das System jedesmal und startet RAM-System, dauert ~3-4min bis GentooPlayer voll aktiv ist \
+-- Nach der Zeit, wieder schon ob Web Oberfläche einwandfrei erreichbar, HAPPY LISTENING!
+
+![RAM Mode](/assets/images/blog-gentooplayer/ram2.png)
+
+**HINWEIS: solltet Ihr danach noch Konfigurationen ändern, nicht vergessen in dieses Kontextmenü wieder reinzugehen und unter `06. RamSave&Reboot` "EXECUTE" auszuführen, damit Settings beim nächsten Neustart sauber im RAM-System erhalten bleiben!**
+
+---
+
+# Streaming Player App
+
+Hier gibt es eine Vielzahl von UPnp, Airplay und Roon-basierten Apps. Ich persönlich nutze ausschließlich:
+
+-- **Bubble-Upnp** for Android lizenzierte Version (kann DLNA & Chromcast, darüber habe ich Qobuz oder auch TIDAL verbinden) \
+-- **LUMIN App** for Android (da ich zum DIY-Streamer auch Lumin Streamer nutze - diese App findet auch den GentooPlayer ohne Probleme!) \
+-- **Spotify Connect** direkt via GentooPlayer
+
 ---
 
 # Advanced Config Hinweise
 
-**Wie Ihr mit der Zeit sehen werdet, bietet GentooPlayer extrem professionelle Features & zusätzliche Software zum Nachinstallieren.**
+**Wie Ihr mit der Zeit sehen werdet, bietet GentooPlayer extrem professionelle Features & zusätzliche Software zum Nachinstallieren.** \
 **Hier einige, die ich selber nicht nutze, aber sicherliche nennenswert sind:**
 
--- [CamillaDSP](https://henquist.github.io/), für professionelle Raumkorrektur / aktive Crossover-Applikationen
+-- [CamillaDSP](https://henquist.github.io/), für professionelle Raumkorrektur / aktive Crossover-Applikationen \
 -- Müsst Ihr über die Managementoberfläche hier installieren: `12. Update/Install/Remove` > Install/Remove Camilla
 
--- [MinimServer](https://minimserver.com/features.html), sehr umfangreicher UPnP Server und dass ist die zugehörige Software
+-- [MinimServer](https://minimserver.com/features.html), sehr umfangreicher UPnP Server und dass ist die zugehörige Software \
 -- Müsst Ihr über die Managementoberfläche hier installieren: `12. Update/Install/Remove` > Update/install MinimServer + Update/install MinimWatch
+
+-- [Diretta Host & Diretta Target](https://www.diretta.link/), super interessant, da neues Protokoll. Ja ist wieder propritäre Lizenz, aber GentooPlayer unterstützt das direkt (da die Dev's ja alle aus Italien kommen). Hier sind schon einige namhafte Hifi-Hersteller dabei: Soulnote, AfterDark oder Pachanko. \
+-- Einfach unter `06. Player/Audio Setting` > `z. Diretta Host` oder `z. Diretta Target` ausprobieren
+
+-- Unter dem Konfigurationsabschnitt fast am Ende `Utility` gibt es eine Viezahl an hilfreichen Tools für den Audio- und Systembereich
 
 ---
 
