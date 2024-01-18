@@ -33,7 +33,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-toc
-  - jekyll-stickyposts
 
 # TOC Settings
 toc:

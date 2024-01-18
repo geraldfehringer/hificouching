@@ -4,10 +4,10 @@ layout: post
 post-image: "/assets/images/links-logo.png"
 description: Community Linksammlung von empfehlenswerten Webseiten zum Nachlesen, Lernen & DIY.
 toc: true
-sticky: true
 tags:
 - diy
 - german
+- links
 ---
 
 > DISCLAIMER. Diese Links sind unter anderem aus dem [SnakeOilAudio-Forum](https://forum.snakeoilaudio.de/thread-1607.html) und durch meine persönlichen Recherchen erweitert.
