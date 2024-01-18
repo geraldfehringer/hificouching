@@ -20,6 +20,10 @@ tags:
 | [Dutch Association](https://www.nvhr.nl/frameset.htm?&ContentFrame) | (NL) Dutch History of Radio |
 | [Handbook for Soundengineers, PDF](/assets/pdf/Ballou%20-%20Handbook%20for%20sound%20engineers-4e.pdf) | Umfassendes Referenzwerk zum Thema Hifi/Sound von 2008 |
 | [Lautsprecher, elektor PDF](/assets/pdf/dichtung_und_wahrheit.pdf) | Lautsprecher Dichtung und Wahrheit von elektor |
+| [Deutsches Hifi-Museum](http://www.hifimuseum.de/) | Immer einen (nostalgischen) Besuch wert! |
+| []() | |
+| []() | |
+
 
 # Rund um Röhren
 
@@ -45,11 +49,21 @@ tags:
 | [Tube Amp Doctor](https://www.tubeampdoctor.com/) | Sehr ähnlich aufgestellt wie BTB, jedoch manchmal mehr exotische Röhren im Angebot. |
 | [Valves and More](https://valvesnmore.com/) | Für mich die Ehrlichsten NOS-Anbieter. Qualität ist immer überragend und messen alles, bevor es rausgeht! Haben auch tollen [YT-Kanal!](https://www.youtube.com/@tubelab194) |
 
+# DIY - Lautsprecher
+
+| Link | Infos |
+| :--- | :--- |
+| [Loudspeaker Database](https://loudspeakerdatabase.com/) | Datenblätter zu Lautsprecherchassis mit TSP's, Maßen, etc. |
+| [Hifi Wiki](https://www.hifi-wiki.de/index.php/Hauptseite) | Lautsprecher und Geräte Datenbank |
+| [Hornlautsprecher](http://www.hornlautsprecher.de/) | Alles rund um Hornlautsprecher |
+| [Strassacker LS](https://www.lautsprechershop.de/intro_de.htm) | Das Sortiment an Chassis und Bauteilen ist umfangreich. Der Service und die Beratung sind kompetent und vervorragend. |
+| [Hifi Selbstbau](https://hifi-selbstbau.dyndns.org/index.html) | Sehr umfangreich und informativ für uns LS-Bauer, wenns manchmal wirklich interessant wird, muss man sich kostenpflichtig anmelden. |
 
 # DIY - Einkaufsquellen
 
 | Link | Infos |
 | :--- | :--- |
+| [tlhp](https://en.toutlehautparleur.com/) | Alles rund um Lautsprecher, sehr große Auswahl. |
 | [Audio Tschentscher](https://audio-tschentscher.de/) | Macht individuelle Aufträge und hat auch alles von Jantzen, ScanSpeak, Trafobleche .. |
 | [Variant Hifi](https://variant-hifi.com/) | Viel Zubehör für den Selbstbau. |
 | [Batt-Energy](https://www.batt-energy-shop.de/) | Jeder der hochwertige Batterien sucht, dass die ERSTE Anlaufstelle! Besten Lithium im Angebot.|
