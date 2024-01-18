@@ -22,8 +22,6 @@ tags:
 | [Handbook for Soundengineers, PDF](/assets/pdf/Ballou%20-%20Handbook%20for%20sound%20engineers-4e.pdf) | Umfassendes Referenzwerk zum Thema Hifi/Sound von 2008 |
 | [Lautsprecher, elektor PDF](/assets/pdf/dichtung_und_wahrheit.pdf) | Lautsprecher Dichtung und Wahrheit von elektor |
 | [Deutsches Hifi-Museum](http://www.hifimuseum.de/) | Immer einen (nostalgischen) Besuch wert! |
-| []() | |
-| []() | |
 
 
 # Rund um Röhren
@@ -48,7 +46,7 @@ tags:
 | :--- | :--- |
 | [BTB Elektronik](https://btb-elektronik.de/) | Gute Preise, altbekannt und auch einige wenige NOS im Angebot. |
 | [Tube Amp Doctor](https://www.tubeampdoctor.com/) | Sehr ähnlich aufgestellt wie BTB, jedoch manchmal mehr exotische Röhren im Angebot. |
-| [Valves and More](https://valvesnmore.com/) | Für mich die Ehrlichsten NOS-Anbieter. Qualität ist immer überragend und messen alles, bevor es rausgeht! Haben auch tollen [YT-Kanal!](https://www.youtube.com/@tubelab194) |
+| [Valves and More](https://valvesnmore.com/) | Für mich die ehrlichsten NOS-Anbieter. Qualität ist immer überragend und messen alles, bevor es rausgeht! Haben auch tollen [YT-Kanal!](https://www.youtube.com/@tubelab194) |
 
 # DIY - Lautsprecher
 
@@ -78,7 +76,7 @@ tags:
 | [Holzladen Shop](https://holzladen.shop/) | CNC-Fräsungen, mein Holzladen wo ich alles fertigen lassen für DIY-Projekte. Nicht günstig, aber präzise! Fertigt auch Monitor#1 |
 | [DaBenMo](https://www.dabenmo.de/) | Plexiglas Zuschnitte |
 | [Ebel Holztechnik](https://www.ebelholztechnik.de/) | Sehr bekannt, da er eine Vielzahl an LS-Projekten Gehäuse fertigt. Auch sehr gute Qualität. |
-| [C.Tschaar Holzhandwerk]https://www.tschaar.de/kopie-von-wissenswertes() | Auch bekannter LS-Gehäuse Hersteller, sehr gute Qualität daher auch nicht günstig. Fertigt auch Monitor#1 |
+| [C.Tschaar Holzhandwerk](https://www.tschaar.de/kopie-von-wissenswertes) | Auch bekannter LS-Gehäuse Hersteller, sehr gute Qualität daher auch nicht günstig. Fertigt auch Monitor#1 |
 | [Perfect Wood](https://www.perfect-wood.at/#!/philosophy) | Holzhörner vom österreichischen Spezi. Bekannt durch seine Monitor#1 hochqualitativen Holzhörner. Auch alle CNC-Fräsungen möglich!|
 
 # DIY - weitere Foren
