@@ -208,14 +208,14 @@ Nmap done: 256 IP addresses (256 hosts up) scanned in 8.03 seconds
 
 **Für die lokale Musikbibliothek sollte unbedingt schneller USB-Stick oder USB-SSD eingebunden werden.**
 
--- Einfach unter `08. System Base Config` > `Mount Local Disk` die richtige auswählen und Foldername + beim Boot enable konfigurieren
+-- Einfach unter `08. System Base Config` > `Mount Local Disk` die richtige auswählen und Foldername + `Enable at boot` konfigurieren
 
 ![USB](/assets/images/blog-gentooplayer/usbdisk.png)
 
 
 ### DAC (Digtial-Analog-Wandler) konfigurieren
 
-**HINWEIS: natürlich müsst Ihr vorher Euren DAC sauber an den Streamer angeschlossen haben, Bsp. SPDIF/BNC/AES-EBU, USB oder HDMI/I2s.**
+**HINWEIS: natürlich müsst Ihr vorher Euren DAC sauber an den Streamer angeschlossen haben, Bsp. SPDIF/BNC/AES-EBU, USB oder HDMI/I2s.** \
 **Wer den Ian Canada Streamer & DAC nutzt UNBEDINGT: `i-sabre-q2m and I2S Generic` auswählen!**
 
 Die unterstützen DAC's'findet Ihr immer hierrüber:
@@ -289,8 +289,8 @@ Diese läuft auf TCP-Port: 58050, daher rufe ich den Browser auf, via: http://19
 
 -- Danach wenn fertig kopiert, unter `14. Ramsystem` auf `02. Enable/Disable Ramsystem` klicken \
 -- Im unteren Feld "your input >>" `y`eintippen und auf Return/Enter drücken zum Ausführen des Befehls und danach oben wieder auf "EXECUTE" \
--- Jetzt bootet das System jedesmal und startet RAM-System, dauert ~3-4min bis GentooPlayer voll aktiv ist \
--- Nach der Zeit, wieder schon ob Web Oberfläche einwandfrei erreichbar, HAPPY LISTENING!
+-- Jetzt bootet das System nach einem Neustart direkt in das RAM-System, dauert ~3-4min bis GentooPlayer voll aktiv ist \
+-- Nach der Zeit, kontrollieren ob Web Oberfläche einwandfrei erreichbar ist, HAPPY LISTENING!
 
 ![RAM Mode](/assets/images/blog-gentooplayer/ram2.png)
 
@@ -300,7 +300,7 @@ Diese läuft auf TCP-Port: 58050, daher rufe ich den Browser auf, via: http://19
 
 # Streaming Player App
 
-**Nachdem GentooPlayer alles soweit eingestellt
+**Nachdem GentooPlayer alles soweit eingestellt wurde!**
 
 Hier gibt es eine Vielzahl von UPnp, Airplay und Roon-basierten Apps. Ich persönlich nutze ausschließlich:
 
@@ -330,14 +330,14 @@ Hier gibt es eine Vielzahl von UPnp, Airplay und Roon-basierten Apps. Ich persö
 
 # Online Streaming Empfehlung
 
-**Hier gibt es eigentlich nur Tidal und Qobuz für den <u>audiophilen</u> Genuss. Auch wenn viele der Meinung sind, YT-Musik oder Apple Musik spielen in der selben Liga. Jedoch wird hier eine ganz andere Zielgruppe adressiert und die Anbindung x-beliebiger Endgeräte, nicht nur optimierte HiFi-Streamer!**
+**Hier gibt es eigentlich nur Tidal und Qobuz für den <u>audiophilen</u> Genuss. Auch wenn viele der Meinung sind, YT-Musik oder Apple Musik spielen in der selben Liga. Jedoch wird hier eine ganz andere Zielgruppe adressiert und die Anbindung x-beliebiger Endgeräte, nicht nur optimierte HiFi-Streamer!   ..und nein, sowohl YT-Musik und Apple streamen nicht in der Qualität wie Qobuz/Tidal.**
 
 **Ich persönlich nutze ausschließlich Qobuz, da Künstler mehr bezahlt bekommen als bei Tidal.**  
 **Mittlerweile haben beide sehr ähnlichen Bestand an Musiktiteln und Hi-Res ist bei Beiden Anbietern, qualitativ gleichwertig!**
 
 Spotify nutze ich wegen Hörbücher und Podcast, da sowohl Tidal als auch Qobuz keine Integration hierfür haben und deren Hörbücher Selektion überschaubar sind. Natürlich kann man bei GentooPlayer auch direkt Podcast Anbindung machen, da ich aber Spotify auch auf dem Smartphone nutze, sammle ich hier meine Podcast-/Hörbücher Sammlung.
 
->**Hier meine Qobuz Playlists  - spezielle Playlisten für HiFi-Gear Testing:**
+>**Hier meine Qobuz Playlists  - speziell für HiFi-Gear Testing:**
 >- Vocals/Live/Mitten-Höhen: [https://open.qobuz.com/playlist/14153199](https://open.qobuz.com/playlist/14153199)
 >- Bass/elektronisch: [https://open.qobuz.com/playlist/14153107](https://open.qobuz.com/playlist/14153107)
 
