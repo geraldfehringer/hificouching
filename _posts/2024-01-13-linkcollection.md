@@ -4,6 +4,7 @@ layout: post
 post-image: "/assets/images/links-logo.png"
 description: Community Linksammlung von empfehlenswerten Webseiten zum Nachlesen, Lernen & DIY.
 toc: true
+sticky: true
 tags:
 - diy
 - german
