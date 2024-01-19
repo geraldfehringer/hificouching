@@ -23,6 +23,7 @@ tags:
 | [Lautsprecher, elektor PDF](/assets/pdf/dichtung_und_wahrheit.pdf) | Lautsprecher Dichtung und Wahrheit von elektor |
 | [Deutsches Hifi-Museum](http://www.hifimuseum.de/) | Immer einen (nostalgischen) Besuch wert! |
 
+---
 
 # Rund um Röhren
 
@@ -38,6 +39,8 @@ tags:
 | [Röhren-Such-Datenbank](https://tdsl.duncanamps.com/tubesearch.php) |Suchmaschine (auch Kyrillisch) für Daten, Schaltungen und Software rund um die Röhre |
 | [Tube Factory](https://wtfamps.com) | Sehr guter DIY-Einstieg, top dokumentiert & aufbereitet|
 
+---
+
 # Röhren Anbieter
 
 **Hier nutze ich auch häufig Ebay, da hier einige NOS-Sammler immer wieder gute Angebote machen. VORSICHT, leider viel Betrug und leider immer wieder auch falsche Messdaten, daher aufpassen!!**
@@ -50,6 +53,8 @@ tags:
 | [Valves and More](https://valvesnmore.com/) | Für mich die ehrlichsten NOS-Anbieter. Qualität ist immer überragend und messen alles, bevor es rausgeht! Haben auch tollen [YT-Kanal!](https://www.youtube.com/@tubelab194). Sind auch in den USA, also Lieferungen dauern! |
 | [Tubes and more](https://www.tubesandmore.com/) | Einer der ältes Anbieter im Markt, leider auch in den USA/Tempe Arizona, lange Lieferzeiten / Zoll. |
 
+---
+
 # DIY - Lautsprecher
 
 | Link | Infos |
@@ -59,6 +64,8 @@ tags:
 | [Hornlautsprecher](http://www.hornlautsprecher.de/) | Alles rund um Hornlautsprecher |
 | [Strassacker LS](https://www.lautsprechershop.de/intro_de.htm) | Das Sortiment an Chassis und Bauteilen ist umfangreich. Der Service und die Beratung sind kompetent und vervorragend. |
 | [Hifi Selbstbau](https://hifi-selbstbau.dyndns.org/index.html) | Sehr umfangreich und informativ für uns LS-Bauer, wenns manchmal wirklich interessant wird, muss man sich kostenpflichtig anmelden. |
+
+---
 
 # DIY - Einkaufsquellen
 
@@ -70,6 +77,7 @@ tags:
 | [Batt-Energy](https://www.batt-energy-shop.de/) | Jeder der hochwertige Batterien sucht, dass die ERSTE Anlaufstelle! Besten Lithium im Angebot.|
 | [Audiophonics](https://www.audiophonics.fr/) | Vielzahl an Zubehör. Preislich gute Angebote und hat auch viele exklusiv-Verkäufe von DIY'er wie Ian Canada|
 
+---
 
 # DIY - Holzarbeiten/Plexiglas/Alu
 
@@ -81,6 +89,8 @@ tags:
 | [C.Tschaar Holzhandwerk](https://www.tschaar.de/kopie-von-wissenswertes) | Auch bekannter LS-Gehäuse Hersteller, sehr gute Qualität daher auch nicht günstig. Fertigt auch Monitor#1 |
 | [Perfect Wood](https://www.perfect-wood.at/#!/philosophy) | Holzhörner vom österreichischen Spezi. Bekannt durch seine Monitor#1 hochqualitativen Holzhörner. Auch alle CNC-Fräsungen möglich!|
 
+---
+
 # DIY - weitere Foren
 
 **Hier führe ich nur Foren, die ich persönlich nutze & schätze.**
@@ -91,6 +101,8 @@ tags:
 | [SnakeOilAudio Forum](https://forum.snakeoilaudio.de/) |  |
 | [DiyAudio Community](https://www.diyaudio.com/community/) |  |
 | [WhatsBest](https://www.whatsbestforum.com/) | Extrem High'endig, aber hier kann man sich mit Leuten austauschen, die extrem teure Anlagen haben und ehrlichen Austausch führen! |
+
+---
 
 # DIY - Software & Online-Tools
 
@@ -107,6 +119,8 @@ tags:
 | [VituixCAD ](https://kimmosaunisto.net/) | Alles zum Simulieren und Entwerfen eines Lautsprechers |
 | [WinBoxSimu ](https://winboxsimu.de/not0815.html) |Lautsprecher- und Frequenzweichen-Simulationsprogramm mit Schwerpunkt in der Entwicklung passiver Filternetzwerke |
 
+---
+
 # Vintage Reparatur / Modifikationen
 
 **HINWEIS: alle hier aufgeführten haben im Schnitt 2-4 Monate Wartezeiten bei Reparaturen. Daher nicht ungeduldig sein, QUALITÄT HATT SEINEN PREIS & BENÖTIGT ZEIT!.**
@@ -120,3 +134,16 @@ tags:
 | [HifiDoc](https://www.hifi-reparatur-muenchen.de/) | gibts auch schon sehr lange, gute Bewertung. |
 | [Vintage Hifi Kassel](https://vintage-hifi-kassel.de/leistungen/) | Machen auch Reconing |
 
+---
+
+# MUSIK - CD/Vinyl
+
+**Hier führe ich nicht x-beliebige Labels/Shops auf, sondern nur wo ich persönlich schon bestellt habe und die meinen Qualitätsansprüchen genügen! Auch bin ich kein Vinyl-Fan, daher keine spezifischen Labels hierzu, Mofi schon mal gar net!**
+
+| Link | Infos |
+| :--- | :--- |
+| [ECM Records, DE](https://ecmrecords.com/shop/)  | Hier bestelle ich immer mal wieder, die qualitativ-besten Aufnahmen. Jedoch eingeschränkte Auswahl und viel Schräges dabei ;-) |
+| [The Lost Recordinds, FR](https://en.thelostrecordings.store/) | Mein Tip für seltene Aufnahmen und hochwertiges Re-Mastering. |
+| [ACT Music, DE](https://www.actmusic.com/) | Jeder der Jazz mag, hat sicher hier schon mal Aufnahmen bestellt! |
+| [Blue Note Records, US](https://www.bluenote.com/) | Kommt keiner herum, wenn man nach jede Art von Jazz Album sucht! Leider Lieferzeiten USA grausam.. |
+ [Stockfish Records](https://www.stockfisch-records.de/) | Zu ECM Records wo ich am häufigsten bestelle, da auch nicht-so-bekannte Künstler vertrieben werden & auch Raritäten. |
