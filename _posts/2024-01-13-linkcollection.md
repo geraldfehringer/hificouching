@@ -29,6 +29,11 @@ tags:
 
 | Link | Infos |
 | :--- | :--- |
+| [Tube CAD Journal](https://www.tubecad.com/) | Meine erste Anlaufstelle, sehr, sehr umfangreiche Artikel |
+| [Glow in the Dark](http://glowinthedarkaudio.com/tubes.html) | Einfach eine GOLDGRUBE für Ideen! Kevin Davis ist sehr versiert & auch seine Speaker-Ideen einfach mein Full-Range-Master! |
+| [Jimmy's Junkyard](https://www.jimmyauw.com/) | Extrem viel hilfreiche Infos, immer zu empfehlen! |
+| [Jogis Röhrenbude](http://www.jogis-roehrenbude.de) | Kennt man einfach ;-) |
+| [Tube Classis](http://www.tube-classics.de) | Auch sehr gut aufbereitet Infos! |
 | [Röhrenfieber](https://www.roehrenfieber.com/) | Außergewöhnliche Tube-Projekte. Verkauft auch immer mal seine Einzelstücke. Ich habe einge Röhrenverstärker von Ihm, absolut NOS ;-) |
 | [Bartola Valves](https://www.bartola.co.uk/valves/) | Elektronik-Enthusiast finden Sie hier meine Sammlung rund um Röhren |
 | [DIY Audio Projects](https://diyaudioprojects.com/Schematics/) | DIY-Schematas Röhrenverstärker aller Art |
@@ -49,6 +54,7 @@ tags:
 | :--- | :--- |
 | [BTB Elektronik](https://btb-elektronik.de/) | Gute Preise, altbekannt und auch einige wenige NOS im Angebot. |
 | [Tube Amp Doctor](https://www.tubeampdoctor.com/) | Sehr ähnlich aufgestellt wie BTB, jedoch manchmal mehr exotische Röhren im Angebot. |
+| [Walter Kirchgessner](http://www.walterkirchgessner.de/11_Roehren.htm) | Nicht viel Auswahl, aber die er hat, erlesen! |
 | [Frag Jan zuerst](http://www.askjanfirst.com/dindex.htm) | Die Wuestens ;-) Großer Röhrenbestand. |
 | [Valves and More](https://valvesnmore.com/) | Für mich die ehrlichsten NOS-Anbieter. Qualität ist immer überragend und messen alles, bevor es rausgeht! Haben auch tollen [YT-Kanal!](https://www.youtube.com/@tubelab194). Sind auch in den USA, also Lieferungen dauern! |
 | [Tubes and more](https://www.tubesandmore.com/) | Einer der ältes Anbieter im Markt, leider auch in den USA/Tempe Arizona, lange Lieferzeiten / Zoll. |
@@ -76,6 +82,7 @@ tags:
 | [Variant Hifi](https://variant-hifi.com/) | Viel Zubehör für den Selbstbau. |
 | [Batt-Energy](https://www.batt-energy-shop.de/) | Jeder der hochwertige Batterien sucht, dass die ERSTE Anlaufstelle! Besten Lithium im Angebot.|
 | [Audiophonics](https://www.audiophonics.fr/) | Vielzahl an Zubehör. Preislich gute Angebote und hat auch viele exklusiv-Verkäufe von DIY'er wie Ian Canada|
+| [nanocamp](https://nanocamp.de/) | Vintage CD-Tuner und viele Einzelteile in dem Umfeld |
 
 ---
 
