@@ -46,8 +46,9 @@ tags:
 | :--- | :--- |
 | [BTB Elektronik](https://btb-elektronik.de/) | Gute Preise, altbekannt und auch einige wenige NOS im Angebot. |
 | [Tube Amp Doctor](https://www.tubeampdoctor.com/) | Sehr ähnlich aufgestellt wie BTB, jedoch manchmal mehr exotische Röhren im Angebot. |
-| [Valves and More](https://valvesnmore.com/) | Für mich die ehrlichsten NOS-Anbieter. Qualität ist immer überragend und messen alles, bevor es rausgeht! Haben auch tollen [YT-Kanal!](https://www.youtube.com/@tubelab194) |
 | [Frag Jan zuerst](http://www.askjanfirst.com/dindex.htm) | Die Wuestens ;-) Großer Röhrenbestand. |
+| [Valves and More](https://valvesnmore.com/) | Für mich die ehrlichsten NOS-Anbieter. Qualität ist immer überragend und messen alles, bevor es rausgeht! Haben auch tollen [YT-Kanal!](https://www.youtube.com/@tubelab194). Sind auch in den USA, also Lieferungen dauern! |
+| [Tubes and more](https://www.tubesandmore.com/) | Einer der ältes Anbieter im Markt, leider auch in den USA/Tempe Arizona, lange Lieferzeiten / Zoll. |
 
 # DIY - Lautsprecher
 
@@ -108,12 +109,14 @@ tags:
 
 # Vintage Reparatur / Modifikationen
 
+**HINWEIS: alle hier aufgeführten haben im Schnitt 2-4 Monate Wartezeiten bei Reparaturen. Daher nicht ungeduldig sein, QUALITÄT HATT SEINEN PREIS & BENÖTIGT ZEIT!.**
+
 | Link | Infos |
 | :--- | :--- |
 | [Martin Kühne](https://ftbw.de/index.html) | Habe ich bereits einiges reparieren lassen. Nicht günstig, aber Ober-Freak und kennt sein Handwerk. Bsp. Quad 405-2 Modifikation ist der Hammer. |
 | [Swoboda Audio](https://swobodaaudio.de/) | Sind sehr bekannt für Ihre CD-Player Modifikationen. Nicht günstig, aber bei CD-Reparatur für mich die Nummer 1.|
 | [Hoerwege](https://hoer-wege.de/) | Auch sehr versierte Werkstatt. Sehr starken Fokus auf DAC's und Verstärker von einigen wenigen Herstellern. |
-| [Good-old-Hifi](https://www.good-old-hifi.de/) | Fokus auf den Klassikern aus Japan, Bsp. Marantz. |
+| [Good-old-Hifi](https://www.good-old-hifi.de/) | Fokus auf den Klassikern aus Japan. Extrem guter Service, habe meinen Marantz 2270 full-revision gemacht + deren Wood-Case, Chaepau! |
 | [HifiDoc](https://www.hifi-reparatur-muenchen.de/) | gibts auch schon sehr lange, gute Bewertung. |
 | [Vintage Hifi Kassel](https://vintage-hifi-kassel.de/leistungen/) | Machen auch Reconing |
 
