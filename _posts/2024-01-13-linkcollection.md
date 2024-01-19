@@ -101,6 +101,8 @@ tags:
 | [SnakeOilAudio Forum](https://forum.snakeoilaudio.de/) |  |
 | [DiyAudio Community](https://www.diyaudio.com/community/) |  |
 | [WhatsBest](https://www.whatsbestforum.com/) | Extrem High'endig, aber hier kann man sich mit Leuten austauschen, die extrem teure Anlagen haben und ehrlichen Austausch führen! |
+| [SONVS Apparatus](https://forum.sonusapparatus.com/) | Für jeden der DAC/Streamer & Headphone interessiert wird, das MUST-GO Forum. Hier treffen sich auch die ganzen "echten" Highender und sehr freundlicher Ton. USA |
+| [Audiogon](https://forum.audiogon.com/) | Besuche ich immer mal wieder, da hier viel unterstützt wird von versierten Leuten. |
 
 ---
 
