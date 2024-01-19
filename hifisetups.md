@@ -1,5 +1,5 @@
 ---
-title: Community Setup's
+title: Add Your Setup
 layout: page
 ---
 
