@@ -22,6 +22,7 @@ tags:
 | [Handbook for Soundengineers, PDF](/assets/pdf/Ballou%20-%20Handbook%20for%20sound%20engineers-4e.pdf) | Umfassendes Referenzwerk zum Thema Hifi/Sound von 2008 |
 | [Lautsprecher, elektor PDF](/assets/pdf/dichtung_und_wahrheit.pdf) | Lautsprecher Dichtung und Wahrheit von elektor |
 | [Deutsches Hifi-Museum](http://www.hifimuseum.de/) | Immer einen (nostalgischen) Besuch wert! |
+| [Lansing Heritage](https://www.lansingheritage.org/) | Altec Lansing, JBL und LMCo Library - immer einen Besuch wert! |
 
 ---
 
