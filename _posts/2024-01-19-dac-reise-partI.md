@@ -122,7 +122,7 @@ Hier haben sich folgende Bit-Depths (Tiefen) etabliert:
 - 16-bit: unter anderem CD, welche einen Dynamic Range von 96dB ermöglicht
 - 24-bit: in modernen Musikstudios der Standard zur Verarbeitung, welche einen Dynamic Range von 144dB ermöglicht
 
-### Sample-Rate versus Bit-Depth:**
+### Sample-Rate versus Bit-Depth:
 
 - **Sample-Rate:** Bestimmt die Anzahl der pro Sekunde aufgenommenen Samples bezogen auf den Frequenzbereich und die Gesamtwiedergabetreue der digitalen Darstellung der ursprünglichen Sound-Wave.
 - **Bit-Depth:** Bestimmt die Genauigkeit der Amplitudenwerte für jedes Audio-Sample, was sich auf den Dynamikbereich und den Rauschpegel des digitalen Audiosignals auswirkt.
