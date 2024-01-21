@@ -11,7 +11,7 @@ tags:
 - teil1
 ---
 
->**HINWEIS: Ähnlich wie bei Audiokabel, ist das Thema Digital Analog Konverter und Streaming ein wild umkämpftes Thema bei uns Hifi-Nerds ;-). Von Mythos und Bits-sind-Bits, bis hin dass ein Streamer unter €30.000 nix taugt!**
+>**HINWEIS: Ähnlich wie bei Audiokabel, ist das Thema Digital Analog Konverter und Streaming ein wild umkämpftes Thema bei uns Hifi-Nerds ;-). Von Mythos und Bits-sind-Bits, bis hin dass ein Streamer unter €20.000 nix taugt!**
 >**Auch ich habe nicht den heiligen (DAC)-Gral gefunden, jedoch habe ich eine Vielzahl an DAC's und Streamer in den letzten 4 Jahren intensiv getestet und besitze auch einige passable Modelle zum Vergleich.**
 
 # Hintergrund
@@ -45,7 +45,7 @@ _Quelle: Sampleconverter_
 | **NOS** | **N**one **O**ver**s**ampling - es kommen keine digitalen Filter zum Einsatz |
 | **PCM** | **P**uls-**C**ode-**M**odulation - unkomprimiertes Audio Format, Multi-Bit. Bit-Paket mit einer speziellen Wortbreite (z.B. 16, 24, 32, etc. Bit). |
 | **R2R** | **R**esistor 2 **R**esistor |
-| **WAV** |  Waveform Audio File Format - unkomprimiertes Audio Format und speichert Audiodaten in einem Wellenform-Format (WAVeform) |
+| **WAV** |  Waveform Audio File Format - unkomprimiertes Audio Format und speichert Audiodaten in einem Wellenform-Format (**WAV**eform) |
 
 
 # ADC und DAC
@@ -190,6 +190,7 @@ _Quelle: Samplerateconverter_
 
 - Generell gilt die Faustregel, das R2R NOS am _natürlichsten/organischer_ klingen, da auch keinerlei digitale Filtering vorgenommen wird
 - Sigma-Delta haben aber durch digitale Filtering, egal ob via FPGA oder DSP natürlich eine Vielzahl an _Korrektur-Möglichkeiten_, Bsp. Raumanpassungen
+- Manche schwören auf DSD-DAC's, hier sei jedoch der Hinweis: nur die wenigsten verarbeiten NATIV DSD ab, wie Meitner oder PS Audio. Viele andere Hersteller verarbeiten DSD in PCM um ;-) Sowie liegt in Studios das Material immer in PCM Format vor!
 
 **Des weiteren gilt für mich persönlich, der sehr viele DAC's bereits getestet hat, dass man diese in Preisklassen eingliedern kann (ja, wird auch Ausreißer geben, aber ganz, ganz selten):**
 
