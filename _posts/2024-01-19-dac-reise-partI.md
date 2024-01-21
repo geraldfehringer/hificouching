@@ -210,6 +210,7 @@ _Quelle: Samplerateconverter_
 
 - **Abbas Audio DAC 3.2 SE**
 - **Weiss DAC 501 MK-II**
+- **DIY: Ian Canada FiFo Q7 mit ESS9038Q2M**
 
 # DAC Chips
 
