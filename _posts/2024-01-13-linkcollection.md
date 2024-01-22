@@ -137,12 +137,13 @@ tags:
 
 | Link | Infos |
 | :--- | :--- |
-| [Martin Kühne](https://ftbw.de/index.html) | Habe ich bereits einiges reparieren lassen. Nicht günstig, aber Ober-Freak und kennt sein Handwerk. Bsp. Quad 405-2 Modifikation ist der Hammer. |
-| [Swoboda Audio](https://swobodaaudio.de/) | Sind sehr bekannt für Ihre CD-Player Modifikationen. Nicht günstig, aber bei CD-Reparatur für mich die Nummer 1.|
-| [Hoerwege](https://hoer-wege.de/) | Auch sehr versierte Werkstatt. Sehr starken Fokus auf DAC's und Verstärker von einigen wenigen Herstellern. |
-| [Good-old-Hifi](https://www.good-old-hifi.de/) | Fokus auf den Klassikern aus Japan. Extrem guter Service, habe meinen Marantz 2270 full-revision gemacht + deren Wood-Case, Chaepau! |
+| [Martin Kühne, DE Weidenberg](https://ftbw.de/index.html) | Habe ich bereits einiges reparieren lassen. Nicht günstig, aber Ober-Freak und kennt sein Handwerk. Bsp. Quad 405-2 Modifikation ist der Hammer. |
+| [Swoboda Audio, DE Essen](https://swobodaaudio.de/) | Sind sehr bekannt für Ihre CD-Player Modifikationen. Nicht günstig, aber bei CD-Reparatur für mich die Nummer 1.|
+| [Hoerwege, DE Schwanewede](https://hoer-wege.de/) | Auch sehr versierte Werkstatt. Sehr starken Fokus auf DAC's und Verstärker von einigen wenigen Herstellern. |
+| [Good-old-Hifi, DE Niemegk](https://www.good-old-hifi.de/) | Fokus auf den Klassikern aus Japan. Extrem guter Service, habe meinen Marantz 2270 full-revision gemacht + deren Wood-Case, Chaepau! |
 | [HifiDoc](https://www.hifi-reparatur-muenchen.de/) | gibts auch schon sehr lange, gute Bewertung. |
-| [Vintage Hifi Kassel](https://vintage-hifi-kassel.de/leistungen/) | Machen auch Reconing |
+| [Vintage Hifi Kassel, DE Kassel](https://vintage-hifi-kassel.de/leistungen/) | Machen auch Reconing |
+| [Audio-Reparatur, DE Regensburg](https://audio-reparatur.de/) | Hochwertige Audio-Reparaturen, sind auch der offizielle Servicepartner für Audio Note DE |
 
 ---
 

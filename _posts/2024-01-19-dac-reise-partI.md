@@ -151,7 +151,7 @@ _Quelle: DPA Mikrofone_
 
 Ein anderer sehr wichtiger Aspekt während einer Wandlung/Konvertierung ist der Intervall zwischen den Samples. Jedes Intervall muss exakt die gleiche Länge haben, denn nach der Digitalisierung liegen keine Information über den Zeitpunkt eines Samples vor. Daher müssen wir uns auf eine stetige Wiederholung der Abtastung verlassen - ein konstantes Intervall. (Bei einer Samplingfrequeng von 48 kHz beträgt das Intervall zwischen zwei Samples 20.833 Mikrosekunden/µs.)
 
-Der Abtast-Takt muss stabil sein und sollte durch nichts gestört werden. (Nicht-Exakte Abtastwiederholung, auch Jitter genannt, führt zu Rauschen im reproduzierten Audio-Signal.)
+Der Abtast-Takt muss stabil sein und sollte durch nichts gestört werden. **(Nicht-Exakte Abtastwiederholung, auch Jitter genannt, führt zu Rauschen im reproduzierten Audio-Signal.)**
 
 _Quelle: DPA Mikrofone_
 
