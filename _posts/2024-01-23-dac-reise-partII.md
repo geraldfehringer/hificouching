@@ -43,7 +43,7 @@ Auch hier gibt es wieder einige Abkürzungen die man kennen sollte.
 | **MQA** | **M**aster **Q**uality **A**uthenticated - war mal der Hype (durch Tidal befeuert), ist seit 2023 Geschichte und wir haben genügend _offene_ lossless-Formate! |
 | **FLAC** | **F**ree **L**ossless **A**udio **C**odec - offener Standard und von allen Streaminganbietern genutzt (Bsp. Tidal, Qobuz) |
 | **ALAC** | **A**pple **L**ossless **A**udio **C**odec - wie immer, Apple's Antwort um alles auf seine Plattform zu kriegen - no-Go! |
-| **RAAT** | **R**oon **A**dvanced **A**udio **T**ransport - Roon propritäres Transportprotkoll innerhalb des eigenen Netzwerkes (Bsp. zwischen Roon-Clients/Bridges/Server) und basiert auf UDP (9003,32768:65535) & TCP (9330:9339,30000:30009). |
+| **RAAT** | **R**oon **A**dvanced **A**udio **T**ransport - Roon propritäres Transportprotkoll innerhalb des eigenen Netzwerkes (Bsp. zwischen Roon-Clients/Bridges/Server) und basiert auf UDP & TCP. |
 | **UPnP** | **U**niversal **P**lug and **P**lay - kennen viele von NAS im Netzwerk, aber wird eben auch im Audioumfeld eingesetzt, um mittels Server <> Renderer Musik zu streamen. |
 | **DLNA** | **D**igital **L**iving **N**etwork **A**lliance - Synonym zu UPnP, da hier eine Alliance entsprechende Audio-Formate für UPnP festgelegt hier und welcher Hersteller was unterstützt. |
 
@@ -63,7 +63,9 @@ Auch hier gibt es wieder einige Abkürzungen die man kennen sollte.
 6. Die Renderer können meist auch externe Streaming-Dienste einbinden wie Spotify, Qobuz, Tidal oder Airplay
 7. Eine App auf einem Endgerät wie Tablet oder Smartphone steuert diese _Renderer Clients_  und von da aus wird der Content ausgewählt und danach der _Livestream_ (oder schon aus dem temporären Speicher, da schon mal geladen) direkt vom Player ausgeführt
 
-**Der Punkt 7 ist Wichtigste daran, den nun wird nicht mehr von einem mobilen Endgerät oder mittels USB und einem Laptop der Stream direkt abgespielt, sondern auf diesen _optimierten Streamer/Player/Transport_!**
+**Der Punkt 7 ist Wichtigste daran, den nun wird nicht mehr von einem mobilen Endgerät oder mittels USB und einem Laptop der Stream direkt abgespielt, sondern von diesem _optimierten Streamer/Player/Transport_direkt!**
+
+<br>
 
 **Hier eine High-Level Sicht:**
 
