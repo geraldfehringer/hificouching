@@ -1,0 +1,254 @@
+<mxfile host="Electron" modified="2024-01-23T14:33:02.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="OAihnLxNQ_DW5BkuaD4z" version="22.1.21" type="device">
+  <diagram name="Seite-1" id="2Oy5na67eJPQsi6WbFti">
+    <mxGraphModel dx="2938" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="obiSop3Nvwf__gfI44jf-1" value="Streamer / Netzwerktransport" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fontColor=#333333;fillColor=#f5f5f5;verticalAlign=top;fontStyle=1;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="240" y="80" width="890" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-3" value="Netzwerk" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="255" y="240" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-2" value="WLAN / Bluetooth / Ethernet" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="255" y="290" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-4" value="Optische Eingänge" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="495" y="240" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-5" value="HDMI / I2S" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="496" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-6" value="USB" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="581" y="290" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-7" value="AES/EBU" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="631" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-8" value="SPIDIF" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="696" y="290" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-10" value="BNC" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="751" y="290" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-11" value="Toslink" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="796" y="290" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-12" target="obiSop3Nvwf__gfI44jf-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-12" target="obiSop3Nvwf__gfI44jf-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-12" value="Vorverstärker&lt;br&gt;(Vorstufe)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="256" y="641" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-13" value="Verstärker&lt;br&gt;(Endstufe)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#56517e;fillColor=#d0cee2;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="256" y="506" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-14" target="obiSop3Nvwf__gfI44jf-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-14" target="obiSop3Nvwf__gfI44jf-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="405" />
+              <mxPoint x="721" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-14" target="obiSop3Nvwf__gfI44jf-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="405" />
+              <mxPoint x="771" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-14" target="obiSop3Nvwf__gfI44jf-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="405" />
+              <mxPoint x="670" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-14" value="DAC" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontStyle=1;fontSize=16;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="466" y="526" width="454" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-15" value="Analog-Ausgang" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="476" y="576" width="169" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-16" value="DSP oder NOS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="666" y="571" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-17" value="RCA" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="479" y="616" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-18" value="XLR" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="530" y="616" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-19" value="Clock" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="706" y="650" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" target="obiSop3Nvwf__gfI44jf-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="675" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-20" value="DAC-Chip" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="581" y="656" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-23" target="obiSop3Nvwf__gfI44jf-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-23" value="CPU / Speicher&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(OS, Firmware)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="300" y="140" width="181.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-24" value="Festplatte&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(SD/SSD/HDD)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="521.5" y="140" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-26" value="FPGA&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Filter, Firmware)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="802" y="571" width="109" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-27" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="86" y="506" width="65" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-27" target="obiSop3Nvwf__gfI44jf-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.814;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-27" target="obiSop3Nvwf__gfI44jf-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-30" value="Server /&lt;br&gt;Renderer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="875" y="150" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-31" value="UpnP / DLNA" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="925" y="200" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-34" value="Roon" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="879.87" y="265" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-35" value="Lumin" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="933.87" y="265" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-36" value="BubbleUpnP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="986.87" y="265" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-37" value="Chromcast" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1035" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-39" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#b46504;fillColor=#fad7ac;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="992.94" y="130.32" width="8" height="241.88" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-40" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#23445d;fillColor=#bac8d3;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1079.62" y="265" width="35.38" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-41" target="obiSop3Nvwf__gfI44jf-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="865" y="220" />
+              <mxPoint x="865" y="265" />
+              <mxPoint x="880" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-41" value="RAAT" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="879.87" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-45" target="obiSop3Nvwf__gfI44jf-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-45" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.tablet;fontColor=#EEEEEE;" parent="1" vertex="1">
+          <mxGeometry x="957.55" y="565" width="148.65" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-48" value="Mobile&lt;br&gt;App" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="995.33" y="600" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-47" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Smartphone.svg;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="1" vertex="1">
+          <mxGeometry x="964.74" y="610" width="49.3" height="107.57" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-49" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="1" vertex="1">
+          <mxGeometry x="1025" y="413" width="121.2" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.658;entryY=1.143;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-49" target="obiSop3Nvwf__gfI44jf-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1075" y="390" />
+              <mxPoint x="373" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-55" target="obiSop3Nvwf__gfI44jf-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="105" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-80" value="TCP-Stream(s)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#6666FF;fontSize=17;fontStyle=1" parent="obiSop3Nvwf__gfI44jf-63" vertex="1" connectable="0">
+          <mxGeometry x="-0.7199" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-55" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="1" vertex="1">
+          <mxGeometry x="10" y="30" width="190.47" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-56" value="Qobuz" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="60" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-57" value="Spotify" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="26" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-58" value="Tidal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="91" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-59" value="Apple" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="58" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-60" value="YT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="86" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-70" target="obiSop3Nvwf__gfI44jf-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-70" target="obiSop3Nvwf__gfI44jf-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-70" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="1" vertex="1">
+          <mxGeometry x="429" y="422" width="84" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-71" value="Music Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="366" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-74" target="obiSop3Nvwf__gfI44jf-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-74" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_1;fontColor=#EEEEEE;fillColor=#09555B;" parent="1" vertex="1">
+          <mxGeometry x="513" y="438.25" width="51.41" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0B4D6A;" parent="1" source="obiSop3Nvwf__gfI44jf-77" target="obiSop3Nvwf__gfI44jf-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-77" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.fire_tv;fillColor=#5294CF;gradientColor=none;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
+          <mxGeometry x="796" y="442.13" width="74" height="57.87" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-79" value="TV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="856" y="448" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="obiSop3Nvwf__gfI44jf-83" value="(c) #gerihifi" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1022.6700000000001" y="690" width="104.67" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
