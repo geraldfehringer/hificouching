@@ -308,6 +308,14 @@ Hier gibt es eine Vielzahl von UPnp, Airplay und Roon-basierten Apps. Ich persö
 -- **LUMIN App** for Android (da ich zum DIY-Streamer auch Lumin Streamer nutze - diese App findet auch den GentooPlayer ohne Probleme!) \
 -- **Spotify Connect** direkt via GentooPlayer
 
+**WICHTIGER HINWEIS BEI NUTZUNG BUBBLE-UPNP:**
+
+- Unbedingt vorher in der BubbleUpnp Management Oberfläche, in meinem Falle: http://192.168.178.200:58050/ den Open Home Server aktivieren!
+- Danach zum Beispiel bei Spotify Connect oder in der BubbleUpnP-App selbst **zwingend "GentooPlayer@< Dein konfigurierter Name >-UPnP/AV (OpenHome)"** auswählen
+- **Ansonsten startet Ihr den Audio-Stream von Eurem Smartphone / Tablet und nicht über den GentooPlayer Server selbst! Was deutlich bessere Qualität bedeutet!**
+
+![Bubble-Setting](/assets/images/blog-gentooplayer/bubble-server.png)
+
 ---
 
 # Advanced Config Hinweise

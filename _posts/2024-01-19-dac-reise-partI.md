@@ -1,5 +1,5 @@
 ---
-title: DAC/ADC - meine digitale Reise, Teil-I
+title: DAC - meine digitale Reise, Teil-I
 layout: post
 post-image: "/assets/images/blog-dac-adcs/gerihifi-dacadc.png"
 description: Mythos Digital Analog Converter und am Ende doch wieder alles Analog?
@@ -11,7 +11,7 @@ tags:
 - teil1
 ---
 
->**HINWEIS: Ähnlich wie bei Audiokabel, ist das Thema Digital Analog Konverter und Streaming ein wild umkämpftes Thema bei uns Hifi-Nerds ;-). Von Mythos und Bits-sind-Bits, bis hin dass ein Streamer unter €20.000 nix taugt!**
+>**DISCLAIMER: Ähnlich wie bei Audiokabel, ist das Thema Digital Analog Konverter und Streaming ein wild umkämpftes Thema bei uns Hifi-Nerds ;-). Von Mythos und Bits-sind-Bits, bis hin dass ein Streamer unter €20.000 nix taugt!**
 >**Auch ich habe nicht den heiligen (DAC)-Gral gefunden, jedoch habe ich eine Vielzahl an DAC's und Streamer in den letzten 4 Jahren intensiv getestet und besitze auch einige passable Modelle zum Vergleich.**
 
 # Hintergrund
