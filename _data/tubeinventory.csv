@@ -1,26 +1,43 @@
 Type,Vendor,Amount,Matched,€ Estimate,Notes
 ECC83 (12AX7),Valvo,2,yes,100 (pair),NOS with disc getter and 4mA
-CF7 (TCF7,UF7,NF2,13H1),Valvo,2,no,56 (piece),NOS NIB New Pentode
+CF7 (TCF7;UF7;NF2;13H1),Valvo,2,no,56 (piece),NOS NIB New Pentode
+CF7,Valvo,2,no,32,Valvola NOS/NIB/NEW sealed box
 6080WA,JAN RAYTHEON,2,yes,92 (pair),NOS NIB SCHWARZE PLATTEN 1960 power twin triod
-5V4G,JAN RCA,2,yes,74 (pair),NOS Coke Bottle RECTIFIER VACUUM TUBES USA Tested P.5767-D
 6080,RCA,2,yes,72 (pair),NOS Black Plate Valves Tubes NOS Boxed (V48)
-EZ11,TELEFUNKEN,1,19,RFT # NOS (2986)
+6080,General Electronics,5,no,90,6080 Leistungsröhren. Sie sind NOS und originalverpackt
+5V4G,JAN RCA,2,yes,74 (pair),NOS Coke Bottle RECTIFIER VACUUM TUBES USA Tested P.5767-D
+5V4G,Brimar,1,no,94,52/52mA
+EZ11,TELEFUNKEN,1,no,19,RFT # NOS (2986)
+EZ11,TELEFUNKEN,1,no,60,CODE:ik=04.1937 # NOS (4453) 30/30mA
+EF13,TELEFUNKEN,2,yes,60,CODE:ik=05.1944 # NOS (4422) 6.9/6.9mA
 5Y3GT,TUNG-SOL,2,yes,78 (pair),NOS NIB (2034)
+5y3GT,Ultron,1,no,19,NOS 48/48mA
+5y3GT,BRIMAR,2,yes,95,Philips Factory
+5Y3WGTA,SYLVANIA,2,yes,94,NOS 80/80mA 
 EF12,PHILIPS MINIWATT,1,no,60,NOS (2992)
 EZ81, MULLARD,1,no,76,NOS # B-CODE # D-GETTER # NOS (4230)
 5V4,RCA,1,no,49,LABEL STANDARD # NOS (3400)
 5V4GA,RCA,1,no,70,NOS (2868)
-ECC83,VALVO,2,matched,100,NOS - OVP - DISC GETTER
+5V4G (CV729),Brimar,1,no,90,graue Platten rechteckiges Getter NOS STC/Brimar UK
+ECC83,VALVO,2,yes,100,NOS - OVP - DISC GETTER
 RGN 1404,Telefunken,2,no,120,NOS 4 Volt used
 E80CC2 (6085),Phillips,2,yes,120,NOS matched pair 100%
 E80CC,Philips Miniwatt,2,yes,210,one matched pair SQ Special Quality  golden pin code VB9
-E82CC (ECC82,5814A),2,yes,159,Munich long plates 3 mica / Military Tube
+E82CC (ECC82;5814A),2,yes,159,Munich long plates 3 mica / Military Tube
 EZ12,TELEFUNKEN,1,no,53,NOS # OO Getter (1499)
 EZ12,TELEFUNKEN,1,no,58,NOS # OO Getter # Labormuster (4268)
-E88CC (ECC,88,CCa),Siemens,2,yes,270,New matched Paar 17/18 and 18/17 gleichen Produktionscode A49E 09 270
-
-
-
-
-
+E88CC (ECC;88;CCa),Siemens,2,yes,270,New matched Paar 17/18 and 18/17 gleichen Produktionscode A49E 09 270
+E88CC,Siemens,2,yes,180, neu, matched, OVP 17/17 17/17 gleichen Produktionscode A62E 672  
+E80CC (6085;CV5989),Valvo,2,yes,140,NOS matched pair Valvo Red Code VB9 015
+E80CC (6085;CV5989),Valvo,2,yes,150,NOS matched pair Valvo Red Code VB9 001
+E82CC (6189;12AU7WA),SYLVIANA,2,yes,80,JHS 1965: MIL-Spezifikation
+ECC82,ADZAM aka MAZDA,3,no,50,
+PX4,Marconi,1,no,230,NOS Fat Shape Valve Tube with Cooling Fins Used Tested (V7)
+PX4,Marconi,1,no,220,NOS Grey Glass Valve Tube NOS
+EZ80 (6V4),Amperex,1,no,65,NOS NIB 45° Code KC0 V3A
+ECC88,Mullard,2,yes,110,Mached pair Mullard (rebrandet Standard Brand) silver shield same code:IX1 B8A3 / IX1 B8A3
+E88CC-01,Mullard,2,yes,150,gold pins RARE code R8G2 and R6D3
+E88CC-01,Phillips,2,yes,155,gold pins RARE code 7LG (triange)3B2 and 7LG(triangle)0I1
+6SN7GT,Cossor Brimar,2,yes,350,die Beste in NOS kaum noch zu kriegende Oktal-Röhren überhaupt
+6SNGT,RCA,2,yes,210,1955 black plates 11.0/11.0mA 2.8mA/V and 10.5/11.0mA  2.8mA/V
 
