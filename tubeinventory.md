@@ -21,14 +21,12 @@ datatable: true
 <table>
   {% for row in site.data.tubeinventory %}
     {% if forloop.first %}
-    <thead>
     <tr>
       {% for pair in row %}
         <th>{{ pair[0] }}</th>
       {% endfor %}
     </tr>
     {% endif %}
-    </thead>
     {% tablerow pair in row %}
       {{ pair[1] }}
     {% endtablerow %}
