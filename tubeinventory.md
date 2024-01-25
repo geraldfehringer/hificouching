@@ -17,6 +17,7 @@ datatable: true
 
 :notes:
 
+<div class="datatable-begin"></div>
 
 <table>
   {% for row in site.data.tubeinventory %}
@@ -32,3 +33,5 @@ datatable: true
     {% endtablerow %}
   {% endfor %}
 </table>
+
+<div class="datatable-end"></div>
