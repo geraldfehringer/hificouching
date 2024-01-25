@@ -30,6 +30,6 @@ datatable: true
     {% tablerow pair in row %}
       {{ pair[1] }}
     {% endtablerow %}
-  <thead>
+  </thead>
   {% endfor %}
 </table>
