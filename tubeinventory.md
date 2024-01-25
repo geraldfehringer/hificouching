@@ -19,17 +19,17 @@ datatable: true
 
 <table id="tubes" class="display" style="width:100%">
   {% for row in site.data.tubeinventory %}
+  <thead>
     {% if forloop.first %}
-    <thead>
     <tr>
       {% for pair in row %}
         <th>{{ pair[0] }}</th>
       {% endfor %}
     </tr>
-    </thead>
     {% endif %}
     {% tablerow pair in row %}
       {{ pair[1] }}
     {% endtablerow %}
+  <thead>
   {% endfor %}
 </table>
