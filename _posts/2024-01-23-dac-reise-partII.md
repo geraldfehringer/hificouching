@@ -140,6 +140,8 @@ Hier zu empfehlen sind diese Youtube-Videos von Alpha Audio (English, aus den Ni
 
 Deutlich anders ist es sicher im Lautsprecher- oder Verstärkerbau, aber im Streamer-Umfeld ist etablierte Technologie im Einsatz, die seit Jahren sich kaum verändert! Außer mal neue Linux-Kernel, Firmware-Updates für neuere Hardware (DAC-/USB-/WLAN-/Bluetooth-/NIC-/FPGA-/Chips) oder es kommt wiedermal ein propritäres Streaming-Protokoll auf den Markt, wie [Diretta](https://www.diretta.link/).)
 
+Ja, natürlich kommen immer mal wieder neue DAC-Chips (wahrscheinlich irgendwann mit KI-Funktion für random-Auflösung mit 64bit/576KHz und Musiktitel-erzwingen ;-) auf den Markt und noch bessere Clocks, aber dies wird das Streaming NICHT mehr revolutionieren!
+
 **Auch hier würde ich wieder die 3 Preisklassen, wie bei den DAC's heranziehen:**
 
 **Bei _High-End_ gilt für mich persönlich einen dedizierten Streamer und externen DAC zu nutzen. In der Einstiegs- und hochwertigen-Klasse gibt es sehr gute Kombimodelle, hier macht die Trennung wenig Sinn! Da hier auch meist die Streamer-Integration gut auf den verbauten DAC & eventuelle Vorstufe abgestimmt ist!**
