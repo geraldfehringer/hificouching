@@ -6,7 +6,9 @@ datatable: true
 
 ![Audio Note](/assets/images/audionote-tube.jpg)
 
-_Source: unfortunately, not my personal chain - pic from Japan-Audiophile ;-)_
+_Source: unfortunately, not my personal chain - pic from an great Japan-Audiophile :grin:_
+
+---
 
 # Tube Databases / Data-Sheets
 
@@ -14,6 +16,8 @@ _Source: unfortunately, not my personal chain - pic from Japan-Audiophile ;-)_
 - [Patric Sokoll Datenblätter](https://patric-sokoll.de/R%C3%B6hrenmuseum/Datenbank/Liste%20Hersteller.html)
 - [tdsl search database](https://tdsl.duncanamps.com/tubesearch.php)
 - [Frank Tabellen](https://frank.pocnet.net/)
+
+---
 
 # Gerihifi Personal Tube Inventory
 

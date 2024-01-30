@@ -46,6 +46,7 @@ tags:
 | [Frank Tabelle](https://frank.pocnet.net/)| Lange Liste an Datenblättern |
 | [Röhren-Such-Datenbank](https://tdsl.duncanamps.com/tubesearch.php) |Suchmaschine (auch Kyrillisch) für Daten, Schaltungen und Software rund um die Röhre |
 | [Tube Factory](https://wtfamps.com) | Sehr guter DIY-Einstieg, top dokumentiert & aufbereitet|
+| [Brent Jesse Tubes](https://www.audiotubes.com/6sn7.htm) | 6Sn7 best-of infos |
 
 ---
 
