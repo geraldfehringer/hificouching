@@ -5,7 +5,8 @@ datatable: true
 ---
 
 ![Audio Note](/assets/images/audionote-tube.jpg)
-_Source: unfortunately, not my personal chain ;-)_
+
+_Source: unfortunately, not my personal chain - pic from Japan-Audiophile ;-)_
 
 # Tube Databases / Data-Sheets
 
