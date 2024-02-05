@@ -1,5 +1,5 @@
 ---
-title: DAC/Streaming - meine digitale Reise, Teil-III
+title: DAC/Streaming - meine digitale Reise, THE END.
 layout: post
 post-image: "/assets/images/blog-dac-adcs/gerihifi-dacadc3.png"
 description: Grimm Audio MU2 High-End Streamer, DAC & Pre-Amp ..voll bekloppt!
