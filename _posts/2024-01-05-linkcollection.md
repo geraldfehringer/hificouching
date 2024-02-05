@@ -12,6 +12,8 @@ tags:
 
 <br>
 
+**Last Update: 05/02/2024**
+
 > DISCLAIMER. Diese Links sind unter anderem aus dem [SnakeOilAudio-Forum](https://forum.snakeoilaudio.de/thread-1607.html) und durch meine persönlichen Recherchen erweitert.
 
 # Generelle Literatur

@@ -26,8 +26,8 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem 'jekyll-admin', "0.9.0"
   gem 'jekyll-toc'
-  gem 'jekyll-minimagick'
-  gem "jekyll-thumbnail"
+  #gem 'jekyll-minimagick'
+  #gem "jekyll-thumbnail"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
