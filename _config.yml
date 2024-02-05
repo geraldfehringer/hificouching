@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-toc
+  - jekyll-minimagick
   - jekyll-thumbnail
 
 # TOC Settings
