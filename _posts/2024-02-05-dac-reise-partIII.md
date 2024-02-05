@@ -85,10 +85,18 @@ Aber wie dieses, kleine unscheinbare Gerätchen abliefert ist schon eine Wucht. 
 
 ---
 
-**Ist der MU2 nun besser als meine Weiss DAC 501 und Lumin Mini U2 mit Ferrum Hypsos Netzteil?**
+:speech_balloon: **Ist der MU2 nun besser als meine Weiss DAC 501 und Lumin Mini U2 mit Ferrum Hypsos Netzteil?**
 
 >**(J)NEIN! Der Weiss DAC 501 MKII + Lumin Streamer sind schon absolut TOP, aber All-In-One MU2 ist _langzeittauglicher_!** \
 >**Darüber hinaus entfällt ein zusätzlicher Vorverstärker und ein Streamer - Platz-/Energie-sparender!**
+
+:speech_balloon: **Ist der MU2 nun besser als der DIY Ian Canada DAC/Streamer?**
+
+>**JA! Da beim Ian Canada der OPA zwar gut ist, aber niemals auf dem Niveau von Grimm. Da muss man schon nochmals relevantes DIY-PreAmp Projekt mitberücksichtigen!**
+
+:speech_balloon: **Ist der MU2 DAC nun besser als der Abbas Audio 3.2SE (TDA1541 Vintage)?**
+
+>**NEIN! Da der Abbas-DAC eine andere musikalische Signatur hat, die in Richtung Audio Note Level 3/4 geht und auch die ist _langzeittauglich_!**
 
 ---
 
