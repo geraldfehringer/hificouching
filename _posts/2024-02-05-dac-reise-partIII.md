@@ -38,8 +38,10 @@ Alpha Audio hat auf Ihrem YoutTube Kanal eine sehr gute Zusammenfassung. Ja, Sie
 
 # Grimm Audio MU2
 
-**Das Design und Board wurde nochmals komplett überarbeitet und Sie haben nun auch eine voll-anaologe Pre-Amp Sektion + den _Major-DAC (FPGA basierend)_ mitverbaut.** \
+**Das Design und Board wurde nochmals komplett überarbeitet und Sie haben nun auch eine voll-analoge Pre-Amp Sektion + den _Major-DAC (FPGA basierend)_ mitverbaut.** \
 **Der [MU2](https://www.grimmaudio.com/hifi-products/music-players/mu2/) Streamer+DAC+Preamp fungiert als Roon Server/Core/Endpoint und somit ist auch eine Roon-Subcsription zwingend erfoderlich.**
+
+**Mich hatte schon der MU1 sehr getriggert, aber ohne DAC + PreAmp uninteressant, zum damaligen Preis!**
 
 Viele belächeln das verbaute "Switch-Mode" Netzteil, jedoch wurde dies von Grimm komplett eigenentwickelt und wie Guido Tent im Alpha Audio [Video Teil-II](https://www.youtube.com/watch?v=y2H32t-du14) erklärt, wissen Sie was Sie tun :grimacing: . 
 

@@ -76,6 +76,7 @@ tags:
 | [Hornlautsprecher](http://www.hornlautsprecher.de/) | Alles rund um Hornlautsprecher |
 | [Strassacker LS](https://www.lautsprechershop.de/intro_de.htm) | Das Sortiment an Chassis und Bauteilen ist umfangreich. Der Service und die Beratung sind kompetent und vervorragend. |
 | [Hifi Selbstbau](https://hifi-selbstbau.dyndns.org/index.html) | Sehr umfangreich und informativ für uns LS-Bauer, wenns manchmal wirklich interessant wird, muss man sich kostenpflichtig anmelden. |
+| [Aktiv-Hören-Forum Dämmmaterial](https://www.aktives-hoeren.de/viewtopic.php?t=4333) | User Raal hat hier eine ausgezeichnete Sammlung abgelegt! |
 
 ---
 
