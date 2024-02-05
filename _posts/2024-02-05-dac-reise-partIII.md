@@ -90,15 +90,16 @@ Aber wie dieses, kleine unscheinbare Gerätchen abliefert ist schon eine Wucht. 
 
 >**(J)NEIN! Der Weiss DAC 501 MKII + Lumin Streamer sind schon absolut TOP, aber All-In-One MU2 ist _langzeittauglicher_!** \
 >**Was mir aber auffällt, dass der Weiss schon mehr in Musikstücken eingreift, wie größere Bühne und Instrumente mehr analytischer darstellt.** \
->**Darüber hinaus entfällt ein zusätzlicher Vorverstärker und ein Streamer - Platz-/Energie-sparender!**
+>**Darüber hinaus entfällt ein zusätzlicher Vorverstärker und ein Streamer > Platz-/Energie-sparender!**
 
 :speech_balloon: **Ist der MU2 nun besser als der DIY Ian Canada DAC/Streamer?**
 
->**JA! Da beim Ian Canada der OPA zwar gut ist, aber niemals auf dem Niveau von Grimm. Da muss man schon nochmals relevantes DIY-PreAmp Projekt mitberücksichtigen!**
+>**JA! Da beim Ian Canada der [OPA](https://github.com/iancanada/DocumentDownload/blob/master/RPiDacHAT/IVboards/OPA861IV/OPA861.jpg) zwar gut ist, aber niemals auf dem Niveau von Grimm. Da muss man schon nochmals relevantes DIY-PreAmp Projekt mitangehen!**
 
 :speech_balloon: **Ist der MU2 DAC nun besser als der Abbas Audio 3.2SE (TDA1541 Vintage)?**
 
->**NEIN! Da der Abbas-DAC eine andere musikalische Signatur hat, die in Richtung Audio Note Level 3/4 geht und auch die ist _langzeittauglich_!**
+>**NEIN! Da der Abbas-DAC eine andere musikalische Signatur hat, die in Richtung Audio Note Level 3/4 geht und auch die ist _langzeittauglich_!** \
+>**Möchte ich für meine Breitbänder und DeVore nicht missen!**
 
 ---
 
