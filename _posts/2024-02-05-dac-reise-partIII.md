@@ -79,6 +79,7 @@ Eigentlich kann mich im DAC-/Streamer Bereich nichts mehr _vom Hocker_ reissen, 
 
 Aber wie dieses, kleine unscheinbare Gerätchen abliefert ist schon eine Wucht. Ich kann zu 99% nachvollziehen, was die holländischen Jungs von _Alpha Audio_ versuchten zu vermitteln:
 - **Extrem präzise, aber nicht analytisch anstregend!**
+- **Räumliche Darstellung entspricht dem jeweiligen Musikstück und ist nichts hinzugefügt (machen einige DAC's leider häufiger)!**
 - **Die analoge Vorstufe (Relaisbasis) spielt locker jede 5k+ die ich bislang hatte an die Wand!**
 - **Preis-/Leistung? Muss jeder persönlich entscheiden, wie bei allem im Leben!**
 - **Roon läuft super stabil. Leider hat der MU2 keine Fernbedienung (IR-Sensor dabei), aber man steuert eh alles über Roon.**
@@ -88,6 +89,7 @@ Aber wie dieses, kleine unscheinbare Gerätchen abliefert ist schon eine Wucht. 
 :speech_balloon: **Ist der MU2 nun besser als meine Weiss DAC 501 und Lumin Mini U2 mit Ferrum Hypsos Netzteil?**
 
 >**(J)NEIN! Der Weiss DAC 501 MKII + Lumin Streamer sind schon absolut TOP, aber All-In-One MU2 ist _langzeittauglicher_!** \
+>**Was mir aber auffällt, dass der Weiss schon mehr in Musikstücken eingreift, wie größere Bühne und Instrumente mehr analytischer darstellt.** \
 >**Darüber hinaus entfällt ein zusätzlicher Vorverstärker und ein Streamer - Platz-/Energie-sparender!**
 
 :speech_balloon: **Ist der MU2 nun besser als der DIY Ian Canada DAC/Streamer?**
