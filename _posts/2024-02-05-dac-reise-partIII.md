@@ -73,7 +73,7 @@ Da ich persönlich schon einiges an sehr hochwertigen DAC/Streamer hatte, von De
 
 Ich bin nie ein Roon-Fan gewesen, da einfach zu teuer für diesen "simplen" Anwendungszweck. Jedoch man muss anerkennen, dass es die am Besten entwickelte APP und die stabilste Server-Player Software bietet. Auch das eingesetzte RAAT-Protokoll ist besser als Standard DLNA/UPnP und bei gängigen Herstellern sehr gut implementiert.
 
-Ja ich nutze eine Lifetime-Subscription, da ich diese für etwas günstiger 2021 bekommen habe und nur selten genutzt - **jetzt ist Sie dauerhaft im Einsatz für den MU2 :relieved:**
+Ja ich nutze eine Lifetime-Subscription, da ich diese für etwas günstiger 2021 bekommen habe und nur selten genutzt - **jetzt ist Sie dauerhaft im Einsatz für den MU2 :relieved: - geht ja auch nicht anders anzusteuern...**
 
 **Nun endlich zum MU2 selbst....**
 
