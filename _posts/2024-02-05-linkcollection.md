@@ -87,6 +87,7 @@ tags:
 | [Batt-Energy](https://www.batt-energy-shop.de/) | Jeder der hochwertige Batterien sucht, dass die ERSTE Anlaufstelle! Besten Lithium im Angebot.|
 | [Audiophonics](https://www.audiophonics.fr/) | Vielzahl an Zubehör. Preislich gute Angebote und hat auch viele exklusiv-Verkäufe von DIY'er wie Ian Canada|
 | [nanocamp](https://nanocamp.de/) | Vintage CD-Tuner und viele Einzelteile in dem Umfeld |
+| [Rotri Abdeckhüllen](https://rotri.de/) | Günstige custom-Abdeckhüllen, speziell für Röhrenverstärker hole ich diese oder wo viele Kühlschlitze sind (Staub!) |
 
 ---
 

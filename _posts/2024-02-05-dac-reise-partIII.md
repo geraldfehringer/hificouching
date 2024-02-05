@@ -51,25 +51,47 @@ Es bedarf nicht immer die externen hybriden-/linearen Netzteile, oder gar alles 
 - Die anaologe Preamp-Sektion und kompletter Signalweg ist in reiner Class-A ausgelegt 
 - Der sog. _Major DAC_ ist ebenfalls eine Eigenentwicklung - diese _discrete 1.5-bit PWM_ Konvertierung, wird im FPGA durchgeführt
 - Dies wird von Grimm auch genannt: **Pure Nyquist upsampling filters with a 'fundamentally flawless' 11th-order noise shaper of 1.5 bits.**
+- Hardware: Intel i3/2.4GHz,4Cores,8GB RAM,2TB internal Samsung SSD
+
+**MU2 Block Diagramm:**
+
+![Diagramm](/assets/images/blog-dac-adcs/mu2-blockdiagramm.png)
+
+**Hersteller Manuals sind auch sehr gut aufbereitet:**
+
+- [Hardware Guide](https://www.grimmaudio.com/wordpress/wp-content/uploads/Manual-MU2-Hardware-v1.0.pdf)
+- [Major DAC Blog](https://www.grimmaudio.com/publications/the-mu2-major-dac/)
 
 ---
 
 # Mein FAZIT
 
-Da ich persönlich schon einiges an sehr hochwertigen DAC/Streamer hatte, von Denafrips Terminator, Holo Audio L3 KTE, Merason DAC1, Rockna Wavelight, Lampizator Baltic 4, LinnebergG Satie, Lumin T2/Mini U2, Weiss DAC 501, Abbas DAC 3.2SE
+Da ich persönlich schon einiges an sehr hochwertigen DAC/Streamer hatte, von Denafrips Terminator, Holo Audio L3 KTE, Merason DAC1, Rockna Wavelight, Lampizator Horizon, LinnebergG Satie, Lumin T2/Mini U2, Weiss DAC 501, Abbas DAC 3.2SE
 
 ...traue ich mehr zu, Unterschiede in meiner Kette zu erkennen und dass jeder seine entsprechende Signatur mitbringt! Wie so häufig im HiFi-Bereich, wo alle immer von "neutraler Wiedergabe" gerne philosophieren.
 
-Ich bin nie ein Roon-Fan gewesen, da einfach zu teuer für diesen "simplen" Anwendungszweck. Jedoch man muss anerkennen, dass es die am Besten entwickelte APP und die stabilste Server-Player Software bietet. Auch das eingesetzte RAAT-Protokoll ist sehr stabil und bei gängigen Herstellern sehr gut implementiert.
+Ich bin nie ein Roon-Fan gewesen, da einfach zu teuer für diesen "simplen" Anwendungszweck. Jedoch man muss anerkennen, dass es die am Besten entwickelte APP und die stabilste Server-Player Software bietet. Auch das eingesetzte RAAT-Protokoll ist besser als Standard DLNA/UPnP und bei gängigen Herstellern sehr gut implementiert.
 
 Ja ich nutze eine Lifetime-Subscription, da ich diese für etwas günstiger 2021 bekommen habe und nur selten genutzt - **jetzt ist Sie dauerhaft im Einsatz für den MU2 :relieved:**
 
 **Nun endlich zum MU2 selbst....**
 
-Eigentlich kann mich im DAC-/Streamer Bereich nichts mehr _vom Hocker_ reissen, da es wirklich sehr viele gute Sigma-Delta, R2R-Ladder, hybride-/FPGA-basierte Architekturen, als auch Vintage NOS (TDA1541,PCM64/63) gibt.
+Eigentlich kann mich im DAC-/Streamer Bereich nichts mehr _vom Hocker_ reissen, da es wirklich sehr viele gute Sigma-Delta, R2R-Ladder, hybride-/FPGA-basierte Architekturen, als auch Vintage NOS (TDA1541,PCM64/63) gibt. **Hier nochmals mein HINWEIS: es geht nicht darum, teurer ist automatisch besser!!**
 
+Aber wie dieses, kleine unscheinbare Gerätchen abliefert ist schon eine Wucht. Ich kann zu 99% nachvollziehen, was die holländischen Jungs von _Alpha Audio_ versuchten zu vermitteln:
+
+- **Extrem präzise, aber nicht analytisch anstregend!**
+- **Die analoge Vorstufe (Relaisbasis) spielt locker jede 5k+ die ich bislang hatte an die Wand!**
+- **Preis-/Leistung? Muss jeder persönlich entscheiden, wie bei allem im Leben!**
+- **Roon läuft super stabil. Leider hat der MU2 keine Fernbedienung (IR-Sensor dabei), aber man steuert eh alles über Roon.**
+
+**Ist der MU2 nun besser als meine Weiss DAC 501 und Lumin Mini U2 mit Ferrum Hypsos Netzteil?**
+
+>**(J)MEIN! Der Weiss DAC 501 MKII + Lumin Streamer sind schon absolut TOP, aber All-In-One MU2 ist _langzeittauglicher_!**
+>**Darüber hinaus entfällt ein zusätzlicher Vorverstärker und ein Streamer, Platz-/Energie-sparender!**
 
 ---
 
 # Fotostrecke
 
+{{ "{% thumbnail /assets/images/blog-dac-adcs/20240203_145334.jpg 50x50 " }}%}
