@@ -21,7 +21,6 @@ layout: page
 
 <hr>
 
-**_As setup recipient, you'll receive an email, like that:_**
 **_Als Empfänger bekommst Du eine E-Mail, die so aussieht:_**
 
 ![](/assets/images/emailrequest.png)
