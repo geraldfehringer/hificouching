@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-**Vergiss nicht, Du benötigtst die Setup-ID des jeweiligen Benutzers - Copy&Paste von der Kartenübersicht!**
+**Vergiss nicht, Du benötigtst die Setup-ID des jeweiligen Benutzers - Copy&Paste von der [Kartenübersicht](/setups)!**
 
 ![](/assets/images/aadb2c-logo-black.png) ![](/assets/images/hifid_copy.png)
 
