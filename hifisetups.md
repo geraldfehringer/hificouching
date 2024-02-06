@@ -6,19 +6,19 @@ layout: page
 Bitte, füge hier die relevanten Details in dem Google-Formular ein:
 
 > **FORMULARDATEN WERDEN IN EINEM PRIVATEN GOOGLE ACCOUNT ABGELEGT, OHNE ANALYTICS!**
->> Solltest Du Daten ändern wollen, merke Dir den Google-Formslink der am Ende gezeigt wird <br>
->> Dieser Link gilt nur für DEINEN Eintrag! <br>
->> Sollest Du den Link nicht mehr haben, dann schicke mir Deine Änderungen an: <br>
->> hificouch [at] zerohat.net
->
-> **Die Daten werden einmal morgens um 4:13 verarbeitet und danach auf der Karte abgebildet.**
+
+>Solltest Du Daten ändern wollen, merke Dir den Google-Formslink der am Ende gezeigt wird <br>
+> Dieser Link gilt nur für DEINEN Eintrag! <br>
+> Sollest Du den Link nicht mehr haben, dann schicke mir Deine Änderungen an: <br>
+> hificouch [at] zerohat.net
+
+**Die Daten werden einmal morgens um 4:13 verarbeitet und danach auf der Karte abgebildet.**
 
 **Sonderzeichen zu verarbeiten ist immer blöd, wenn möglich keine Umlaute oder Sonderzeichen verwenden** :saluting_face:
+
+---
  
-<br>
-
 **Hier kann das Google Formular direkt aufgerufen werden: [https://forms.gle/4SNAcDceZ5dKE45y5](https://forms.gle/4SNAcDceZ5dKE45y5)**
-
 
 **..oder hier als embedded-Version:**
 <br>

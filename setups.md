@@ -3,7 +3,7 @@ title: Community Setup's
 layout: page
 ---
 
-> **Klick auf eines der grünen Icon's, um Details zu sehen!** <br>
+> **Klick auf einer der blauen Pin's, um Details zu sehen!** <br>
 > Unterhalb der Karte ist ein Suchfeld für Freitext, einfach nutzen wenn Ihr nach was bestimmten sucht! <br>
 
 **DU MÖCHTEST DEIN SETUP AUCH MIT DER COMMUNITY TEILEN?** \
