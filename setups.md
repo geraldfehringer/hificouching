@@ -3,21 +3,21 @@ title: Community Setup's
 layout: page
 ---
 
-> **Click on Icon to see HiFi setup details** <br>
-> Under the map is a search field - full-text, if you are looking for some specific gear! <br>
+> **Klick auf eines der grünen Icon's, um Details zu sehen!** <br>
+> Unterhalb der Karte ist ein Suchfeld für Freitext, einfach nutzen wenn Ihr nach was bestimmten sucht! <br>
 
-**SHARING YOUR SETUP?** \
-**Please, add them  [HERE](hifisetups) ...**
-
-<hr>
-
-**REQUEST LISTENING SESSION?** \
-**Please, go  [HERE](request) ...**
+**DU MÖCHTEST DEIN SETUP AUCH MIT DER COMMUNITY TEILEN?** \
+**Bitte, nutze das Google Formular [HIER](hifisetups) ...**
 
 <hr>
 
-Map default zoom is based on overall system geo location and will be automatically grouped if more systems are close to each other. <br>
-**NOTE: If there is a green circle with a number: <u>double-click</u> to open ;-)**
+**DU MÖCHTEST EINE HÖRPROBE BEI JEMANDEM?** \
+**Bitte, nutze hierzu das Formular [HIER](request) ...**
+
+<hr>
+
+Je nachdem wo die Setup's sind, wird der Zoom der Karte automatisch angepasst, daher gerne ran-zoomen. <br>
+**HINWEIS: Ein grüner Kreis mit einer Zahl, zeigt an da sind mehrere Setups und daher einfach eine Doppelklick um näher zu zoomen ;-)**
 
 <div id="map"></div>
 <br>
