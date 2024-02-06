@@ -7,17 +7,18 @@ layout: page
 > Unterhalb der Karte ist ein Suchfeld für Freitext, einfach nutzen wenn Ihr nach was bestimmten sucht! <br>
 
 **DU MÖCHTEST DEIN SETUP AUCH MIT DER COMMUNITY TEILEN?** \
-**Bitte, nutze das Google Formular [HIER](hifisetups) ...**
+👉 Bitte, nutze das Google Formular [HIER](hifisetups) ...
 
 <hr>
 
 **DU MÖCHTEST EINE HÖRPROBE BEI JEMANDEM?** \
-**Bitte, nutze hierzu das Formular [HIER](request) ...**
+👉 Bitte, nutze hierzu das Formular [HIER](request) ...
 
 <hr>
 
 Je nachdem wo die Setup's sind, wird der Zoom der Karte automatisch angepasst, daher gerne ran-zoomen. <br>
-**HINWEIS: Ein grüner Kreis mit einer Zahl, zeigt an da sind mehrere Setups und daher einfach eine Doppelklick um näher zu zoomen ;-)**
+
+**HINWEIS: ein grüner Kreis mit einer Zahl, zeigt an da sind mehrere Setups und daher einfach eine Doppelklick um näher zu zoomen ;-)**
 
 <div id="map"></div>
 <br>
