@@ -18,7 +18,7 @@ layout: page
 
 Je nachdem wo die Setup's sind, wird der Zoom der Karte automatisch angepasst, daher gerne ran-zoomen. <br>
 
-**HINWEIS: ein grüner Kreis mit einer Zahl, zeigt an da sind mehrere Setups und daher einfach eine Doppelklick um näher zu zoomen ;-)**
+**HINWEIS: ein grüner Kreis mit einer Zahl, zeigt an da sind mehrere Setups und einfach einen Doppelklick, um näher zu zoomen** :call_me_hand:
 
 <div id="map"></div>
 <br>
