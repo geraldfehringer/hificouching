@@ -7,4 +7,4 @@ visit: https://hificouch.world
 
 - Based on awesome community jekyll theme, https://github.com/thedevslot/WhatATheme
 
-  ENJOY MUSIC.
+  ENJOY MUSIC. #gerihifi
