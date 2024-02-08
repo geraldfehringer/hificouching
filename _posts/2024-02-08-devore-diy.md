@@ -47,7 +47,8 @@ Viele unterschiedliche Meinungen, Fanboys, voreingenommene Kommentare ....**das 
 
 # DeVore Reverse Engineering
 
-Durch Zufall habe ich mich auch im Gebrauchtmarkt umgesehen und da stosse ich auf Gunnar aus Lübeck, mit dem Anzeige-Titel: **_Devore Orangutan O96 | von Analyse zum Nachbau | ein Testbericht_**.
+Durch Zufall habe ich mich auch im Gebrauchtmarkt umgesehen und da stosse ich auf Gunnar aus Lübeck, mit dem Anzeige-Titel: \
+**_Devore Orangutan O96 | von Analyse zum Nachbau | ein Testbericht_**.
 
 **Das hat mich sofort hellhörig gemacht und habe Ihn gleich angeschrieben und gebeten mit das PDF zukommen zu lassen.**
 
