@@ -123,7 +123,7 @@ Ich nenne diese einfach mal so, da Gunnar sich so viel Mühe gegeben hat, was es
 - **Bass reicht mir in meinem Hörzimmer und obwohl ich diese wandnahe stehen habe, auf keinen Fall ein Wummern!**
 - **Kann nicht nur Jazz oder Klassik, kann auch ordentlich mit Punch zuschlagen!**
 - **Ich persönlich würde sagen Sie ist raumfreundlich und kann sicher auch 80qm problemlos beschallen!**
-- **Werde ich nicht verkaufen, da in der Kombination und Preis ich bei Audio Note dann eher bei €25.000 sein werde** :winging_face:
+- **Werde ich nicht verkaufen, da in der Kombination und Preis ich bei Audio Note dann eher bei €25.000 sein werde** 🤪
 
 Irgendwann werde ich Sie auch im Haupt-Wohnzimmer testen, aber nur wenn WAF (**W**omen **A**cceptance **F**actor) hier mitspielt :eyes:  ...
 
