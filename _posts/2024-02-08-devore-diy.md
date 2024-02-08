@@ -54,7 +54,7 @@ Durch Zufall habe ich mich auch im Gebrauchtmarkt umgesehen und da stosse ich au
 
 **Gunnar hat mir dies auch sofort unentgeltlich angeboten und am Abend ginge ich seinen 32-seitigen (!!) Detailbericht durch und ich wusste, ich muss mit Ihm in Kontakt treten!**
 
-Jeder der Interesse ha, sollte auf Ihn zugehen, da er sich wirklich sehr viel Mühe gegeben hat und auch fundiert, technisch beschreibt und kein Gequassel! \
+Jeder der Interesse hat, sollte auf Ihn zugehen, da er sich wirklich sehr viel Mühe gegeben hat und auch fundiert, technisch beschreibt und kein Gequassel! \
 Er bietet sein PDF zum kleinen Preis an, siehe [Kleinanzeigen](https://www.kleinanzeigen.de/s-anzeige/devore-orangutan-o96-von-analyse-zum-nachbau-ein-testbericht/2665251052-172-24229) - seine Benutzerkennung ist [RobF](https://www.kleinanzeigen.de/s-bestandsliste.html?userId=134688342)
 
 Ich war schockiert, nicht überrascht da im HiFi-Markt die Bepreisung von Produkten schon lange NICHTS mehr mit dem Gegenwert des Gerätes/Lautsprechers zu tun hat!
@@ -63,7 +63,7 @@ Ich war schockiert, nicht überrascht da im HiFi-Markt die Bepreisung von Produk
 
 Jetzt war ich anfixiert, wie Gunnar diese Probleme anging, um eine professionelle Version der OrangUtan 96 nachzubauen!
 
-**Auch hier beschreibt Ihr in allen Details, worauf er geachtet hat und warum aus einem 2-Monate Projekt, doch eher ein Jahr wurde. Alleine die Mühe die er sich gemacht hat, die BESTEN Bauteile für die Frequenzweiche zu kriegen, CHAPEAU !!!** 👏
+**Auch hier beschreibt er in allen Details, worauf er geachtet hat und warum aus einem 2-Monate Projekt, doch eher ein Jahr wurde. Alleine die Mühe die er sich gemacht hat, die BESTEN Bauteile für die Frequenzweiche zu kriegen, CHAPEAU !!!** 👏
 
 Gesagt, getan und natürlich habe ich die Nähe zu Lübeck aus Hamburg sofort ausgenutzt und habe Ihn besucht zu einer Hörprobe! Meinen DIY-Referenzverstärker (PX4 von [Josef/Röhrenfieber](https://www.roehrenfieber.com/px4)) eingepackt und los gings....
 
