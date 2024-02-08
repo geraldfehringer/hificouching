@@ -120,7 +120,7 @@ Ich nenne diese einfach mal so, da Gunnar sich so viel Mühe gegeben hat, was es
 - **Sehr, sehr harmonisch - die Mitten wie ein Breitbänder und die Kalotte ist schon eine Nummer für sich!**
 - **Aus seiner Anzeige: 'Er spielt extrem lebendig, viel hochauflösender mit berauschender Dynamik bedingt duch den starken Neodymantrieb' > stimme ich 100% zu!**
 - **Sie können auch leise!! Daher liebe ich derlei 2-Wege Bauweisen, gerade zur Abendstunde ein Genuß!**
-- **Bass reicht mir in meinem Hörzimmer und obwohl ich diese Wandnahe stehen habe, auf keinen Fall ein Wummern!**
+- **Bass reicht mir in meinem Hörzimmer und obwohl ich diese wandnahe stehen habe, auf keinen Fall ein Wummern!**
 - **Kann nicht nur Jazz oder Klassik, kann auch ordentlich mit Punch zuschlagen!**
 - **Ich persönlich würde sagen Sie ist raumfreundlich und kann sicher auch 80qm problemlos beschallen!**
 - **Werde ich nicht verkaufen, da in der Kombination und Preis ich bei Audio Note dann eher bei €25.000 sein werde** :winging_face:
