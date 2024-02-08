@@ -12,7 +12,7 @@ tags:
 
 # Hintergrund
 
-**Ich besitze bereits wertige, teure Lautsprecher und für meinen 2. Hörraum, war ich auf der Suche nach wandnaher Aufstellung und auch nicht zu wuchtig. Daher mein Fokus auf Audio Note und DeVore.** \
+**Ich besitze bereits wertige Lautsprecher im Hautpwohnzimmer und für meinen 2. Hörraum, war ich auf der Suche nach wandnaher Aufstellung und auch nicht zu wuchtig. Daher mein Fokus auf Audio Note und DeVore.** \
 **Ich bin auch absolut kein Fan von Bookshelf-Speaker, da ich weder aktive-DSP Anpassungen oder Subwoofer mag, weder mitten in den Raum stehen zu haben!**
 
 **Ich liebäugle schon seid einigen Jahren mit Audio Note AN-E oder Devore Lautsprecher.** \
@@ -43,12 +43,13 @@ Das ist schon eine Ansage für derlei _einfache_ Gehäuse und 2 Treiber 🫣
 Daher habe ich in den einschlägigen HiFi- und DIY-Foren nach Erfahrungen zu Audio Note und DeVore mehrere Wochen recherchiert. \
 Viele unterschiedliche Meinungen, Fanboys, voreingenommene Kommentare ....**das Übliche!**
 
-Durch Zufall habe ich mich auch im Gebrauchtmarkt umgesehen und da stosse ich auf Gunnar aus Lübeck, mit dem Anzeige-Titel: **_Devore Orangutan O96 | von Analyse zum Nachbau | ein Testbericht_**. \
-Das hat mich sofort hellhörig gemacht und habe Ihn gleich angeschrieben und gebeten mit das PDF zukommen zu lassen.
-
 ---
 
 # DeVore Reverse Engineering
+
+Durch Zufall habe ich mich auch im Gebrauchtmarkt umgesehen und da stosse ich auf Gunnar aus Lübeck, mit dem Anzeige-Titel: **_Devore Orangutan O96 | von Analyse zum Nachbau | ein Testbericht_**.
+
+**Das hat mich sofort hellhörig gemacht und habe Ihn gleich angeschrieben und gebeten mit das PDF zukommen zu lassen.**
 
 **Gunnar hat mir dies auch sofort unentgeltlich angeboten und am Abend ginge ich seinen 32-seitigen (!!) Detailbericht durch und ich wusste, ich muss mit Ihm in Kontakt treten!**
 
