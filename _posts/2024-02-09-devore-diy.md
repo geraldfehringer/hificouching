@@ -77,7 +77,8 @@ Ich nenne diese einfach mal so, da Gunnar sich so viel Mühe gegeben hat, was es
 
 - **Echten 92dB Kennschalldruck, Impedanz: > 6 Ohm, 30 - 25.000 Hz**
 - **8'' SEAS EXOTIC [X2-08](https://www.seas.no/index.php?option=com_content&view=article&id=345:x2-08-exotic-w8&catid=56&Itemid=248) AlNiCo**
-- **35mm Kalotte aus dem Hause Dr. K. Müller Engeneering mit Neodym-Antrieb, 95dB Schalldruck**
+- **Seas [T35 X3-06 Alnico](https://www.seas.no/index.php?option=com_content&view=article&id=346:x3-06-exotic-t35&catid=56&Itemid=248) Hochtöner**
+- **35mm Kalotte aus dem Hause Dr. K. Müller Engeneering**
 - **Der Hochtöner hat 2dB mehr als der Hochtöner Morel CAT378 im Original!**
 - **Mundorf, Rike Audio Q-CAP 3 Oil-Caps ...**
 - **Duelund Verkabelung mit WBT-NextGen Terminals**
