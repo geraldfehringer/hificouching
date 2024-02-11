@@ -120,23 +120,22 @@ Ich nenne diese einfach mal so, da Gunnar sich so viel Mühe gegeben hat, was es
 
 - **Sehr harmonisch - die Mitten wie ein Breitbänder und die Kalotte ist schon eine Nummer für sich!**
 - **Hochtöner sind sehr präzise und dynamisch und wer es lieber schwammig/mit Vorhang mag, eher nix!**
-- **Aus seiner Anzeige: 'Er spielt extrem lebendig, viel hochauflösender mit berauschender Dynamik bedingt duch den starken Neodymantrieb' > stimme ich 100% zu!**
+- **Aus seiner Anzeige: 'Er spielt extrem lebendig, viel hochauflösender mit berauschender Dynamik bedingt duch den starken Neodymantrieb' > stimme ich 100% zu (auch wenn meine Alnico hat, nicht Neodym)!**
 - **Sie können auch leise!! Daher liebe ich derlei 2-Wege Bauweisen, gerade zur Abendstunde ein Genuß!**
 - **Hinweis: Breitbänder sind für mich weiterhin besser im _leise Spielen_, da Bühne nicht zusammenfällt!**
 - **Bass reicht mir in meinem Hörzimmer und obwohl ich diese wandnahe stehen habe, auf keinen Fall ein Wummern!**
 - **Kann nicht nur Jazz oder Klassik, kann auch ordentlich mit Punch (Rock, Eletro, Pop) zuschlagen!**
 - **Ich persönlich würde sagen Sie ist raumfreundlich und kann sicher auch 80qm problemlos beschallen!**
-- **Werde ich nicht verkaufen, da in der Kombination und Preis ich bei Audio Note dann eher bei €25.000 sein werde** 🤪
+- **Werde ich nicht verkaufen, da in der Kombination und Preis ich bei Audio Note dann eher bei €25.000 sein werde..und perfekt in den Raum passen!** 🤪
 
-Irgendwann werde ich Sie auch im Haupt-Wohnzimmer testen, aber nur wenn WAF (**W**omen **A**cceptance **F**actor) hier mitspielt :eyes:  ...
-
+Irgendwann werde ich Sie auch im Haupt-Wohnzimmer testen, aber nur wenn WAF (**W**omen **A**cceptance **F**actor) hier mitspielt :eyes:  ... \
+Hier steht auch großes Besteck, wie Cayin 805a 300b/Michi X5/Grimm Audio MU2/Abbas Audio DAC 3.2SE ...
 
 **An welchen Elektronik habe ich Sie bislang getestet?**
 
 - **Röhrenvollverstärker:** PX4 / CF7
 - **Röhren Monos:** RV258 / RGN1404, Treiberstufe: ECC80 / ECC82, Vorverstärker: Velvet L2 6SN7, Schmendrik ECC80
 - **Transistor Endstufe:** QUAD 405-2 (revidiert und umgebaut von [M. Kühne](https://ftbw.de/workshop/hifi-highend-service/quad-fix-price.html))
-- **Vintage Receiver: Marantz 2270 (revidiert)**
 - **Quellen:** Ian Canada Gentooplayer/Qobuz, Sony CDPX505ES Swoboda Komplett-Modifikation, Cyrus CDi mit externem PSU
 
 ---
