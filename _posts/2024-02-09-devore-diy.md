@@ -32,7 +32,7 @@ Die unser lieber [SnakeOilAudio](https://forum.snakeoilaudio.de/) prominent auf 
 
 🫡 **...Sorry, nun zurück zu Audio Note & Devore!**
 
-Beiden haben ein sehr _einfaches Gehäuse_ uns sind 2-Wege Systeme und für mich die naheliegenste Re-Produktion von Musik - zu Breitbändern natürlich! \
+Beiden haben ein sehr _einfaches Gehäuse_ und sind 2-Wege Systeme und für mich die naheliegenste Re-Produktion von Musik - zu Breitbändern natürlich! \
 Leider wie ganz vieles im _Highend Bereich_ sind die Lautsprecher sehr, sehr überteuert.
 
 **Stand: Feb 2024** \
@@ -47,14 +47,14 @@ Viele unterschiedliche Meinungen, Fanboys, voreingenommene Kommentare ....**das 
 
 # DeVore Reverse Engineering
 
-Durch Zufall habe ich mich auch im Gebrauchtmarkt umgesehen und da stosse ich auf Gunnar aus Lübeck, mit dem Anzeige-Titel: \
+Durch Zufall habe ich mich auch im Gebrauchtmarkt umgesehen und da sto&e ich auf Gunnar aus Lübeck, mit dem Anzeige-Titel: \
 **_Devore Orangutan O96 | von Analyse zum Nachbau | ein Testbericht_**.
 
 **Das hat mich sofort hellhörig gemacht und habe Ihn gleich angeschrieben und gebeten mit das PDF zukommen zu lassen.**
 
-**Gunnar hat mir dies auch sofort unentgeltlich angeboten und am Abend ginge ich seinen 32-seitigen (!!) Detailbericht durch und ich wusste, ich muss mit Ihm in Kontakt treten!**
+**Gunnar hat mir dies auch sofort unentgeltlich angeboten und am Abend ginge ich seinen 30-seitigen (!!) Detailbericht durch und ich wusste, ich muss mit Ihm in Kontakt treten!**
 
-Jeder der Interesse ha, sollte auf Ihn zugehen, da er sich wirklich sehr viel Mühe gegeben hat und auch fundiert, technisch beschreibt und kein Gequassel! \
+Jeder der Interesse hat, sollte auf Ihn zugehen, da er sich wirklich sehr viel Mühe gegeben hat und auch fundiert, technisch beschreibt und kein Gequassel! \
 Er bietet sein PDF zum kleinen Preis an, siehe [Kleinanzeigen](https://www.kleinanzeigen.de/s-anzeige/devore-orangutan-o96-von-analyse-zum-nachbau-ein-testbericht/2665251052-172-24229) - seine Benutzerkennung ist [RobF](https://www.kleinanzeigen.de/s-bestandsliste.html?userId=134688342)
 
 Ich war schockiert, nicht überrascht da im HiFi-Markt die Bepreisung von Produkten schon lange NICHTS mehr mit dem Gegenwert des Gerätes/Lautsprechers zu tun hat!
@@ -63,7 +63,7 @@ Ich war schockiert, nicht überrascht da im HiFi-Markt die Bepreisung von Produk
 
 Jetzt war ich anfixiert, wie Gunnar diese Probleme anging, um eine professionelle Version der OrangUtan 96 nachzubauen!
 
-**Auch hier beschreibt Ihr in allen Details, worauf er geachtet hat und warum aus einem 2-Monate Projekt, doch eher ein Jahr wurde. Alleine die Mühe die er sich gemacht hat, die BESTEN Bauteile für die Frequenzweiche zu kriegen, CHAPEAU !!!** 👏
+**Auch hier beschreibt er in allen Details, worauf er geachtet hat und warum aus einem 2-Monate Projekt, doch eher ein Jahr wurde. Alleine die Mühe die er sich gemacht hat, die BESTEN Bauteile für die Frequenzweiche zu kriegen & zu Verstehen, CHAPEAU !!!** 👏
 
 Gesagt, getan und natürlich habe ich die Nähe zu Lübeck aus Hamburg sofort ausgenutzt und habe Ihn besucht zu einer Hörprobe! Meinen DIY-Referenzverstärker (PX4 von [Josef/Röhrenfieber](https://www.roehrenfieber.com/px4)) eingepackt und los gings....
 
@@ -118,11 +118,13 @@ Ich nenne diese einfach mal so, da Gunnar sich so viel Mühe gegeben hat, was es
 
 # WIE spielen Sie nun?
 
-- **Sehr, sehr harmonisch - die Mitten wie ein Breitbänder und die Kalotte ist schon eine Nummer für sich!**
+- **Sehr harmonisch - die Mitten wie ein Breitbänder und die Kalotte ist schon eine Nummer für sich!**
+- **Hochtöner sind sehr präzise und dynamisch und wer es lieber schwammig/mit Vorhang mag, eher nix!**
 - **Aus seiner Anzeige: 'Er spielt extrem lebendig, viel hochauflösender mit berauschender Dynamik bedingt duch den starken Neodymantrieb' > stimme ich 100% zu!**
 - **Sie können auch leise!! Daher liebe ich derlei 2-Wege Bauweisen, gerade zur Abendstunde ein Genuß!**
+- **Hinweis: Breitbänder sind für mich weiterhin besser im _leise Spielen_, da Bühne nicht zusammenfällt!**
 - **Bass reicht mir in meinem Hörzimmer und obwohl ich diese wandnahe stehen habe, auf keinen Fall ein Wummern!**
-- **Kann nicht nur Jazz oder Klassik, kann auch ordentlich mit Punch zuschlagen!**
+- **Kann nicht nur Jazz oder Klassik, kann auch ordentlich mit Punch (Rock, Eletro, Pop) zuschlagen!**
 - **Ich persönlich würde sagen Sie ist raumfreundlich und kann sicher auch 80qm problemlos beschallen!**
 - **Werde ich nicht verkaufen, da in der Kombination und Preis ich bei Audio Note dann eher bei €25.000 sein werde** 🤪
 
@@ -133,9 +135,9 @@ Irgendwann werde ich Sie auch im Haupt-Wohnzimmer testen, aber nur wenn WAF (**W
 
 - **Röhrenvollverstärker:** PX4 / CF7
 - **Röhren Monos:** RV258 / RGN1404, Treiberstufe: ECC80 / ECC82, Vorverstärker: Velvet L2 6SN7, Schmendrik ECC80
-- **Transistor Endstufe:** QUAD 405-2 mit QUAD-44 (beide komplett revidiert und umgebaut von [M. Kühne](https://ftbw.de/workshop/hifi-highend-service/quad-fix-price.html))
+- **Transistor Endstufe:** QUAD 405-2 (revidiert und umgebaut von [M. Kühne](https://ftbw.de/workshop/hifi-highend-service/quad-fix-price.html))
 - **Vintage Receiver: Marantz 2270 (revidiert)**
-- **Quellen:** Ian Canada Gentooplayer/Qobuz, Sony CDPX505ES Swoboda Komplett-Modifikation
+- **Quellen:** Ian Canada Gentooplayer/Qobuz, Sony CDPX505ES Swoboda Komplett-Modifikation, Cyrus CDi mit externem PSU
 
 ---
 
