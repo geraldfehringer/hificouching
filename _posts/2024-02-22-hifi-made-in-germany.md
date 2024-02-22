@@ -92,10 +92,11 @@ Durch die Marktverschiebung und sehr hochwertigen chinesischen Produkte, berück
 
 Des weiteren bevorzuge ich auch kleine Hifi-Schmieden, die keinen Overhead mit Distributoren und Händler aufgebaut haben, da man hier realistisch 60% des Preises in der Lieferkette hat. Darüber hinaus kaufe ich sehr selten neu, sondern immer bevorzugt Demogeräte und im Gebrauchtmarkt (Vintage oder 1-2 Jahre alte Neugeräte die Sammler mal wieder abgeben.)
 
-Da ich den Luxus habe einiges an Hifi immer mal wieder zu investieren, habe ich schon einiges an Erfahrung und im Besitz gehabt. Wobei mein persönliches Highend-Limit bei €30.000 für Einzelgeräte endet. Darüber hinaus ist für mich persönlich kein Zugewinn mehr an musikalischer Wiedergabe, sondern nur Markenfetischismus und Beschallung seines Palastes (_Pro-Tip:_ PA-Anlage holen)!
+Da ich den Luxus habe einiges an Hifi immer mal wieder zu investieren, habe ich schon einiges an Erfahrung und im Besitz gehabt. Wobei mein persönliches Highend-Limit bei €30.000 für Einzelgeräte endet. Darüber hinaus ist für mich persönlich kein Zugewinn mehr an musikalischer Wiedergabe, sondern nur Markenfetischismus und Beschallung seines Palastes (_Pro-Tip für alle Schlossbesitzer:_ PA-Anlage holen)!
 
 :point_right:
-**Das mag für jemanden der nicht so viel Geld hat, arrogant und anmaßend klingen, aber wie alles im Leben muß sich hart erarbeitet werden, auch mein Geld kam NICHT  durch Erbe und Lottogewinn!**
+**Das mag für jemanden der nicht so viel Geld hat, arrogant und anmaßend klingen, aber wie alles im Leben muß sich hart erarbeitet werden!** \ 
+**Auch mein Geld kam NICHT  durch Erbe und Lottogewinn, sondern langer Atem als KMU-Unternehmer...!**
 
 ---
 
@@ -134,9 +135,8 @@ Westend Audio Systems | 2012 | München
 
 # Persönliche Erfahrung
 
-**Ich nehme 4 aktuelle Beispiele aus meiner  Kette und warum ich mich für diese kommerziellen Hersteller entschieden habe.**
-
-**Ich habe einiges an hochwertigen DIY-Komponenten die hier nicht als Referenz dienen, da hier der Fokus auf kommerzielle, deutsche Highend-Schmieden liegt!**
+**Ich nehme 4 aktuelle Beispiele aus meiner  Kette und warum ich mich für diese kommerziellen Hersteller entschieden habe.** \
+**HINWEIS: Ich habe einiges an hochwertigen DIY-Komponenten die hier nicht als Referenz dienen, da hier der Fokus auf kommerzielle, deutsche Highend-Schmieden liegt!**
 
 # Lautsprecher
 
@@ -155,6 +155,8 @@ Der  Jet-5c Hochtöner ist extrem langzeit-tauglich und strengt nicht an, aber b
 
 Auch wollte ich zum damaligen Zeitpunkt keiner kleinen Lautsprecher-Manufaktur nachlaufen und auf _Altbewährtes_ setzen (für mich)!
 
+:thumbsup: **Diese Lautsprecher passen perfekt in den Hörraum und auch _relativ_ unauffällig! Egal ob mit dem Cayin 805a/300B oder Michi X5, eine Wucht!**
+
 # Vorverstärker
 
 Hier experimentiere ich schon seit Jahren und habe von Vintage Transistoren und Röhren PreAMPs vieles durch. Mein Etappen-Ziel habe ich im Jan 2024 erreicht.
@@ -165,7 +167,7 @@ Hier experimentiere ich schon seit Jahren und habe von Vintage Transistoren und 
 Der ein oder Andere wird Brinkmann kennen und ich habe schon länger geliebäugelt, aber preislich schon in der oberen Liga, zumindest für mich als Pre-Amp Investition. \
 **Jedoch kann man deren Geräte auch noch in 10 Jahren problemlos umbauen und warten!**
 
-thumbsup: **Was soll ich sagen: dieser Pre-AMP wird den Besitzer sicher nicht wechseln. Die Vorstufe ist in Perfektion für mich nicht zu übertreffen. Abgesehen von einer Verarbeitung die wirklich "Highend" verdient hat, die Abstimmung ist PERFEKT!**
+:thumbsup: **Was soll ich sagen: dieser Pre-AMP wird den Besitzer sicher nicht wechseln. Die Vorstufe ist in Perfektion für mich nicht zu übertreffen. Abgesehen von einer Verarbeitung die wirklich "Highend" verdient hat, die Abstimmung ist PERFEKT!**
 
 **Betreiben tue ich die Vorstufe an einer Brinkmann Stereoendstufe und Kinki Studio EX-M1+**
 
@@ -176,7 +178,7 @@ thumbsup: **Was soll ich sagen: dieser Pre-AMP wird den Besitzer sicher nicht we
 
 Ich hatte früher schon immer mal wieder Rotel Produkte und nun wollte ich mal ins Regal weiter oben greifen und habe mir den Michi X5 (V1) gegönnt. Der Verstärker treibt wirklich alles an, auch super anspruchsvolle Lautsprecher und daher auch meine Entscheidung das Arbeitstier einfach lange zu behalten, egal was nach den Concentro's kommt.
 
-thumbsup: **Die Brinkmann Audio Mk II in der Kombi mit der Marconi Mk II Vorstufe ist mein persönliches _Endgame_, mehr Synergie geht nicht. Muss man gehört haben.**
+:thumbsup: **Die Brinkmann Audio Mk II in der Kombi mit der Marconi Mk II Vorstufe ist mein persönliches _Endgame_, mehr Synergie geht nicht. Muss man gehört haben.**
 
 **Sollte ich irgendwann mal wieder einen Verstärker suchen, werde ich definitiv zuerst bei Brinkmann vorbeischauen!**
 
@@ -187,7 +189,7 @@ thumbsup: **Die Brinkmann Audio Mk II in der Kombi mit der Marconi Mk II Vorstuf
 
 Hier reden wir von einem doch sehr teuren All-In-One Gerät (Streamer, DAC, Vorstufe). Aber nachdem ich im Hause schon einiges an DAC's/Streamer hatte (siehe meine [anderen Posts](https://hificouch.world/blog) zu meiner DAC-Reise), bin ich hier geendet!
 
-thumbsup: **Losgelöst ob Reviewer davon schwärmen, das Gerät ist für mich persönlich das _Endgame_ an Streamer/DAC-Kombi und die diskrete Analoge Vorstufe eine Nummer für sich (nein, kann nicht mit der Brinkmann Marconi mithalten).**
+:thumbsup: **Losgelöst ob Reviewer davon schwärmen, das Gerät ist für mich persönlich das _Endgame_ an Streamer/DAC-Kombi und die diskrete Analoge Vorstufe eine Nummer für sich (nein, kann nicht mit der Brinkmann Marconi mithalten).**
 
 Auch Grimm Audio hat ausgezeichneten Support und durch den Standort Niederlande problemlos.
 
@@ -199,6 +201,7 @@ Grimm Audio MU2 ist _nur_ ein ROON Server (Core) und somit braucht man hier ents
 ![chain](/assets/images/blog-made-in-germany/20240222_161335_thumb.jpg) ..in [Groß](/assets/images/blog-made-in-germany/20240222_161335.jpg)
 ![chain](/assets/images/blog-made-in-germany/20240222_161437_thumb.jpg) ..in [Groß](/assets/images/blog-made-in-germany/20240222_161437.jpg)
 ![chain](/assets/images/blog-made-in-germany/20240222_161449_thumb.jpg) ..in [Groß](/assets/images/blog-made-in-germany/20240222_161449.jpg)
+![chain](/assets/images/blog-made-in-germany/20240222_161412_thumb.jpg) ..in [Groß](/assets/images/blog-made-in-germany/20240222_161412.jpg)
 
 ---
 
