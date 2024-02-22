@@ -133,7 +133,7 @@ Westend Audio Systems | 2012 | München
 
 **Ich habe einiges an hochwertigen DIY-Komponenten die hier nicht als Referenz dienen, da hier der Fokus auf kommerzielle, deutsche Highend-Schmieden liegt.**
 
-## Lautsprecher
+# Lautsprecher
 
 **Firma: ELAC** \
 **Modell: [Concentro S-507](https://www.elac.de/series/concentro-s-507-standlautsprecher-fs-507/)**
@@ -150,7 +150,7 @@ Der  Jet-5c Hochtöner ist extrem langzeit-tauglich und strengt nicht an, aber b
 
 Auch wollte ich zum damaligen Zeitpunkt keiner kleinen Lautsprecher-Manufaktur nachlaufen und auf _Altbewährtes_ setzen (für mich)!
 
-## Vorverstärker
+# Vorverstärker
 
 Hier experimentiere ich schon seit Jahren und habe von Vintage Transistoren und Röhren PreAMPs vieles durch. Mein Etappen-Ziel habe ich im Jan 2024 erreicht.
 
@@ -163,7 +163,7 @@ Was soll ich sagen: dieser Pre-AMP wird den Besitzer sicher nicht wechseln. Die 
 
 **Betreiben tue ich die Vorstufe an einer Brinkmann Stereoendstufe und QUAD 405-2 Endstufe (M. Kühne Umbau).**
 
-## Verstärker
+# Verstärker
 
 **Firma: Rotel Michi und Brinkmann Audio** \
 **Modell: [Michi X5](https://www.rotel.com/de/product/x5), [Stereo Mk II](https://www.brinkmann-audio.de/main.php?prod=stereo&lang=de)**
@@ -174,7 +174,7 @@ Die Brinkmann Audio Mk II in der Kombi mit der Marconi Mk II Vorstufe ist nmein 
 
 **Sollte ich irgendwann mal wieder einen Verstärker suchen, werde ich definitiv zuerst bei Brinkmann vorbeischauen!**
 
-## DAC/Streamer
+# DAC/Streamer
 
 **Firma: Grimm Audio** \
 **Modell: MU2**
