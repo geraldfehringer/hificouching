@@ -18,7 +18,8 @@ tags:
 Galten noch vor Jahrzenten Japan, Schweiz, England, Frankreich, Deutschland und USA als unschlagbar im Hifi-Bereich - egal ob Massenmarkt, oder Edelschmieden - so sieht es nun etwas anders aus!
 
 Jahrelang wurde China belächelt und war in der audiophilen-Szene nur als "schlechtere Clone-Produzierer" bekannt. \
-Aber wie so vieles in der Industrie, hat eine massive Verlagerung von einschlägigen Hifi-Produktionen stattgefunden und auch einschlägige, europäische _Edelschmieden_ lassen vieles in CN vorfertigen und machen die Fertigstellung im jeweiligen Land, um Ihre Preise mehr oder weniger rechtzufertigen.
+Aber wie so vieles in der Industrie, hat eine massive Verlagerung von einschlägigen Hifi-Produktionen stattgefunden und auch einschlägige, europäische _Edelschmieden_ \
+lassen vieles in CN vorfertigen und machen die Fertigstellung im jeweiligen Land, um Ihre Preise mehr oder weniger rechtzufertigen.
 
 In der DIY-Szene ist China schon lange ein anerkannter Markt für einschlägige Komponenten und bei weitem nicht so verpönt, wie von dem ein oder anderen westeuropäischen-Audiophilen!
 
@@ -32,8 +33,10 @@ Natürlich gibt es immer wieder schwarze Schafe und in China wird noch immer mas
 
 **Ist natürlich eine fragwürdige Praxis und meist weit entfernt von europäischen CE-Normen, aber auf der anderen Seite hat nicht jeder das Geld für die völlig übertriebenen Preise die Hifi-Händler hier im Lande abrufen!**
 
-**Leider hat auch hier die Verschiebung in der audiophile Szene in Europa stark zugenommen. Wenn man heute als _Einsteiger_ eine Hifi-Anlage kaufen möchte, dann muss man beim durchschnittlichen Händler minimum €5.000 investieren und dann reden wir hier von _Einsteiger-Setup_!**
+**Leider hat auch hier die Verschiebung in der audiophile Szene in Europa stark zugenommen. Wenn man heute als _Einsteiger_ eine Hifi-Anlage kaufen möchte,** \
+**dann muss man beim durchschnittlichen Händler minimum €5.000 investieren und dann reden wir hier von _Einsteiger-Setup_!**
 
+:point_right:
 **Will damit sagen:**
 
 - **Es werden teilweise völlig überzogene Preise abgerufen und die guten Hifi-Hersteller haben Ihren Fokus komplett auf die neue, (super-)reiche Käuferschicht ausgerichtet!**
@@ -45,7 +48,7 @@ Natürlich gibt es immer wieder schwarze Schafe und in China wird noch immer mas
 
 **......aber nun zurück zum ursprünglichen Thema 😌 ....**
 
-**Ist wirklich alles verloren und gibt es bei uns in Deutschland nur noch Abzocker, oder Fokus auf elitäres Klientel?** :confused:
+:interrobang: **Ist wirklich alles verloren und gibt es bei uns in Deutschland nur noch Abzocker, oder Fokus auf elitäres Klientel?** :confused:
 
 ---
 
@@ -70,6 +73,7 @@ Nach meiner Recherche, als auch persönlicher und intensiver Erfahrung im Hifi-M
 
 Auch zeigen sich im europäischen Umfeld, sehr starke Marken und Produkte, egal ob man nach Frankreich, Schweiz, Österreich, Slowenien, Polen oder Dänemark schielt.
 
+:point_right:
 **Was sich aber schon abzeichnet, dass sich die sehr guten und exklusiven Marken sich vom Massenmarkt verabschiedet haben und nur noch im hochpreisigen Segment aktiv sind!**
 
 Diese Veränderung hat sich während/nach COVID nochmals deutlich gezeigt, wo die Umsatzzahlen der Hifihändler explodiert und Preise massiv gestiegen sind!
@@ -90,6 +94,7 @@ Des weiteren bevorzuge ich auch kleine Hifi-Schmieden, die keinen Overhead mit D
 
 Da ich den Luxus habe einiges an Hifi immer mal wieder zu investieren, habe ich schon einiges an Erfahrung und im Besitz gehabt. Wobei mein persönliches Highend-Limit bei €30.000 für Einzelgeräte endet. Darüber hinaus ist für mich persönlich kein Zugewinn mehr an musikalischer Wiedergabe, sondern nur Markenfetischismus und Beschallung seines Palastes (_Pro-Tip:_ PA-Anlage holen)!
 
+:point_right:
 **Das mag für jemanden der nicht so viel Geld hat, arrogant und anmaßend klingen, aber wie alles im Leben muß sich hart erarbeitet werden, auch mein Geld kam NICHT  durch Erbe und Lottogewinn!**
 
 ---
@@ -131,7 +136,7 @@ Westend Audio Systems | 2012 | München
 
 **Ich nehme 4 aktuelle Beispiele aus meiner  Kette und warum ich mich für diese kommerziellen Hersteller entschieden habe.**
 
-**Ich habe einiges an hochwertigen DIY-Komponenten die hier nicht als Referenz dienen, da hier der Fokus auf kommerzielle, deutsche Highend-Schmieden liegt.**
+**Ich habe einiges an hochwertigen DIY-Komponenten die hier nicht als Referenz dienen, da hier der Fokus auf kommerzielle, deutsche Highend-Schmieden liegt!**
 
 # Lautsprecher
 
