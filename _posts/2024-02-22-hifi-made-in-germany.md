@@ -99,7 +99,7 @@ Da ich den Luxus habe einiges an Hifi immer mal wieder zu investieren, habe ich 
 
 ---
 
-## Namhafte Hersteller
+# Namhafte Hersteller
 
 **Wenn man etwas recherchiert und sich in den letzten Jahren einschlägige, hochwertige Komponente geholt hat, dann wird man sehr schnell sehen: _WOW, es gibt doch viel mehr als man glaubt_!**
 
@@ -143,11 +143,11 @@ Westend Audio Systems | 2012 | München
 **Firma: ELAC** \
 **Modell: [Concentro S-507](https://www.elac.de/series/concentro-s-507-standlautsprecher-fs-507/)**
 
-Ist für mich immer wieder ein Genuss! Ich hatte jahrelang KEF und 2022 habe ich eine längere Hörprobe und im Vergleich: \
+Ist für mich immer wieder ein Genuss! Ich hatte jahrelang KEF und 2021 habe ich eine längere Hörprobe und im Vergleich: \
 **B&W 803 D3, Dali Epicon 8, KEF Blade, Elac Concentro S-507**
 
 Nach mehreren Stunden war für mich (als auch meiner Frau) sofort klar: die ELAC Concentro ist es! \
-Nicht weil Sie die günstigere war, sondern weil Sie passender in die Wohnung war und die Anderen, deutlich teureren Boxen (im hoch-optimierten Hörraum) eiskalt degradiert hat!
+**Nicht weil Sie die günstigere war, sondern weil Sie passender in die Wohnung war und die Anderen, deutlich teureren Boxen (im hoch-optimierten Hörraum) eiskalt degradiert hat!**
 
 Die Verarbeitung dieses "Maßenproduktes" passiert komplett in Kiel und alle Komponenten sind qualitativ top, egal ob Crossover, oder Verarbeitung der schlanken Säule. Auch ist Sie ein absolutes Bass-Monster (4  15'' Tieftöner), was man Ihr nicht ansieht!
 
@@ -162,11 +162,12 @@ Hier experimentiere ich schon seit Jahren und habe von Vintage Transistoren und 
 **Firma: Brinkmann Audio** \
 **Modell: [Marconi Mk II](https://www.brinkmann-audio.de/main.php?prod=marconi&lang=de)**
 
-Der ein oder Andere wird Brinkmann kennen und ich habe schon länger geliebäugelt, aber preislich schon in der oberen Liga, zumindest für mich als Pre-Amp Investition. Jedoch kann man deren Geräte auch noch in 10 Jahren problemlos umbauen und warten!
+Der ein oder Andere wird Brinkmann kennen und ich habe schon länger geliebäugelt, aber preislich schon in der oberen Liga, zumindest für mich als Pre-Amp Investition. \
+**Jedoch kann man deren Geräte auch noch in 10 Jahren problemlos umbauen und warten!**
 
-Was soll ich sagen: dieser Pre-AMP wird den Besitzer sicher nicht wechseln. Die Vorstufe ist in Perfektion für mich nicht zu übertreffen. Abgesehen von einer Verarbeitung die wirklich "Highend" verdient hat, die Abstimmung ist PERFEKT!
+thumbsup: **Was soll ich sagen: dieser Pre-AMP wird den Besitzer sicher nicht wechseln. Die Vorstufe ist in Perfektion für mich nicht zu übertreffen. Abgesehen von einer Verarbeitung die wirklich "Highend" verdient hat, die Abstimmung ist PERFEKT!**
 
-**Betreiben tue ich die Vorstufe an einer Brinkmann Stereoendstufe und QUAD 405-2 Endstufe (M. Kühne Umbau).**
+**Betreiben tue ich die Vorstufe an einer Brinkmann Stereoendstufe und Kinki Studio EX-M1+**
 
 # Verstärker
 
@@ -175,7 +176,7 @@ Was soll ich sagen: dieser Pre-AMP wird den Besitzer sicher nicht wechseln. Die 
 
 Ich hatte früher schon immer mal wieder Rotel Produkte und nun wollte ich mal ins Regal weiter oben greifen und habe mir den Michi X5 (V1) gegönnt. Der Verstärker treibt wirklich alles an, auch super anspruchsvolle Lautsprecher und daher auch meine Entscheidung das Arbeitstier einfach lange zu behalten, egal was nach den Concentro's kommt.
 
-Die Brinkmann Audio Mk II in der Kombi mit der Marconi Mk II Vorstufe ist nmein persönliches _Endgame_, mehr Synergie geht nicht. Muss man gehört haben. 
+thumbsup: **Die Brinkmann Audio Mk II in der Kombi mit der Marconi Mk II Vorstufe ist mein persönliches _Endgame_, mehr Synergie geht nicht. Muss man gehört haben.**
 
 **Sollte ich irgendwann mal wieder einen Verstärker suchen, werde ich definitiv zuerst bei Brinkmann vorbeischauen!**
 
@@ -186,7 +187,7 @@ Die Brinkmann Audio Mk II in der Kombi mit der Marconi Mk II Vorstufe ist nmein 
 
 Hier reden wir von einem doch sehr teuren All-In-One Gerät (Streamer, DAC, Vorstufe). Aber nachdem ich im Hause schon einiges an DAC's/Streamer hatte (siehe meine [anderen Posts](https://hificouch.world/blog) zu meiner DAC-Reise), bin ich hier geendet!
 
-Losgelöst ob Reviewer davon schwärmen, das Gerät ist für mich persönlich das _Endgame_ an Streamer/DAC-Kombi und die diskrete Analoge Vorstufe eine Nummer für sich (nein, kann nicht mit der Brinkmann Marconi mithalten).
+thumbsup: **Losgelöst ob Reviewer davon schwärmen, das Gerät ist für mich persönlich das _Endgame_ an Streamer/DAC-Kombi und die diskrete Analoge Vorstufe eine Nummer für sich (nein, kann nicht mit der Brinkmann Marconi mithalten).**
 
 Auch Grimm Audio hat ausgezeichneten Support und durch den Standort Niederlande problemlos.
 
@@ -200,6 +201,8 @@ Grimm Audio MU2 ist _nur_ ein ROON Server (Core) und somit braucht man hier ents
 ![chain](/assets/images/blog-made-in-germany/20240222_161449_thumb.jpg) ..in [Groß](/assets/images/blog-made-in-germany/20240222_161449.jpg)
 
 ---
+
+**Viel Spaß bei Eurer Suche und lasst Euch von niemanden was aufschwätzen, nur weil ein _Reviewer_ wieder mal toll findet!**
 
 **Chapeau!** \
 #gerihifi
