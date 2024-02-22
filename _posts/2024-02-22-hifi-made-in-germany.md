@@ -1,4 +1,4 @@
----
+0---
 title: Highend Audio Made-in-Germany
 layout: post
 post-image: "/assets/images/blog-made-in-germany/logo.png"
@@ -96,7 +96,7 @@ Da ich den Luxus habe einiges an Hifi immer mal wieder zu investieren, habe ich 
 
 :point_right:
 **Das mag für jemanden der nicht so viel Geld hat, arrogant und anmaßend klingen, aber wie alles im Leben muß sich hart erarbeitet werden!** \
-**Auch mein Geld kam NICHT durch Erbe oder Lottogewinn, sondern langer Atem als KMU-Unternehmer...!**
+**Auch mein Geld kam NICHT durch Erbe oder Lottogewinn, sondern langer Atem als KMU-Unternehmer...oder für andere eher Kleingeld!**
 
 ---
 
