@@ -214,7 +214,7 @@ Grimm Audio MU2 ist _nur_ ein ROON Server (Core) und somit braucht man hier ents
 
 ---
 
-**Viel Spaß bei Eurer Suche und lasst Euch von niemanden was aufschwätzen, nur weil ein _Reviewer_ wieder mal toll findet!**
+**Viel Spaß bei Eurer Suche und lasst Euch von niemanden was aufschwätzen, nur weil ein _Reviewer_ es wieder mal toll findet, wie alle 14-Tage auf's Neue!**
 
 **Chapeau!** \
 #gerihifi
