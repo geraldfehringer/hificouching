@@ -169,7 +169,7 @@ Der ein oder Andere wird Brinkmann kennen und ich habe schon länger geliebäuge
 
 :thumbsup: **Was soll ich sagen: dieser Pre-AMP wird den Besitzer sicher nicht wechseln. Die Vorstufe ist in Perfektion für mich nicht zu übertreffen. Abgesehen von einer Verarbeitung die wirklich "Highend" verdient hat, die Abstimmung ist PERFEKT!**
 
-**Betreiben tue ich die Vorstufe an einer Brinkmann Stereoendstufe und Kinki Studio EX-M1+**
+**Betreiben tue ich die Vorstufe an einer Brinkmann MkII Stereoendstufe**
 
 # Verstärker
 
