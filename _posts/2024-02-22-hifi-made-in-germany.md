@@ -2,7 +2,7 @@
 title: Highend Audio Made-in-Germany
 layout: post
 post-image: "/assets/images/blog-made-in-germany/logo.png"
-description: Ist aude am Ausland ALLES besser, oder gibt es auch gute Hifi-Schmieden aus DE?
+description: Aus dem Ausland ist ALLES besser, oder gibt es auch gute Hifi-Schmieden aus DE?
 toc: true
 tags:
 - allgemein
