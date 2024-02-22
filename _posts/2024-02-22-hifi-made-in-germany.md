@@ -197,11 +197,20 @@ Wenn ich auch nie ein ROON (Musik-Player) Fan war, muß ich schon sagen, dass es
 
 Grimm Audio MU2 ist _nur_ ein ROON Server (Core) und somit braucht man hier entsprechende Subskription!
 
-![chain](/assets/images/blog-made-in-germany/20240222_095439_thumb.jpg) ..in [Groß](/assets/images/blog-made-in-germany/20240222_095439.jpg)
-![chain](/assets/images/blog-made-in-germany/20240222_161335_thumb.jpg) ..in [Groß](/assets/images/blog-made-in-germany/20240222_161335.jpg)
-![chain](/assets/images/blog-made-in-germany/20240222_161437_thumb.jpg) ..in [Groß](/assets/images/blog-made-in-germany/20240222_161437.jpg)
-![chain](/assets/images/blog-made-in-germany/20240222_161449_thumb.jpg) ..in [Groß](/assets/images/blog-made-in-germany/20240222_161449.jpg)
-![chain](/assets/images/blog-made-in-germany/20240222_161412_thumb.jpg) ..in [Groß](/assets/images/blog-made-in-germany/20240222_161412.jpg)
+![chain](/assets/images/blog-made-in-germany/20240222_095439_thumb.jpg) \
+..in [Groß](/assets/images/blog-made-in-germany/20240222_095439.jpg)
+
+![chain](/assets/images/blog-made-in-germany/20240222_161335_thumb.jpg) \
+..in [Groß](/assets/images/blog-made-in-germany/20240222_161335.jpg)
+
+![chain](/assets/images/blog-made-in-germany/20240222_161437_thumb.jpg) \
+..in [Groß](/assets/images/blog-made-in-germany/20240222_161437.jpg)
+
+![chain](/assets/images/blog-made-in-germany/20240222_161449_thumb.jpg) \
+..in [Groß](/assets/images/blog-made-in-germany/20240222_161449.jpg)
+
+![chain](/assets/images/blog-made-in-germany/20240222_161412_thumb.jpg) \
+..in [Groß](/assets/images/blog-made-in-germany/20240222_161412.jpg)
 
 ---
 
