@@ -95,7 +95,7 @@ Des weiteren bevorzuge ich auch kleine Hifi-Schmieden, die keinen Overhead mit D
 Da ich den Luxus habe einiges an Hifi immer mal wieder zu investieren, habe ich schon einiges an Erfahrung und im Besitz gehabt. Wobei mein persönliches Highend-Limit bei €30.000 für Einzelgeräte endet. Darüber hinaus ist für mich persönlich kein Zugewinn mehr an musikalischer Wiedergabe, sondern nur Markenfetischismus und Beschallung seines Palastes (_Pro-Tip für alle Schlossbesitzer:_ PA-Anlage holen)!
 
 :point_right:
-**Das mag für jemanden der nicht so viel Geld hat, arrogant und anmaßend klingen, aber wie alles im Leben muß sich hart erarbeitet werden!** \ 
+**Das mag für jemanden der nicht so viel Geld hat, arrogant und anmaßend klingen, aber wie alles im Leben muß sich hart erarbeitet werden!** \
 **Auch mein Geld kam NICHT  durch Erbe und Lottogewinn, sondern langer Atem als KMU-Unternehmer...!**
 
 ---
