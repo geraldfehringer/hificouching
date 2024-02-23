@@ -1,4 +1,4 @@
-0---
+---
 title: Highend Audio Made-in-Germany
 layout: post
 post-image: "/assets/images/blog-made-in-germany/logo.png"
