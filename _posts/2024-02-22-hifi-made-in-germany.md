@@ -180,9 +180,9 @@ Ich hatte früher schon immer mal wieder Rotel Produkte und nun wollte ich mal i
 
 :thumbsup: **Die Brinkmann Audio Mk II in der Kombi mit der Marconi Mk II Vorstufe ist mein persönliches _Endgame_, mehr Synergie geht nicht. Muss man gehört haben.**
 
-**Sollte ich irgendwann mal wieder einen Verstärker suchen, werde ich definitiv zuerst bei Brinkmann vorbeischauen!**
+**Sollte ich irgendwann mal wieder einen Verstärker suchen, werde ich definitiv zuerst bei Brinkmann (oder Herrn Andreas Bisle) vorbeischauen!**
 
-**HINWEIS: ich kann Herrn Andreas Bisle nur uneingeschränkt empfehlen (eBay: [High End Bisle](https://www.ebay.de/str/highendbisle)). Hier habe ich auch die gebrauchte, mehr oder weniger komplett-neuwertige Brinkmann-Kombination erworben. TOP verpackt, faire Verhandlungspreise und hat immer sehr interessante High-End Geräte am Start!**
+:point_right: **HINWEIS: ich kann Herrn Andreas Bisle nur uneingeschränkt empfehlen (eBay: [High End Bisle](https://www.ebay.de/str/highendbisle)). Hier habe ich auch die gebrauchte, mehr oder weniger komplett-neuwertige Brinkmann-Kombination erworben. TOP verpackt, faire Verhandlungspreise und hat immer sehr interessante High-End Geräte am Start!**
 
 # DAC/Streamer
 
