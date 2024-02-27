@@ -182,6 +182,8 @@ Ich hatte früher schon immer mal wieder Rotel Produkte und nun wollte ich mal i
 
 **Sollte ich irgendwann mal wieder einen Verstärker suchen, werde ich definitiv zuerst bei Brinkmann vorbeischauen!**
 
+**HINWEIS: ich kann Herrn Andreas Bisle nur uneingeschränkt empfehlen (eBay: [High End Bisle](https://www.ebay.de/str/highendbisle)). Hier habe ich auch die gebrauchte, mehr oder weniger komplett-neuwertige Brinkmann-Kombination erworben. TOP verpackt, faire Verhandlungspreise und hat immer sehr interessante High-End Geräte am Start!**
+
 # DAC/Streamer
 
 **Firma: Grimm Audio** \
