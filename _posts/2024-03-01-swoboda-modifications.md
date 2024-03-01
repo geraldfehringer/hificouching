@@ -217,8 +217,8 @@ Also wir reden schon von einer ganz passablen, hochwertigen Elektronik für derl
 
 **..gestartet mit..**
 
-> Mitgelieferte & selbtsgebrannter Sieviking Sound-CD von Herrn Swoboda, mit interessanten Liedern \
-> Dieser Song hat mich UMGEHAUEN und hat der Sony seine neuen Stärken gezeigt: "Japanese Roots"
+>  Japanese Roots · TakéDaké · John Kaizan Neptune \
+> Dieser Song hat mich UMGEHAUEN und hat der Sony seine neuen Stärken deutlich gezeigt!
 
 **..danach..**
 
