@@ -63,15 +63,17 @@ Hier steht aber eine Wartung an, da Laser nicht immer CD's sauber einlesen kann.
 -Simplifiziert auf das Wesentliche, ohne Schnickschnack und das eigens-enwtickelte Laufwerk ist schon seine eigene Liga \
 -Externe PSX-R Netzteil bringt einiges an Zugewinn und spielt auf dem Niveau des Neueren CDi-XR \
 -Anschlüsse sind perfekt, da 2 Verstärker angebunden werden können, als auch ein externer DAC \
--Hier nutze ich als externe DAC: [Abbas Audio 3.2SE](https://www.abbasaudio.com/en/2022/08/03/dac3-2s-1/) und meinen [Grimm Audio MU2](https://hificouch.world/blog/dac-reise-partIII) \
--Macht deutlichen Unterschied, hier kann der verbaute Wandler nicht mithalten und ich höre nur mit externen DAC darüber
+-Hier nutze ich als externen DAC: [Abbas Audio 3.2SE](https://www.abbasaudio.com/en/2022/08/03/dac3-2s-1/) und meinen [Grimm Audio MU2](https://hificouch.world/blog/dac-reise-partIII) \
+-Macht deutlichen Unterschied, hier kann der verbaute Wandler nicht mithalten und ich höre nur mit externem DAC
 
 ![Cyrus](/assets/images/blog-swoboda/20240229_194458_thumb.jpg) \
 ..in [Groß](/assets/images/blog-swoboda/20240229_194458.jpg)
 
-**So muß ein Vintage-RöhrenDAC in _Neu_ aussehen: [Abbas Audio 3.2SE](https://www.abbasaudio.com/en/2022/08/03/dac3-2s-1/)/TDA1541S1**
+...hier der externe Wandler dazu... \
+**So muß ein Vintage Röhren-DAC in _Neu_ aussehen: [Abbas Audio 3.2SE](https://www.abbasaudio.com/en/2022/08/03/dac3-2s-1/)/TDA1541S1**
 
-P.S.: ich hatte bereits 2 Modelle von Audio Note und eines von SW1X und **NEIN**, können nicht mit Abbas seinen wahnsinnigen Detail-Aufwand mithalten! Klang ist einfach umwerfend! Der zweite DAC (PCM63) ist bereits beauftragt..
+P.S.: ich hatte bereits 2 Modelle von Audio Note und eines von SW1X und **NEIN**, können nicht mit Abbas seinen wahnsinnigen Detail-Aufwand mithalten! \
+**Klang ist einfach umwerfend!**. Der zweite DAC (PCM63) ist bereits beauftragt..
 
 ![Abbas](/assets/images/blog-swoboda/20230519_161252_thumb.jpg) \
 ..in [Groß](/assets/images/blog-swoboda/20230519_161252.jpg)
@@ -157,13 +159,21 @@ Die [Acapella Acryl Basis](https://swobodaaudio.de/audiozubehor/acapella-acryl-b
 
 Ich finde es auf jeden Fall ein sehr gute und sinnvolle Kombinationen für die Swoboda modifizierten Player. Jedoch zusätzliches Gewicht (aka [Speedblock](https://swobodaaudio.de/audiozubehor/acapella_speedblock/)) sehe ich bei meinem Rack-Setup und massiven BauBuche Paneel auf Spikes, als unnötig.
 
+![Acapella](/assets/images/blog-swoboda/20240301_103629_thumb.jpg) \
+...in [Groß](/assets/images/blog-swoboda/20240301_103629.jpg)
+
+**...man achte auf den kleinen Kristall, der vorne unter der CD-Schublade aufliegen muß...**
+
+![Acapella](/assets/images/blog-swoboda/20240301_103639_thumb.jpg) \
+...in [Groß](/assets/images/blog-swoboda/20240301_103639.jpg)
+
 ---
 
 **Stromanschluss:**
 
 Hier nutze ich das empfohlene **[Swoboda Reference 2](https://swobodaaudio.de/audiozubehor/swoboda-netzkabel-referenz/)** Kabel, das mit entsprechenden Furutech-Stecker ausgestattet und ordentlich aufgebaut ist. 
 
-Es tut was es soll: harmonisiert perfekt mit mit dem restlichen System, aber auch hier der Hinweis: es wird keine 10% klanglicher Zuwachs sein - CREDO: **das Gesamtkonstrukt / Synergie zählt!**
+:ok_hand: **Es tut was es soll: harmonisiert perfekt mit mit dem restlichen System, aber auch hier der Hinweis: es wird keine 10% klanglicher Zuwachs sein - CREDO: das Gesamtkonstrukt / Synergie zählt!**
 
 **Auch hier wurde vorbildlich eine Kaltgerätebuchse von Furutech genutzt!**
 
@@ -182,7 +192,7 @@ Darüber hinaus nutze ich die ausgezeichneten Stromfilter von [Frank Wilker](htt
 
 ---
 
-# HÖRtest
+# :musical_note: HÖRtest
 
 **Natürlich bei derlei kostspieligem Tuning, ist die Erwartung sehr hoch!**
 
