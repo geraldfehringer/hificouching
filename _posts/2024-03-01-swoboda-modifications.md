@@ -224,7 +224,7 @@ Also wir reden schon von einer ganz passablen, hochwertigen Elektronik für derl
 
 > Katja Werker, Contact myelf 2.0 (grandioses Werk) und Aufnahme zeigt sofort Schwächen bei Standard CD-Player \
 > Grandios, besser als mein Cyrus und definitiv besser als mein Pioneer PD-93 \
-> ...und deutlich besser als die HiRes Qobuz-Version, über einen sehr hochwertigen Streamer/Wandler!
+> ...und deutlich _emotionaler_ als die HiRes Qobuz-Version, über einen sehr hochwertigen Streamer/Wandler!
 
 **Eine Offenbarung, ich hatte auch meine Frau am nächsten Tag zu einer _Session_ hinzugezogen und auch Sie hat sehr schnell mit dem Fuß gewippt, was sonst immer länger dauert** :wink:
 
