@@ -73,7 +73,7 @@ Hier steht aber eine Wartung an, da Laser nicht immer CD's sauber einlesen kann.
 **So muß ein Vintage Röhren-DAC in _Neu_ aussehen: [Abbas Audio 3.2SE](https://www.abbasaudio.com/en/2022/08/03/dac3-2s-1/)/TDA1541S1**
 
 P.S.: ich hatte bereits 2 Modelle von Audio Note und eines von SW1X und **NEIN**, können nicht mit Abbas seinen wahnsinnigen Detail-Aufwand mithalten! \
-**Klang ist einfach umwerfend!**. Der zweite DAC (PCM63) ist bereits beauftragt..
+**Klang ist einfach umwerfend!** Der zweite DAC (PCM63) ist bereits beauftragt..
 
 ![Abbas](/assets/images/blog-swoboda/20230519_161252_thumb.jpg) \
 ..in [Groß](/assets/images/blog-swoboda/20230519_161252.jpg)
@@ -137,7 +137,7 @@ Hier sind hochwertige WBT-Nextgen Chinch-Buchsen verbaut, hätte ich nichts ande
 
 Auch hier verwende ich die **[Swoboda Reinkupfer Signalkabel](https://swobodaaudio.de/audiozubehor/swoboda-reinkupfer-signalkabel-RVI+/)**, welche mit den WBT-Nextgen Chinchbuchsen ausgestattet sind. Verarbeitung ist auch hier **vorbildlich!**
 
-Ich selbst bin kein Freund der WBT-Nextgen Chinch, da die Verschraubung auf die Chinch-Terminals nicht immer einfach ist und es sehr leicht passiert, dass der Stecker nicht tief genug sitzen. Aber da ich die Kabel vom CD-Player zum Vorverstärker so gut wie nie wechsle, nicht dramatisch.
+Ich selbst bin kein Freund der WBT-Nextgen Chinch, da die Verschraubung auf die Chinch-Terminals nicht immer einfach ist und es sehr leicht passiert, dass der Stecker nicht tief genug sitzt. Aber da ich die Kabel vom CD-Player zum Vorverstärker so gut wie nie wechsle, nicht dramatisch.
 
 Ich bevorzuge die Chinch-Stecker von [ETI Research Kryo RCA](https://www.eti-research.audio/product/2189699/eti-research-kryo-rca-pair) oder die [KLEI Pure22](https://kleinnovations.com/kle-innovations-klei-products/klei-harmony-connectors/klei-harmony-plug-brochure-technical-summary/klei-pure-harmony-rca-plug/).
 
