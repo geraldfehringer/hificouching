@@ -242,9 +242,11 @@ Natürlich sind schon viele weitere meiner neuen ECM CD's (habe gerade wieder 8 
 
 **Er hatte mich mehrmals angerufen und über seine Modifikationen informiert und auch die möglichen Optionen, ohne dabei wie ein reiner Verkäufer zu klingen!**
 
-**Es ist sicherlich nichts für jemanden, der glaubt durch ein paar Elko's selbst getauscht und für einen Invest von €200 hat er das selbe Ergebnis wie Swoboda. Oder zu glauben fpr €500 kriege ich derlei professionelle Umbauten - ist kein China-Mindestlohn, sondern Handwerk-made-in-Germany!** :clap:
+**Es ist sicherlich nichts für jemanden, der glaubt durch ein paar Elko's selbst getauscht und für einen Invest von €200 hat er das selbe Ergebnis wie Swoboda.** \
+**Oder zu glauben für €500 kriege ich derlei professionelle Umbauten - ist kein China-Mindestlohn, sondern Handwerk-made-in-Germany!** :clap:
 
-**NEIN, es ist für die Personen die Vintage Geräte lieben und kennen, als auch wissen was durch Profis an Verbesserungen möglich ist und dass nicht immer alles Neue besser sein muss! Im Gegenteil, wenn man sich im H(a)iFi-Markt umsieht und dass ein oder andere Gerät mal öffnet, kann man nur den Kopf schütteln!**
+**NEIN, es ist für die Personen die Vintage Geräte lieben und kennen, als auch wissen was durch Profis an Verbesserungen möglich ist und dass nicht immer alles Neue besser sein muss!** \
+**Im Gegenteil, wenn man sich im H(a)iFi-Markt umsieht und dass ein oder andere Gerät mal öffnet, kann man nur den Kopf schütteln!**
 
 **Alle die aber Ihren CD-Player lieben und einen Schritt weiter gehen wollen auf Ihrer Hifi-Reise und auch nicht alle 3 Jahre neuen CD-Player kaufen wollen, dem sei Swoboda wärmstens empfohlen!!** :thumbsup:
 
