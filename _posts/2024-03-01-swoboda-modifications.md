@@ -173,7 +173,7 @@ Ich finde es auf jeden Fall ein sehr gute und sinnvolle Kombinationen für die S
 
 Hier nutze ich das empfohlene **[Swoboda Reference 2](https://swobodaaudio.de/audiozubehor/swoboda-netzkabel-referenz/)** Kabel, das mit entsprechenden Furutech-Stecker ausgestattet und ordentlich aufgebaut ist. 
 
-:ok_hand: **Es tut was es soll: harmonisiert perfekt mit mit dem restlichen System, aber auch hier der Hinweis: es wird keine 10% klanglicher Zuwachs sein - CREDO: das Gesamtkonstrukt / Synergie zählt!**
+:ok_hand: **Es tut was es soll: harmonisiert perfekt mit dem restlichen System, aber auch hier der Hinweis: es wird keine 10% klanglicher Zuwachs sein - CREDO: das Gesamtkonstrukt / Synergie zählt!**
 
 **Auch hier wurde vorbildlich eine Kaltgerätebuchse von Furutech genutzt!**
 
@@ -198,9 +198,9 @@ Darüber hinaus nutze ich die ausgezeichneten Stromfilter von [Frank Wilker](htt
 
 **WELCHE Elektronik nutze ich in meiner Kette?**
 
-- Brinkmann Audio Vorstufe Marconi Mk II (externe Netzteil)
-- Brinkmann Audio Endstufe Stereo Mk II
-- Flow Cable RCA Interconnect zwischen Vor-/Endstufe
+- Brinkmann Audio Vorstufe [Marconi Mk II](https://www.brinkmann-audio.de/main.php?prod=marconi&lang=en) (externe Netzteil)
+- Brinkmann Audio Endstufe [Stereo Mk II](https://www.brinkmann-audio.de/main.php?prod=stereo&lang=en)
+- [Flow Cable](https://www.theflowcable.com/) RCA Interconnect zwischen Vor-/Endstufe
 - Beide an Stromfilter mit hochwertigen Stromkabel von Fischer Audiotechnik Reference
 
 **LAUTsprecher?**
