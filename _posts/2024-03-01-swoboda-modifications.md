@@ -19,15 +19,14 @@ tags:
 
 **Wie Ihr wisst, bin ich ein großer Streaming-Fan, aber liebe nach wie vor CD mit seinen 16bit/44.1kHz!**
 
-Meine CD-Sammlung wächst kontinuierlich, jedoch lege ich mittlerweile großen Wert auf qualitativ-hochwertige Aufnahmen.
+Meine CD-Sammlung wächst kontinuierlich, jedoch lege ich mittlerweile großen Wert auf qualitativ-hochwertige Aufnahmen. \
+Also endlich bekloppt, wie die Vinyl-Gemeinde, mit Ihren hochgelobten Erstpressungen! :blush:
+
 
 Auch finde ich es spannend, dass es ähnlich wie bei Vinyl, auch im CD-Player Umfeld wieder etwas mehr _Aufwind_ gibt und doch auch einige neue Geräte auf den Markt kommen. 
 
 Wobei leider auch hier wieder deutlich der Fokus auf hochpreisige Player erkennbar ist, ohne wirklich mit technischen Innovationen zu glänzen! \
 Hauptsache teuer, 40kg schwer und maximales Feature-Set... DAC/Streamer/Player/Vorstufe ... und dann _Standard CD-Laufwerk_ nutzen!
-
-
-Also endlich bekloppt, wie die Vinyl-Gemeinde, mit Ihren hochgelobten Erstpressungen! :blush:
 
 Bevor ich starte mit meinem Review und persönlichen Erfahrungen mit Swoboda Audio, kurzer Überblick zu meinen Player'n ....
 
