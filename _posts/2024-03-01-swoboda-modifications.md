@@ -260,6 +260,15 @@ Ich kaufe primär bei:
 - [DE, ACT Music](https://www.actmusic.com/)
 - [FR, The Lost Recordings](https://thelostrecordings.store/en)
 - [USA, Blue Note](https://www.bluenote.com/)
+- [DE, jpc](https://www.jpc.de/)
+
+**Beim Kauf achte ich insbesondere auf die dynamic-Range der Aufnahme. Es macht nicht immer Sinn sich die MFSL 24karat UltradiscII zu holen, oder alles als SACD!**
+
+**Hierzu eine ausgezeichnete Anlaufstelle: [Dynamic Range DB](https://dr.loudness-war.info/)**
+
+...ja, der Vinyl-Fanboy wird jetzt wieder laut Seufzen: hole Dir Erstpressung und alles ist gut, mein Digitales Dummerchen...
+
+...Ich sage: vergleiche mal vernünftigen CD-Player + Aufnahme, gegen gleichwertigen Dreher ...und wir schauen wer bessere Dynamik & Emotionen darbietet!
 
 ---
 
