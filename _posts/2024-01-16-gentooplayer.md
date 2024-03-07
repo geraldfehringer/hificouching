@@ -307,6 +307,7 @@ Hier gibt es eine Vielzahl von UPnp, Airplay und Roon-basierten Apps. Ich persö
 -- **Bubble-Upnp** for Android lizenzierte Version (kann DLNA & Chromcast, darüber habe ich Qobuz oder auch TIDAL verbinden) \
 -- **LUMIN App** for Android (da ich zum DIY-Streamer auch Lumin Streamer nutze - diese App findet auch den GentooPlayer ohne Probleme!) \
 -- **Spotify Connect** direkt via GentooPlayer
+-- **ROON geht natürlich auch** da hier nicht nur RAAT (Roon-Bridge/Server) Geräte, sondern auch UPnP unterstützt wird
 
 **WICHTIGER HINWEIS BEI NUTZUNG BUBBLE-UPNP:**
 
