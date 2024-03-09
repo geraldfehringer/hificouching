@@ -17,7 +17,9 @@ tags:
 
 >**HINWEIS: ist hier meine freie und persönliche Meinung und stehe in keinerlei kommerzieller Beziehung mit Swoboda. Nur ein weiterer, sehr zufriedener Kunde!**
 
->**NEIN, ich habe keinen Dreher und mit Vinyl 1997 gebrochen und wer sagt Vinyl ist besser als CD oder Streaming, hat nix verstanden, sorry!**
+>**NEIN, ich habe keinen Dreher und mit Vinyl 1997 gebrochen und wer sagt Vinyl ist besser als CD oder Streaming, hat nix verstanden, sorry! Alle 3 Quellen können EBENBÜRTIG klingen!!**
+
+**Hinzu kommen die völlig überteuerten Platten- und Dreher- Preise. Dann noch der ewige Kampf mit richtigen Tonarm, Abnehmer, Phono-Vorstufe, Plattenwäscher .......noop, der Drops für mich gelutscht!!**
 
 **Wie Ihr wisst, bin ich ein großer Streaming-Fan, aber liebe nach wie vor CD mit seinen 16bit/44.1kHz!**
 
