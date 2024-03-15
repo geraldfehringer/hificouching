@@ -27,7 +27,14 @@ jobs:
           if [ ! -d "assets/csv/" ]; then
             mkdir -p assets/csv/
           fi
-          azcopy copy "${{ env.HIFI_STG_SAS }}" assets/csv/
+          #
+          export AZCOPY_SAS_TOKEN=${{ env.HIFICOUCH_CSV_SAS_TOKEN }}
+          #export AZCOPY_AUTO_LOGIN_TYPE=SPN
+          #export AZCOPY_SPA_APPLICATION_ID=${{ env.HIFI_ARZ_CLIENTID }}
+          #export AZCOPY_SPA_CLIENT_SECRET="${{ env.HIFI_ARZ_CLIENTID_SECRET }}"
+          #export AZCOPY_TENANT_ID=${{ env.HIFI_ARZ_TENANT }}
+          #
+          azcopy copy "https://stggwchificouchp01.file.core.windows.net/logicapps/hifisetups_tmp.csv?$AZCOPY_SAS_TOKEN" assets/csv/
           echo "### new file:hifisetups_tmp.csv"
           ls -la assets/csv/
           git config --global user.name "geraldfehringer"
