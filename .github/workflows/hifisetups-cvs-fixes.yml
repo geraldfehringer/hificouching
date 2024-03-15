@@ -34,8 +34,7 @@ jobs:
           #export AZCOPY_SPA_CLIENT_SECRET="${{ env.HIFI_ARZ_CLIENTID_SECRET }}"
           #export AZCOPY_TENANT_ID=${{ env.HIFI_ARZ_TENANT }}
           #
-          cd assets/csv/
-          azcopy copy https://stggwchificouchp01.file.core.windows.net/logicapps/HIFI_STG_SAS?${{ env.HIFI_STG_SAS }} . --recursive
+          azcopy cp https://stggwchificouchp01.file.core.windows.net/logicapps/HIFI_STG_SAS?${{ env.HIFI_STG_SAS }} assets/csv/ --recursive
           echo "### new file:hifisetups_tmp.csv"
           ls -la assets/csv/
           git config --global user.name "geraldfehringer"
