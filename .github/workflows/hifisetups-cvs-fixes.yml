@@ -7,7 +7,7 @@ on:
     - cron: '13 4 * * *'
 
 env:
-  HIFI_STG_SAS: ${{secrets.HIFI_STG_SAS_TOKEN}}
+  HIFI_STG_SAS: ${{secrets.HIFICOUCH_CSV_SAS_TOKEN}}
 
 jobs:
   build:
@@ -28,7 +28,7 @@ jobs:
             mkdir -p assets/csv/
           fi
           #
-          export AZCOPY_SAS_TOKEN=${{ env.HIFICOUCH_CSV_SAS_TOKEN }}
+          export AZCOPY_SAS_TOKEN=${{ env.HIFI_STG_SAS }}
           #export AZCOPY_AUTO_LOGIN_TYPE=SPN
           #export AZCOPY_SPA_APPLICATION_ID=${{ env.HIFI_ARZ_CLIENTID }}
           #export AZCOPY_SPA_CLIENT_SECRET="${{ env.HIFI_ARZ_CLIENTID_SECRET }}"
