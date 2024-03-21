@@ -23,13 +23,9 @@ Seit einigen Jahren habe ich immer mal wieder mit Vorverstärkern und Endstufen 
 
 Wie bereits in meinem Blog-Beitrag "[High-End Audio Made-in-Germany](https://hificouch.world/blog/hifi-made-in-germany)" hingewiesen, gibt es immer wieder **_Perlen**_ im Hifi-Bereich, so auch in diesem Falle.
 
-Nachdem ich in meiner 2. Kette die Brinkmann Stereo MK-II Endstufe und Brinkmann Marconi MK-II einige Wochen gehört habe, war mir klar: **_ich muss auch was an meiner Hauptkette ändern!_**
+Nachdem ich in meiner 2. Kette die Brinkmann Stereo MK-II Endstufe und Brinkmann Marconi MK-II einige Wochen gehört habe, war mir klar: **_ich muss auch was an meiner Hauptkette ändern!_** Ich hatte schon einiges an Röhrengeräten  getestet, von AirTight über Audio Note und meinen viel-geliebten DIY-Röhrenverstärker(n) von Josef ([Röhrenfieber](https://www.roehrenfieber.com/)). Als auch meinen Cayin 805a/300b an der Hauptkette, aber war für meine Ohren nie die richtige Synergie!
 
-Ich hatte schon einiges an Röhrengeräten  getestet, von AirTight über Audio Note und meinen viel-geliebten DIY-Röhrenverstärker(n) von Josef ([Röhrenfieber](https://www.roehrenfieber.com/)). Als auch meinen Cayin 805a/300b an der Hauptkette, aber war für meine Ohren nie die richtige Synergie!
-
-**Ich kann auch 100% nachvollziehen, warum viele Röhren bevorzugen, jedoch ist es eine ähnliches Phänomen, wie bei den ganzen Vorurteilen von CD/Streaming vs. Vinyl, oder Class-A ist per se besser als Class-D!** :roll_eyes:
-
-**Es gibt eine Vielzahl an extrem-spannenden und hochwertigem Equipment, dass es in jedem der Hifi-Technologiefelder Spitzenprodukte gibt, losgelöst der (Mess)Vorurteile! Genau dass macht es für den _gemeinen Musik-Genießer_ so schwierig!**
+**Ich kann auch 100% nachvollziehen, warum viele Röhren bevorzugen, jedoch ist es eine ähnliches Phänomen, wie bei den ganzen Vorurteilen von CD/Streaming vs. Vinyl, oder Class-A ist per se besser als Class-D!** :roll_eyes: **Es gibt eine Vielzahl an extrem-spannenden und hochwertigem Equipment, dass es in jedem der Hifi-Technologiefelder Spitzenprodukte gibt, losgelöst der (Mess)Vorurteile! Genau dass macht es für den _gemeinen Musik-Genießer_ so schwierig!**
 
 Siehe meine [DAC-Reise](https://hificouch.world/blog/dac-reise-partIII), auch hier ist die Flut an Geräten unüberschaubar und ja, auch hier zeigt sich sehr, sehr klar: 
 
@@ -48,6 +44,8 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 - **_Lautstärkeregelung ist wichtig, aber nicht ausschlaggebend!_**
 - **_Nur ein lineares Netzteil ist die Wahrheit, bleib fern mit Deinem Switched-Mode Netzteil!_**
 - **_Niemand braucht mehr als 25Watt Verstärkung, besorge Dir vernünftigen Lautsprecher!_**
+
+<br>
 
 > **Ohhhh, wie Falsch und Vorurteile von denjenigen, die nicht selbst Erfahrung gesammelt haben, sondern einfach nur nachplappern!** :see_no_evil: :hear_no_evil:
 
@@ -69,7 +67,7 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 
 ---
 
-# HÖRerfahrung mit dern neuen Kombi?
+# HÖRerfahrung mit der neuen Kombi?
 
 
 - :thinking: **Niemals hätte ich gedacht, dass derlei markante Änderungen des Klangbildes stattfinden!**
@@ -91,8 +89,8 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 
 **Meine Qobuz Hifi-Gear-Test Playlists:**
 
-- **Stimmen/Live:**  https://open.qobuz.com/playlist/14153199
-- **Bass/Mitten:** https://open.qobuz.com/playlist/14153107
+- **Stimmen/Live:**  [https://open.qobuz.com/playlist/14153199](https://open.qobuz.com/playlist/14153199)
+- **Bass/Mitten:** [https://open.qobuz.com/playlist/14153107](https://open.qobuz.com/playlist/14153107)
 
 ---
 
@@ -107,8 +105,8 @@ Häufig kommt auch die einschlägige Fraktion: **"Vintage ist sowieso besser!"**
 > **Mein Credo:** \
 > **>Lieber auf ein tolles Gerät sparen, als alle 6 Monate einen neuen China-Clone zu kaufen/tauschen - egal was unsere heißgeliebten H(a)iFi-YouTuber meinen!** \
 > **>In den eigenen 4-Wänden testen, testen. Bei keiner Hifi-Vorführung hatte ich jemals den WOW-Effekt, nur bei privaten Vorstellungen!** \
-> **Austausch und Hörproben bei anderen Hifi-Spinnern wie uns, um echte Erfahrung auszutauschen!** \
-> **Wenn exklusive Komponenten, dann gebraucht (max. 3 Jahre), da es viele gibt die im 2-3 Jahre Rhythmus tauschen. Spezielle im Luxus-Segment!**
+> **>Austausch und Hörproben bei anderen Hifi-Spinnern wie uns, um echte Erfahrung auszutauschen!** \
+> **>Wenn exklusive Komponenten, dann gebraucht (max. 3 Jahre), da es viele gibt die im 2-3 Jahre Rhythmus tauschen. Spezielle im Luxus-Segment!**
 
 **Hier in Deutschland haben wir zum Glück ausgezeichnete Händler, die sich auf exklusive Hifi-Komponenten spezialisiert haben und die ich aus eigener Erfahrung nur uneingeschränkt weiterempfehlen kann.**
 
