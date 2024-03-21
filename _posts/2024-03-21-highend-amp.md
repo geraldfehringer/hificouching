@@ -59,6 +59,8 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 - :thumbsup: **Komplett symmetrischer Aufbau der Vor-/Endstufen-Kombi ist wichtig und macht Sie universeller einsetzbar!**
 - :thumbsup: **TOP-Elektronik Ingineure wissen wie man Switched Mode Netzteile richtig macht (siehe Meßungen der LinnenberG, Soulution oder Grimm Audio)!**
 
+**Hinweis: mein vorheriger Verstärker war ein Vollverstärker: Rotel Michi X5 Series 1**
+
 ---
 
 # Fotostrecke
