@@ -21,7 +21,7 @@ tags:
 
 Seit einigen Jahren habe ich immer mal wieder mit Vorverstärkern und Endstufen experimentiert, jedoch meist im Röhrenumfeld und auch nur an meinen Breitbändern und nicht an meinen primären (Low-Effizient/88dB, Nennbelastbarkeit 240Watt/4Ohm) ELAC Concentro's S507.
 
-Wie bereits in meinem Blog-Beitrag "[High-End Audio Made-in-Germany](https://hificouch.world/blog/hifi-made-in-germany)" hingewiesen, gibt es immer wieder **_Perlen**_ im Hifi-Bereich, so auch in diesem Falle.
+Wie bereits in meinem Blog-Beitrag "[High-End Audio Made-in-Germany](https://hificouch.world/blog/hifi-made-in-germany)" hingewiesen, gibt es immer wieder **Perlen** im Hifi-Bereich, so auch in diesem Falle.
 
 Nachdem ich in meiner 2. Kette die Brinkmann Stereo MK-II Endstufe und Brinkmann Marconi MK-II einige Wochen gehört habe, war mir klar: **_ich muss auch was an meiner Hauptkette ändern!_** Ich hatte schon einiges an Röhrengeräten  getestet, von AirTight über Audio Note und meinen viel-geliebten DIY-Röhrenverstärker(n) von Josef ([Röhrenfieber](https://www.roehrenfieber.com/)). Als auch meinen Cayin 805a/300b an der Hauptkette, aber war für meine Ohren nie die richtige Synergie!
 
