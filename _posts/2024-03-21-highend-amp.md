@@ -1,12 +1,12 @@
 ---
-title: Size matters?
+title: Verstärker - price matters?
 layout: post
 post-image: "/assets/images/blog-highend-amp/gerihifi-post-logo.png"
-description: Audiophiler Wahnsinn, oder spielt der Preis doch eine Rolle?
+description: Audiophiler Wahnsinn, oder spielt der Preis bei Vor-Endverstäkrer doch eine Rolle?
 toc: true
 tags:
 - highend
-- AMP
+- Endtsufe
 - PreAMP
 - NON-sponsored
 ---
