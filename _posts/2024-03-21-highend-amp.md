@@ -35,7 +35,6 @@ Siehe meine [DAC-Reise](https://hificouch.world/blog/dac-reise-partIII), auch hi
 
 **TOP-Geräte in TOP-Qualität kosten Geld und nein, kein China-Clone kann das toppen und wenn ja, dann sind diese mittlerweile auch sehr hochpreisig, siehe: Cayin, Lumin, Denafrips, Vincent, Kinki Studios, Muzishare, Jungson, Xindak oder Tonewinner!**
 
-
 ---
 
 # Vorverstärker & Monos
@@ -62,14 +61,13 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 - :thumbsup: **Komplett symmetrischer Aufbau der Vor-/Endstufen-Kombi ist wichtig und macht Sie universeller einsetzbar!**
 - :thumbsup: **TOP-Elektronik Ingineure wissen wie man Switched Mode Netzteile richtig macht (siehe Meßungen der LinnenberG, Soulution oder Grimm Audio)!**
 
-
 ---
 
 # Fotostrecke
 
 <a href="https://ibb.co/s518zMP"><img src="https://i.ibb.co/s518zMP/20240320-081618.jpg" alt="20240320-081618" border="0"></a> <a href="https://ibb.co/M79R1BG"><img src="https://i.ibb.co/M79R1BG/20240320-081704.jpg" alt="20240320-081704" border="0"></a> <a href="https://ibb.co/PZ3V0fh"><img src="https://i.ibb.co/PZ3V0fh/20240320-081712.jpg" alt="20240320-081712" border="0"></a> <a href="https://ibb.co/VmsgwHp"><img src="https://i.ibb.co/VmsgwHp/20240320-081719.jpg" alt="20240320-081719" border="0"></a> <a href="https://ibb.co/pW07BFG"><img src="https://i.ibb.co/pW07BFG/20240320-081737.jpg" alt="20240320-081737" border="0"></a> <a href="https://ibb.co/n36kpNG"><img src="https://i.ibb.co/n36kpNG/20240320-081751.jpg" alt="20240320-081751" border="0"></a>
----
 
+---
 
 # HÖRerfahrung mit dern neuen Kombi?
 
@@ -120,9 +118,7 @@ Häufig kommt auch die einschlägige Fraktion: **"Vintage ist sowieso besser!"**
 - **[Der perfekte Klang](https://www.der-perfekte-klang.de/shop#!/Gebrauchtgerate/c/139693298)** - Herr Andreas Rackwitz (Dudenhofen)
 - **[CJM Audio](https://www.cjm-audio.de/)** - Herr Constantin Müller (Friedberg)
 
-
 **Hinweis: sind nur Referenzen, mit denen ich selbst positive Erfahrung gesammelt habe, gibt sicher noch einige mehr!**
-
 
 ---
 
