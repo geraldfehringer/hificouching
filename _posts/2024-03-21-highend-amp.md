@@ -74,7 +74,7 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 
 - :thinking: **Niemals hätte ich gedacht, dass derlei markante Änderungen des Klangbildes stattfinden!**
 - :point_right: **die Kombination der LinnenberG Monos mit den Endstufen ist sehr, sehr harmonisch**
-- :point_right: **Bühnentiefe, Stage, Verortung und somit auch gesamte Präsentation, deutlich verbessert**
+- :point_right: **Bühnentiefe, Bühnenbreite, Mittelton, Verortung und somit auch gesamte Präsentation, deutlich verbessert**
 - :point_right: **Grimm Audio MU2 zeigt in der Kombination seine wahre Stärken - Präzision vom Allerfeinsten und unglaubliche Musikdetails (Atmung, Schlagzeug Timbre, Liveaufnahmen-Hintergrundgeräusche ...)**
 
 **Verkabelung:**
@@ -86,7 +86,7 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 **Strom:**
 
 - **Stromfilter:** AudioQuest Niagara 3000
-- **Monos:** 1.5m Mitgelieferten Supra Cables + Stecker
+- **Monos:** 1.5m mitgelieferten Supra Cables + Stecker
 - **Soulution:** 1.5m Furutech Alpha-OCC + Furutech Stecker
 
 **Meine Qobuz Hifi-Gear-Test Playlists:**
