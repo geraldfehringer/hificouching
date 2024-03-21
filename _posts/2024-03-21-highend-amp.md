@@ -51,7 +51,7 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 
 **Nachdem ich nun den [Soulution 725](https://soulution-audio.com/de/serie-7/soulution-725-vorverstaerker/) und LinnenberG Audio [G.F. Händel Monos](https://www.linnenberg-audio.de/page12.html) besitze, kann ich meine persönliche Meinung hier zum Ausdruck bringen:**
 
-- :thumbsup: **Low-Effizient Lautsprecher wie ELAC Concentro's profitieren massiv von hochwertigen Vor-/Endverstärker!**
+- :thumbsup: **Low-Effizient Lautsprecher wie ELAC Concentro's profitieren massiv von hochwertigem Vor-/Endverstärker!**
 - :thumbsup: **Suche nicht per se den Fehlern _in_ den Lautsprechern, überlege sorgfältig bei der Verstärker-Auswahl!**
 - :thumbsup: **Kaufe nicht den PASSENDEN Verstärker zu den neuen Lautsprechern, universeller Spielpartner!**
 - :thumbsup: **Eine _universelle_ Vor-/Endstufen-Kombi kommt mit einer Vielzahl an Lautsprechern klar!**
