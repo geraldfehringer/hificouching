@@ -59,7 +59,7 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 - :thumbsup: **Komplett symmetrischer Aufbau der Vor-/Endstufen-Kombi ist wichtig und macht Sie universeller einsetzbar!**
 - :thumbsup: **TOP-Elektronik Ingineure wissen wie man Switched Mode Netzteile richtig macht (siehe Meßungen der LinnenberG, Soulution oder Grimm Audio)!**
 
-**Hinweis: mein vorheriger Verstärker war ein Vollverstärker: Rotel Michi X5 Series 1**
+**Hinweis: mein vorheriger Verstärker war ein Vollverstärker: Rotel Michi X5 Series 1.**
 
 ---
 
@@ -119,6 +119,8 @@ Häufig kommt auch die einschlägige Fraktion: **"Vintage ist sowieso besser!"**
 - **[CJM Audio](https://www.cjm-audio.de/)** - Herr Constantin Müller (Friedberg)
 
 **Hinweis: sind nur Referenzen, mit denen ich selbst positive Erfahrung gesammelt habe, gibt sicher noch einige mehr!**
+
+Sicherlich werde ich auch das Theme *MEINE besten LautSPRECHER* angehen, jedoch die Concentro's/schlanke Säule sind in meinem Hörraum aktuell gut aufgehoben, daher muss ich mich in Ruhe umsehen & hören!
 
 ---
 
