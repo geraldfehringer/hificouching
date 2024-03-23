@@ -85,7 +85,7 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 
 **Strom:**
 
-- **Stromfilter:** AudioQuest Niagara 3000
+- **Stromfilter/Akku:** Stromtank S1000
 - **Monos:** 1.5m mitgelieferten Supra Cables + Stecker
 - **Soulution:** 1.5m Furutech Alpha-OCC + Furutech Stecker
 
