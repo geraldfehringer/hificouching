@@ -12,7 +12,7 @@ tags:
 
 <br>
 
-**Last Update: 05/02/2024**
+**Last Update: 24/04/2024**
 
 > DISCLAIMER. Diese Links sind unter anderem aus dem [SnakeOilAudio-Forum](https://forum.snakeoilaudio.de/thread-1607.html) und durch meine persönlichen Recherchen erweitert.
 
@@ -64,6 +64,8 @@ tags:
 | [Frag Jan zuerst](http://www.askjanfirst.com/dindex.htm) | Die Wuestens ;-) Großer Röhrenbestand. |
 | [Valves and More](https://valvesnmore.com/) | Für mich die ehrlichsten NOS-Anbieter. Qualität ist immer überragend und messen alles, bevor es rausgeht! Haben auch tollen [YT-Kanal!](https://www.youtube.com/@tubelab194). Sind auch in den USA, also Lieferungen dauern! |
 | [Tubes and more](https://www.tubesandmore.com/) | Einer der ältes Anbieter im Markt, leider auch in den USA/Tempe Arizona, lange Lieferzeiten / Zoll. |
+| [Stradi,Korea](https://www.straditube.com/index.html)| Baut ale NOS neu nach!! |
+|  |  |
 
 ---
 
