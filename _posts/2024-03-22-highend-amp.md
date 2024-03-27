@@ -98,6 +98,8 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 
 # FAZIT
 
+> **Ein guter Vorverstärker macht die MUSIK! Niemals kommt ein Vollverstärker alieine, an dieses Koangbild ran!**
+
 **Ab einer gewissen Preisgrenze und wenn man sich die kleineren, versierten Hifi-Manufakturen ansieht, macht es sehr wohl einen massiven Unterschied was vorne (hinten) rauskommt!**
 
 Natürlich nicht blind einfach den _typischen_ Herstellern hinterherlaufen und nur weil es von Jadis, Audio Note, AirTight, Kondo, Aavik, Burmeister oder darTZeel kommt, um einige _ungewichtet_ zu nennen - heisst es nicht die passen per-se zu Eurer Kette!!
