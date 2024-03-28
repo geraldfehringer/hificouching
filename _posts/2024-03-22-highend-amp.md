@@ -98,7 +98,7 @@ Ich muss eingestehen, über Jahre hinweg habe ich mir immer eingeredet und was j
 
 # FAZIT
 
-> **Ein guter Vorverstärker macht die MUSIK! Niemals kommt ein Vollverstärker alleine, an dieses Koangbild ran!**
+> **Ein guter Vorverstärker macht die MUSIK! Niemals kommt ein Vollverstärker alleine, an dieses Klangbild ran!**
 
 **Ab einer gewissen Preisgrenze und wenn man sich die kleineren, versierten Hifi-Manufakturen ansieht, macht es sehr wohl einen massiven Unterschied was vorne (hinten) rauskommt!**
 
