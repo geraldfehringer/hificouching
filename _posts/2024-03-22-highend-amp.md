@@ -110,7 +110,7 @@ Häufig kommt auch die einschlägige Fraktion: **"Vintage ist sowieso besser!"**
 > **>Lieber auf ein tolles Gerät sparen, als alle 6 Monate einen neuen China-Clone zu kaufen/tauschen - egal was unsere heißgeliebten H(a)iFi-YouTuber meinen!** \
 > **>In den eigenen 4-Wänden testen, testen. Bei keiner Hifi-Vorführung hatte ich jemals den WOW-Effekt, nur bei privaten Vorstellungen!** \
 > **>Austausch und Hörproben bei anderen Hifi-Spinnern wie uns, um echte Erfahrung auszutauschen!** \
-> **>Wenn exklusive Komponenten, dann gebraucht (max. 3 Jahre), da es viele gibt die im 2-3 Jahre Rhythmus tauschen. Spezielle im Luxus-Segment!**
+> **>Wenn exklusive Komponenten, dann gebraucht (max. 3 Jahre), da es viele gibt die im 2-3 Jahre Rhythmus tauschen. Speziell im Luxus-Segment!**
 
 **Hier in Deutschland haben wir zum Glück ausgezeichnete Händler, die sich auf exklusive Hifi-Komponenten spezialisiert haben und die ich aus eigener Erfahrung nur uneingeschränkt weiterempfehlen kann.**
 
