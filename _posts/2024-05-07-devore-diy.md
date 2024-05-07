@@ -1,5 +1,5 @@
 ---
-title: DeVore O96 mal richtig gebaut!
+title: DeVore O96 Reference mal richtig gebaut!
 layout: post
 post-image: "/assets/images/blog-devore-diy/logo.png"
 description: DIY ist (kann) besser sein, meine persönliche Erfahrung mit O96 Nachbau.
@@ -12,7 +12,7 @@ tags:
 
 # Hintergrund
 
-`Update: 7. Mai 2024`
+`Update: 7. Mai 2024 / Tieftöner dazugekommen`
 
 **Ich besitze bereits wertige Lautsprecher im Hauptwohnzimmer und für meinen 2. Hörraum, war ich auf der Suche nach Wand-naher Aufstellung und auch nicht zu wuchtig. Daher mein Fokus auf Audio Note und DeVore.** \
 **Ich bin auch absolut kein Fan von Bookshelf-Speaker, weder diese mitten in den Raum stehen haben möchte - für das volle Potential!**
@@ -91,7 +91,7 @@ Ich nenne diese einfach mal so, da Gunnar sich so viel Mühe gegeben hat, was es
 
 Aktive Tieftöner/Subwoofer:
 
-- **2x Gehäuse mit 30mm Stärke Multiplex & Bassreflexrohr im Gehäuseboden**
+- **2x Gehäuse mit 28mm Stärke Multiplex & Bassreflexrohr im Gehäuseboden**
 - **2x 12'' SB Accoustic [SB34NRXL75-8](https://sbacoustics.com/product/12-sb34nrxl75-8-norex/)**
 - **2x Hypex [FA251](https://www.hypex.nl/products/amplifier-families/fusion-amplifier-family/fusionamp-fa251)**
 - **Hypex angeschlossen via Kabelschuhe an den DeVore's O96**
