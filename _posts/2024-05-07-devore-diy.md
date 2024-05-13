@@ -112,6 +112,9 @@ Aktive Tieftöner/Subwoofer:
 
 
 <a href="https://ibb.co/DzdGb1p"><img src="https://i.ibb.co/DzdGb1p/20240507-181116.jpg" alt="20240507-181116" border="0"></a> <a href="https://ibb.co/SKD9MWz"><img src="https://i.ibb.co/SKD9MWz/20240507-181131.jpg" alt="20240507-181131" border="0"></a> <a href="https://ibb.co/QQTHHQ4"><img src="https://i.ibb.co/QQTHHQ4/20240507-181143.jpg" alt="20240507-181143" border="0"></a> <a href="https://ibb.co/QMVW2Xd"><img src="https://i.ibb.co/QMVW2Xd/20240507-181149.jpg" alt="20240507-181149" border="0"></a> <a href="https://ibb.co/FmPrvw6"><img src="https://i.ibb.co/FmPrvw6/20240507-181157.jpg" alt="20240507-181157" border="0"></a> <a href="https://ibb.co/r08PvbP"><img src="https://i.ibb.co/r08PvbP/20240507-181211.jpg" alt="20240507-181211" border="0"></a> <a href="https://ibb.co/ZKHgqws"><img src="https://i.ibb.co/ZKHgqws/20240507-181221.jpg" alt="20240507-181221" border="0"></a> <a href="https://ibb.co/68J3HbG"><img src="https://i.ibb.co/68J3HbG/20240507-181224.jpg" alt="20240507-181224" border="0"></a> <a href="https://ibb.co/C1ZyhWb"><img src="https://i.ibb.co/C1ZyhWb/20240507-181350.jpg" alt="20240507-181350" border="0"></a> <a href="https://ibb.co/fxBYqgX"><img src="https://i.ibb.co/fxBYqgX/20240507-181403.jpg" alt="20240507-181403" border="0"></a> <a href="https://ibb.co/NYjLmjK"><img src="https://i.ibb.co/NYjLmjK/20240507-181408.jpg" alt="20240507-181408" border="0"></a> <a href="https://ibb.co/Y0MSQwt"><img src="https://i.ibb.co/Y0MSQwt/20240507-181415.jpg" alt="20240507-181415" border="0"></a>
+
+RobF's original O96 Nachbau-Komponentenliste:
+
 ![image](/assets/images/blog-devore-diy/thumbnail_O96%20MKII.jpg)
 ---
 
