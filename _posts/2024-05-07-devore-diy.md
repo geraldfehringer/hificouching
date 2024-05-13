@@ -124,7 +124,7 @@ Aktive Tieftöner/Subwoofer:
 - **Sie können auch leise!! Daher liebe ich derlei 2-Wege Bauweisen, gerade zur Abendstunde ein Genuss!**
 - **Hinweis: Breitbänder sind für mich weiterhin besser im _leise Spielen_, da Bühne nicht zusammenfällt!**
 - **Bass reicht mir in meinem Hörzimmer und obwohl ich diese Wand-nahe stehen habe, auf keinen Fall ein Wummern!**
-- **Kann nicht nur Jazz oder Klassik, kann auch gut mit Punch (Rock, Eletro, Pop) zuschlagen - aber nicht so wie meine ELAC Concentro S507!**
+- **Kann nicht nur Jazz oder Klassik, kann auch gut mit Punch (Rock, Elektro, Pop) zuschlagen - aber nicht so wie meine ELAC Concentro S507!**
 - **Ich persönlich würde sagen Sie ist Raum-freundlich und kann sicher auch 100qm problemlos beschallen!**
 - **Werde ich nicht verkaufen, da in der Kombination und Preis ich bei Audio Note dann eher bei €30.000 sein werde..und perfekt in den Raum passen!** 🤪
 
