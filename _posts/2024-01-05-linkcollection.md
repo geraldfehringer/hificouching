@@ -169,4 +169,4 @@ tags:
  [Stockfish Records, DE](https://www.stockfisch-records.de/) | Zu ECM Records wo ich am häufigsten bestelle, da auch nicht-so-bekannte Künstler vertrieben werden & auch Raritäten. |
 | [Accoustic Sounds, US](https://store.acousticsounds.com/) | Haben auch Audio Fidelity und DDC im Programm |
 | [BGO Records, UK](https://www.bgo-records.com/)  |  |
-| [JPC - Three Blind Mice, DE](https://www.bgo-records.com/) | |
+| [JPC, DE](https://www.jpc.de/) | Große Auswahl |
