@@ -17,9 +17,7 @@ _Source: unfortunately, not my personal chain - pic from an great Japan-Audiophi
 - [tdsl search database](https://tdsl.duncanamps.com/tubesearch.php)
 - [Frank Tabellen](https://frank.pocnet.net/)
 
-# Tube Measurement
-
-- I'm using [Roetest V11](https://hificouch.world/blog/roetest)
+# Tube Measurement (Roetest V11)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5fUQyqL-Fxc?si=K4Q8vjJKYLKKTO65" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
