@@ -25,6 +25,8 @@ _Source: unfortunately, not my personal chain - pic from an great Japan-Audiophi
 
 # Gerihifi Personal Tube Inventory
 
+> Note: i'm always interested to collect and exchange NOS tubes. If you are interested, sent me an E-Mail to: gf @ hificouch . world
+
 :notes:
 
 <table id="tubes" class="display" style="width:100%">
