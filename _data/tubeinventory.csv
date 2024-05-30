@@ -1,5 +1,5 @@
 Type,Vendor,Amount,Matched,Notes
-TOTAL TUBES:,,84,,multiple tubes from same vendor are not counted
+TOTAL TUBES:,,87,,multiple tubes from same vendor are not counted
 4300 (CV4003),Mullard,2,yes,Tubes NOS and matched
 5687,RCA,2,yes,NOS 1960 17mm bronze plates matched pair
 5687,Tung-Sol,1,no,NOS 1950 17mm black plates d-getter 28 ch166
@@ -27,26 +27,28 @@ TOTAL TUBES:,,84,,multiple tubes from same vendor are not counted
 GZ34,Telefunken,1,no,made by Mullard 1966 with code F32 B6H2
 EL84 (6BQ5),SYLVANIA,4,yes,Matched Quad (4 tubes) NOS NIB with High Emissions USA
 E182CC (7119),Philips,2,yes,Matched Pair / NOS NIB / same code (4210) 41.3/41.3 ; 41.3/41.3 mA 100%= 36/36 mA
+E80CC (6085/CV5989),Valvo,2,yes,NOS matched pair Valvo Red Code VB9 015
+E80CC (6085/CV5989),Valvo,2,yes,NOS matched pair Valvo Red Code VB9 001
+E80CC2 (6085),Phillips,2,yes,NOS matched pair 100%
+E80CC,Philips Miniwatt,2,yes,one matched pair SQ Special Quality  golden pin code VB9
+E82CC (6189/12AU7WA),SYLVIANA,2,yes,JHS 1965: MIL-Spezifikation
+ECC82,ADZAM aka MAZDA,3,no,
+ECC82 (5963),SYLVANIA,3,yes,NOS 1964 with orig. Schachtel top
+E82CC (ECC82/5814A),Siemens,2,yes,Munich long plates 3 mica / Military Tube
+ECC82 (12au7),Amperex,3,yes,Bugle Boy lange Platte Folie D-Getter Heerlen Holland
 ECC83 (12AX7),Valvo,2,yes,NOS with disc getter and 4mA
 ECC83,VALVO,2,yes,NOS - OVP - DISC GETTER
 ECC83 (12AX7),Mullard,2,yes,grey ladder plate with single side hole - ECC803/5751/7025
 ECC83 (12AX7),TESLA,2,yes,NOS einer der Besten und auf Niveau der Telefunken ECC803S
 ECC83 (12AX7),Phillips,2,yes,NOS from 1959 one labeled from Triotron with identical code
-E80CC2 (6085),Phillips,2,yes,NOS matched pair 100%
-E80CC,Philips Miniwatt,2,yes,one matched pair SQ Special Quality  golden pin code VB9
-E82CC (ECC82/5814A),Siemens,2,yes,Munich long plates 3 mica / Military Tube
-ECC82 (12au7),Amperex,3,yes,Bugle Boy lange Platte Folie D-Getter Heerlen Holland
 E88CC (ECC/88/CCa),Siemens,2,yes,New matched Paar 17/18 and 18/17 gleichen Produktionscode A49E 09 270
-E88CC,Siemens,2,yes,OVP 17/17 17/17 gleichen Produktionscode A62E 672  
-E80CC (6085/CV5989),Valvo,2,yes,NOS matched pair Valvo Red Code VB9 015
-E80CC (6085/CV5989),Valvo,2,yes,NOS matched pair Valvo Red Code VB9 001
-E82CC (6189/12AU7WA),SYLVIANA,2,yes,JHS 1965: MIL-Spezifikation
-ECC82,ADZAM aka MAZDA,3,no,NOS
-ECC82 (5963),SYLVANIA,3,yes,NOS 1964 with orig. Schachtel top
-5963 (12AU7/EC82/5814),RCA,3,yes,NOS NIB 1964 7/7mA old version red
+E88CC,Siemens,2,yes,OVP 17/17 17/17 gleichen Produktionscode A62E 672
+E88CC (6922),Telefunken,2,yes,Diamond Bottom ULM NOS
 ECC88,Mullard,2,yes,Mached pair Mullard (rebrandet Standard Brand) silver shield same code:IX1 B8A3 / IX1 B8A3
 E88CC-01,Mullard,2,yes,gold pins RARE code R8G2 and R6D3
 E88CC-01,Phillips,2,yes,gold pins RARE code 7LG (triange)3B2 and 7LG(triangle)0I1
+E88CC (6922),Valvo,1,no,Valvo Hamburg VERY RARE code D6L 1956
+5963 (12AU7/EC82/5814),RCA,3,yes,NOS NIB 1964 7/7mA old version red
 300b,ELROG,2,yes,ER300B-Mo Molybdenum Plate best-rated 300b
 300b,Takatsuki,4,yes,Factor matched TA-300B Filament voltage/current 5V/1.2A AC or DC 100mA 450V  plate loss 40W - €340 Zollgebühren!
 300b,E.A.T.,2,yes,top rated together with ELROG
