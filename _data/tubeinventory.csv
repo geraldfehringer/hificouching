@@ -1,6 +1,7 @@
 Type,Vendor,Amount,Matched,Notes
-TOTAL TUBES:,,87,,multiple tubes from same vendor are not counted
+TOTAL TUBES:,,91,,multiple tubes from same vendor are not counted
 4300 (CV4003),Mullard,2,yes,Tubes NOS and matched
+4068 (CV4068),BRIMAR,2,yes,NOS triode also used in AN Meishu Silver Signature
 5687,RCA,2,yes,NOS 1960 17mm bronze plates matched pair
 5687,Tung-Sol,1,no,NOS 1950 17mm black plates d-getter 28 ch166
 5687,Sylvania,2,yes,NOS matched pair gold pins
@@ -75,6 +76,7 @@ E88CC (6922),Valvo,1,no,Valvo Hamburg VERY RARE code D6L 1956
 6SN7,KEN RAD,2,yes,N8S new VT 231 US Army vacuum Tube black glass
 PX4,Marconi,1,no,NOS Fat Shape Valve Tube with Cooling Fins Used Tested (V7)
 PX4,Marconi,1,no,NOS Grey Glass Valve Tube NOS
+PX4,KR-Audio,2,yes,NEW from KR Audio re-issued
 EZ80 (6V4),Amperex,1,no,NOS NIB 45° Code KC0 V3A
 EZ11,TELEFUNKEN,1,no,RFT # NOS (2986)
 EZ11,TELEFUNKEN,1,no,CODE:ik=04.1937 # NOS (4453) 30/30mA
