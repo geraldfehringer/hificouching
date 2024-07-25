@@ -69,6 +69,13 @@ tags:
 
 ---
 
+# Raumakkustik
+
+- Online Messtools: https://amcoustics.com/
+- Basics STEREO Sonderausgabe Raumakustik [PDF](https://hificouch.world/assets/pdf/Absorber_Audio.pdf)
+
+---
+
 # DIY - Lautsprecher
 
 | Link | Infos |
