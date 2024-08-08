@@ -1,5 +1,5 @@
 ---
-title: DeVore O96 Reference in richtig gebaut?
+title: DeVore O96 Reference in besser und bezahlbar?
 layout: post
 post-image: "/assets/images/blog-devore-diy/logo.png"
 description: DIY ist (kann) besser sein, meine persönliche Erfahrung mit O96 als Grundlage.
@@ -12,7 +12,8 @@ tags:
 
 # Hintergrund
 
-**WICHTIG: IST KEIN WEITERER DEVORE O96 CLONE, SONDERN EIN KOMPLETTE NEUER LS MIT DEM SELBEN GRUNDPRINZIP UND AUSSCHLIEßLICH HOCHWERTIGEN TREIBERN UND MATERIALIEN!**
+> **WICHTIG:**
+> IST KEIN WEITERER DEVORE O96 CLONE, SONDERN EIN KOMPLETTE NEUER LS MIT ÄNLICHEM GRUNDPRINZIP, JEDOCH AUSSCHLIEßLICH MIT HOCHWERTIGEN UND BESSEREN TREIBERN UND MATERIALIEN!**
 
 
 `Update: 7. Mai 2024 / Tieftöner dazugekommen`
