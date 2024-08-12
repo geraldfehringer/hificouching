@@ -24,8 +24,7 @@ tags:
 **Ich liebäugle schon seid einigen Jahren mit Audio Note AN-E oder DeVore Lautsprecher.** \
 Beide habe ich in verschiedenen Versionen in unterschiedlichen Räumlichkeiten gehört und ist mein persönlicher Hörgeschmack.
 
-Viele haben ja den _Hype_ mit Breitbändern in den letzten Jahren wahrgenommen. Egal ob ultra-teuer wie Voxativ, Lowther, Cube Audio oder die kleine Süße _Le Petit_ von Sean Hiraga. \
-Die unser lieber [SnakeOilAudio](https://forum.snakeoilaudio.de/) prominent auf YouTube platziert hatte.
+Viele haben ja den _Hype_ mit Breitbändern in den letzten Jahren wahrgenommen. Egal ob ultra-teuer wie Voxativ, Lowther, Cube Audio oder die kleine Süße _Le Petit_ von Sean Hiraga.
 
 **Breitbänder sind faszinierend, sicherlich nichts für jedermann der nach _Wumms_ sucht, aber die Klarheit der Darstellung (Vocals, Instrumente, Räumlichkeit) ist fesselnd!**
 
@@ -43,7 +42,7 @@ Leider wie ganz vieles im _Highend Bereich_ sind die Lautsprecher sehr, sehr üb
 
 
 - **DeVore Orang Utan 96 liegen bei ~€18.000 und der Einstieg bei halbwegs-vernünftigen Audio Note AN-E gehen ebenso los bei ~€16.000!**
-- **DeVore Reference, also mit zusätzlich 2x aktiv Tieftöner Gehäuse: €98.000 !! ..wir ignorieren mal die tollen Kupfer-gefrästen Komponenten..**
+- **DeVore Reference, also mit zusätzlich 2x aktiv Tieftöner Gehäuse: €98.000 !! ..wir ignorieren mal die tollen Messing-gefrästen Komponenten..**
 
 Das ist schon eine Ansage für derlei _einfache_ Gehäuse und 2 Treiber 🫣
 
