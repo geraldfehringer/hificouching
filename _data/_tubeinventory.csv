@@ -16,6 +16,7 @@ TOTAL TUBES:,,93,,,multiple tubes from same vendor are not counted
 5U4G (CV1071),Mullard,1,no,300,NOS u52 Röhre Mullard Britischer GEC
 5U4GB,Fiver,2,yes,370,NOS O-GETTER LONG BOTTLE 1960
 5U4GB,SYLVIANA,2,yes,250,NOS
+5U4G01,CRYOTONE,1,no,162,NEW special cryo-maintained from Wathen Audiopile USA very good specs
 5Y3GT,TUNG-SOL,2,yes,78,NOS NIB (2034)
 5y3GT,Ultron,1,no,19,NOS 48/48mA
 5y3GT,BRIMAR,2,yes,95,Philips Factory 50/50 und 50/53
@@ -37,7 +38,8 @@ E82CC (6189/12AU7WA),SYLVIANA,2,yes,80,JHS 1965: MIL-Spezifikation
 ECC82,ADZAM aka MAZDA,3,no,50,
 ECC82 (5963),SYLVANIA,3,yes,270,NOS 1964 with orig. Schachtel top
 E82CC (ECC82/5814A),Siemens,2,yes,159,Munich long plates 3 mica / Military Tube
-ECC82 (12au7),Amperex,3,yes,350,Bugle Boy lange Platte Folie D-Getter Heerlen Holland
+ECC82 (12AU7),Amperex,3,yes,350,Bugle Boy lange Platte Folie D-Getter Heerlen Holland
+ECC82 (12AU7),CRYTONE,1,no,120,NEW special cryo-maintained from Wathen Audiopile USA very good specs
 ECC83 (12AX7),Valvo,2,yes,100,NOS with disc getter and 4mA
 ECC83,VALVO,2,yes,100,NOS - OVP - DISC GETTER
 ECC83 (12AX7),Mullard,2,yes,150,grey ladder plate with single side hole - ECC803/5751/7025
@@ -49,6 +51,7 @@ E88CC,Siemens,2,yes,180,OVP 17/17 17/17 gleichen Produktionscode A62E 672
 E88CC (6922),Telefunken,2,yes,560,Diamond Bottom ULM NOS
 ECC88,Telefunken,2,yes,430,CCA 50th Gold Pin NOS Ulm Stamp TAB
 ECC88,Mullard,2,yes,110,Mached pair Mullard (rebrandet Standard Brand) silver shield same code:IX1 B8A3 / IX1 B8A3
+ECC88-WCG,CRYTONE,2,yes,310,NEW special cryo-maintained from Wathen Audiopile USA very good specs
 E88CC-01,Mullard,2,yes,150,gold pins RARE code R8G2 and R6D3
 E88CC-01,Phillips,2,yes,155,gold pins RARE code 7LG (triange)3B2 and 7LG(triangle)0I1
 E88CC (6922),Valvo,1,no,500,Valvo Hamburg VERY RARE code D6L 1956
@@ -63,6 +66,7 @@ E88CC (6922),Valvo,1,no,500,Valvo Hamburg VERY RARE code D6L 1956
 300b,KR Audio,2,yes,900,NEW chech republic
 300b,PSVANE,2,yes,1080,NEW Plus version from 2020
 300b,PSVANE,2,yes,1200,NEW special AN-only made called 4300E with ceramic socket
+300b-WC,CRYOTONE,2,yes,1100,NEW special 300b cryo-maintained from Wathen Audiopile USA very good specs
 211,Psvane,2,yes,800, WE211 factory matched austauschbar mit VT-4C und CV2576/socket 4 pos. Jumbo Bajonett (USA)
 805a,Cayin,2,yes,unknown,New from China and default in the Cayin 805a 300b amp
 805a,Linlai,2,yes,600,NEW Elite Series import from China
