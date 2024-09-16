@@ -41,7 +41,7 @@ function sendJSON(){
 		if (xhr.status != 200) { // analyze HTTP status of the response
 		  alert(`Error ${xhr.status}: ${xhr.statusText}`); // e.g. 404: Not Found
 		} else { // show the result
-		  alert(`Done, SUCCESSFULLY committed to our anonym email service..`); // response is the server response
+		  alert(`Done, ERFOLGREICH übermittelt, solltest Du aber Deine E-Mail nicht eingegeben haben, dann wird KEINE Anfrage versendet!`); // response is the server response
 		}
 	  };
 }

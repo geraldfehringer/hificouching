@@ -12,7 +12,7 @@ tags:
 
 <br>
 
-**Last Update: 24/04/2024**
+**Last Update: 26/07/2024**
 
 > DISCLAIMER. Diese Links sind unter anderem aus dem [SnakeOilAudio-Forum](https://forum.snakeoilaudio.de/thread-1607.html) und durch meine persönlichen Recherchen erweitert.
 
@@ -66,6 +66,22 @@ tags:
 | [Tubes and more](https://www.tubesandmore.com/) | Einer der ältes Anbieter im Markt, leider auch in den USA/Tempe Arizona, lange Lieferzeiten / Zoll. |
 | [Stradi,Korea](https://www.straditube.com/index.html)| Baut ale NOS neu nach!! |
 |  |  |
+
+---
+
+# Raumakkustik
+
+- Online Messtools: https://amcoustics.com/
+- Basics STEREO Sonderausgabe Raumakustik [PDF](https://hificouch.world/assets/pdf/Absorber_Audio.pdf)
+
+---
+
+# Preferred HIGHEND Sellers
+
+- [Highend Bisle](https://www.ebay.de/str/highendbisle) (Germany, my preferred retailer - high quality used!)
+- [Contrado](https://www.contrado-audio.nl/) Audio (Netherlands, focus on used/demo cables)
+- Audio [Essence](audio-essence.com) (Italy, only expensive brands - trustworthy owner!)
+- CJM [Audio](https://www.cjm-audio.de/) (Germany, well-known for their used gear!)
 
 ---
 
