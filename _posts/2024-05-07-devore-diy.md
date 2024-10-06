@@ -139,10 +139,10 @@ Hier steht auch großes Besteck, wie Soulution 725/Grimm Audio MU2/LinnenberG Mo
 
 **An welchen Elektronik habe ich Sie bislang getestet?**
 
-- **Röhrenvollverstärker:** PX4 / CF7, Cayin 805/300B
+- **Röhrenvollverstärker:** PX4 / CF7, Cayin 805/300B, Audio Note Meishu Tonmeister Silver Sig
 - **Röhren Monos:** RV258 / RGN1404, Treiberstufe: ECC80 / ECC82, Vorverstärker: Velvet L2 6SN7, Schmendrik ECC80
-- **Transistor Endstufe:** Revidierten Marantz 2270
-- **Quellen:** Lumin U1/Qobuz, Abbas DAC 3.2SE, Cyrus CDi mit externem PSU
+- **Transistor Endstufe:** Revidierten Marantz 2270, BrinkmNn Audio Marconi MK-II ÷ Brinkmann Stereo MK-II, Quad 405-2 full-modified
+- **Quellen:** Lumin U1/Qobuz, Abbas DAC 3.2SE, Holo May KTE, PS Audio SACD Transport, Swoboda Audio Sony CDPX505ES  full-modifiex
 
 ---
 
