@@ -13,7 +13,7 @@ tags:
 # Hintergrund
 
 > **WICHTIG:**
-> IST KEIN WEITERER DEVORE O96 CLONE, SONDERN EIN KOMPLETTE NEUER LS MIT ÄNLICHEM GRUNDPRINZIP. JEDOCH AUSSCHLIEßLICH MIT HOCHWERTIGEN UND BESSEREN TREIBERN UND MATERIALIEN! DER AKTIVE SUBWOOFER SPIELT EBENFALLS IN EINER ÄHNLICHEN LIGA, OHNE MESSIG-AUSPUFFROHREN!
+> IST KEIN WEITERER DEVORE O96 CLONE, SONDERN EIN KOMPLETTE NEUER LS MIT ÄNLICHEM GRUNDPRINZIP. JEDOCH AUSSCHLIEßLICH MIT HOCHWERTIGEN UND BESSEREN TREIBERN UND MATERIALIEN! DER AKTIVE SUBWOOFER SPIELT EBENFALLS IN EINER ÄHNLICHEN LIGA, OHNE MESSING-AUSPUFFROHREN. ÜBRIGENS SIND WEDER AUDIO NOTE ODER DEVORE EINZIGARTIGE LS-DESIGNS, DEN DIESE PASSIEREN AUF DEM SNELL TYPE SPEAKER DESIGN :smile:
 
 
 `Update: 10. Oktober 2024`
@@ -31,7 +31,7 @@ Viele haben ja den _Hype_ mit Breitbändern in den letzten Jahren wahrgenommen. 
 **Ich selbst als kompletter DIY Lautsprecher-Gau habe die _La Grande_ von meinem Lieblingsmentor [Janos](https://www.youtube.com/@realworldaudio/playlists) nachgebaut.**
 
 **Diese basieren ursprünglich auf einem [Fostex FF 145WK](https://www.fostexinternational.com/docs/speaker_components/FF-WKSeries.shtml), der hammermäßig spielte, inkl. Bass.** \
-**Jedoch wollte ich nochmals Schippe drauflegen und habe mit Hilfe von Janos, mich für [Sonido SFR-175 Alnico](https://sonido.hu/index2.php?lang=en) Alnico entschieden und werden meinen Hörraum nicht mehr verlassen!**
+**Jedoch wollte ich nochmals Schippe drauflegen und habe mit Hilfe von Janos, mich für [Sonido SFR-175](https://sonido.hu/index2.php?lang=en) Alnico entschieden und werden meinen Hörraum nicht mehr verlassen!**
 
 ---
 
