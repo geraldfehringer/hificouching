@@ -66,7 +66,7 @@ Hinzu kommt noch die DIY-Fraktion, die der Meinung ist Sie kann mit ein paar Vin
 
 Oder noch schlimmer, zu suggerieren man bekomme für €900 den "Endgame-DAC", weil hier Amir wieder die besten Messwerte und der YouTube-Reviewer den (monatlichen) "Next-Best-DAC ever" präsentiert hat!
 
-Auch ich habe schon viel (Lehr)Geld dahingehend verloren und habe durch die [Gabster Videos](https://www.youtube.com/@Gabster1) einiges mit [Ian Canada fabriziert](https://hificouch.world/blog/dac-reise-partIII) und war schon schwer begeistert. Aber am Ende des Tages bleibt es eine **Frickelei für Nerds** und ist absolut nichts, die sich hinsetzen wollen, eine **stabile Streaming-App** aufrufen und Musik genießen wollen!
+Auch ich habe schon viel (Lehr)Geld dahingehend verloren und habe durch die [Gabster Videos](https://www.youtube.com/@Gabster1) einiges mit [Ian Canada fabriziert](https://hificouch.world/blog/dac-reise-partIII) und war schon schwer begeistert. Aber am Ende des Tages bleibt es eine **Frickelei für Nerds** und ist absolut nichts, die sich einfach nur hinsetzen wollen, eine **stabile Streaming-App** aufrufen und Musik genießen wollen!
 
 ---
 
