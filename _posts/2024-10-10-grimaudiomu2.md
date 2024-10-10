@@ -50,6 +50,7 @@ Ich möchte hier keine Diskussion starten, wie bekloppt man sein muss, so viel f
 
 > Ich höre seit 2004 nur noch digital (CD/SACD/Streaming) und weder Kassette, Bandgerät oder Schallplatte! \
 > Ja ich hatte davor Platten, aber nie großer davon Fanboy gewesen und ja ich kenne einige sehr hochwertige Anlagen mit Dreher die top sind, steht außer Frage! \
+>
 > **WARUM?** \
 > **Da für mich eine digitale Musikreproduktion auf dem Niveau einer "analogen" Kette spielen kann! \
 > Leider werden hier viele Mythen der "Dreher-Fraktion" verteilt und zeigt sich auch bei einer Vielzahl an einschlägigen deutschen Hifi-YouTuber! \
