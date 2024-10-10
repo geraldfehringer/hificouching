@@ -3,7 +3,7 @@ title: Grimm Audio MU2 DAC
 layout: post
 post-image: "/assets/images/blog-grimm-audio-mu2/grimm-logo.png"
 description: Der (ultimative) DAC der meine Suche beendet hat!
-toc: true
+toc: false
 tags:
 - HighEnd
 - DAC
@@ -19,7 +19,7 @@ tags:
 
 # Hintergrund
 
-**Ich hatte bereits im [Feb 2024](https://hificouch.world/blog/dac-reise-partIII) meine Begeisterung hierzu gespiegelt und nun mein Erfahrungsbericht nacht 7+ Monaten.**
+**Ich hatte bereits im [Feb 2024](https://hificouch.world/blog/dac-reise-partIII) meine Begeisterung hierzu gespiegelt und nun mein Erfahrungsbericht nach 7+ Monaten .....**
 
 <a href="https://ibb.co/2F0B26Y"><img src="https://i.ibb.co/2F0B26Y/20241010-134145.jpg" alt="20241010-134145" border="0"></a> <a href="https://ibb.co/c38gLRQ"><img src="https://i.ibb.co/c38gLRQ/20241010-134153.jpg" alt="20241010-134153" border="0"></a> 
 
@@ -29,13 +29,17 @@ Grimm Audio hat ja schon für Furore mit dem MU1 gezeigt und Ende letzten Jahres
 
 Somit kann der MU2 direkt an aktive Lautsprecher angestöpselt werden und kein weiteres Equipment mehr erforderlich, oder an die Endstufe und fungiert als hochwertige Vorstufe mit allen digitalen Eingängen die man so braucht (AES/EBU, USB, SPDIF, TOSLINK)!
 
-Über Testbericht schreibe ich hier nicht, da hierzu schon ausgezeichnete Testberichte vorliegen, siehe:
+**Über Testbericht schreibe ich hier nicht, da hierzu schon ausgezeichnete Testberichte vorliegen, siehe:**
 
 - [MU2 Reviews](https://www.grimmaudio.com/?category_name=reviews&tag=grimm-mu2)
+
+<br />
 
 > **Technisch, fundierte Zusammenfassung beim Darko Podcast und dem Interview mit Elko Grimm (sehr empfehlenswert!):**
 > - [What’s going on inside an €18,000 streaming DAC?](https://darko.audio/2024/09/podcast-whats-going-on-inside-an-e18000-streaming-dac/) :speech_balloon:
 > &nbsp;
+
+---
 
 Wie Ihr eventuell in meinen älteren [Blogs](https://hificouch.world/blog) nachlesen könnt, als auch in meinen [YouTube Videos](https://www.youtube.com/@gerihifi) immer mal wieder das Thema DAC/ADC auftaucht, bin ich da ziemlich "digital-bekloppt"! :smile:
 
@@ -72,8 +76,10 @@ Ich habe den MU2 als Neugerät im Feb 2024 erworben und nun ~7 Monate im regen T
 - **Vorverstärker: MU2 <> Soulution 750 via XLR-Verkabelung ([Driade Flow](https://www.theflowcable.com/order/) Ref 808 XLR)**
   - Ich nutze **nicht** die MU2-Vorstufe, da ich den [Soulution 725](https://soulution-audio.com/de/serie-7/soulution-725-vorverstaerker/) schon vorher hatte und eine andere Liga an Vorverstärker ist (für mich den Besten Solid-State den es gibt)!
   - Netzkabel (LessLoss DFPC Reference) am Stromtank S-1000
+
 - **Endstufe: [LinnenberG](https://www.lenhifi.de/vertriebsmarken/linnenberg/georg-friedrich-h%C3%A4ndel/) G.F. Händel via XLR ([Gutewire](https://gutwire.com/products/interconnects/eon-z/) EON-Z XLR) an Soulution Vorverstärker**
   - Netzkabel (GigaWatt LC3-mK3) am Stromtank S-1000
+
 - **Ethernet: MU2 <> [Paul Pang](https://ppaproduct.blogspot.com/) Quad LAN-Switch**
   - Stromkabel ([Gekko](https://gekkocables.com/) Cables) an [Cardas Audio Nautlilus](https://www.cardas.com/nautilus) Netzleiste
    - Ethernet-Kabel: [NEOTECH NEET-1008](https://www.audiophonics.fr/en/ethernet-rj45-cables/neotech-neet-1008-ethernet-rj45-cable-up-occ-silver-1m-p-15058.html) Ethernet RJ45 Cable UP-OCC Silver 1m
@@ -84,14 +90,14 @@ Ich habe den MU2 als Neugerät im Feb 2024 erworben und nun ~7 Monate im regen T
 
 **Ich kann mich nur wiederholen: ich habe viele, viele Sigma-Delta, R2R-Ladder und Hybrid-DAC's [im Hause gehabt](https://www.canva.com/design/DAGGCJ4_bxg/2Btwcm8YMnhKH3s_paQlrA/view?utm_content=DAGGCJ4_bxg) und in meiner eigenen Kette getestet. Der Grimm Audio MU2 hat etwas, was ich nicht so 100% beschreiben kann:**
 
-- **Er ist extrem auflösend, aber dabei nicht anstregend (das Problem hatte ich mit einigen DACs)**
+- **Er ist extrem auflösend, aber dabei nicht anstrengend (das Problem hatte ich mit einigen DACs)**
 - **Sehr, sehr Nahe am analogen Hören und was man eher aus der Richtung Röhren-DAC's kennt (wenn auch denen meist die detailreiche Auflösung fehlt - rede jetzt nicht von einem Lampizator Horizon!)**
 - **Er klingt nicht verspielt, wie manche R2R-Ladder DAC-Schöngeister und eher auf der neutraleren Seite**
 - **Auch wenn man noch sehr leise hört, gehen keine Details & Dynamik verloren, schon imponierend!**
 - **Er sieht so unscheinbar aus und im Vergleich zu Röhren-DACS's lächerlich wenig Elektronik, aber einfach Perfektion par-excellence - man merkt das Grimm Audio Engineering Team seit über 40 Jahren einschlägige Erfahrung hat!**
 - **Die Steuerung über die Roon-App ist extrem zügig und Abspielen von Titeln mehr oder weniger ohne Verzögerung, dass kennt man nur von sehr, sehr wenigen Streamer-Herstellern (Lumin App gehört nicht dazu!)!**
-  - Keine Ahnung wer eine klassische Fernbedienung benötigt und wieder unnötiger IR-Sensor im DAC!
-  - Über das Webfrontend kann man auch als Laie alle relevanten Parameter intuitiv einstellen 
+- Keine Ahnung wer eine klassische Fernbedienung benötigt und wieder unnötiger IR-Sensor im DAC!
+- Über das Webfrontend kann man auch als Laie alle relevanten Parameter intuitiv einstellen 
 - **Braucht keine separate Box für Ultra-Clock oder Netzteil, da die Grimm Engineers hier kürzeste Wege gesucht & gefunden haben. Mann darf hier auch nicht vergessen: hier kommt NICHTS von der Stange und das gesamte Design ist proprietär, wie bei vielen extrem teuren DAC's!**
 - **Da modulare Architektur & FPGA im Einsatz, hat Elko Grimm schon angedeutet das es neue Software-Feature im nächsten großen Update geben wird (Bsp. UPnP-Support und Tidal-/Qobuz Connect), ohne zu hohen CPU-Impact und somit Seiteneffekte zu erzeugen!**
 
@@ -110,7 +116,7 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
   - Das verbaute "Schaltnetzteil" ist ein proprietäres, komplette Eigenentwicklung von Grimm und kommt aus Ihrer Pro-Audio Erfahrung
   - Habe verschiedene Stromkabel probiert, auch hier wieder kein Tag & Nacht Unterschied, leichte Nuancen. Aktuell nutze ich: "The Essence Reference-II" davor "LessLoss DFPC Reference"
   - Bei mir hängt der MU2 an einem Stromtank und im Akku-Mode ist schon bei einigen Songs eine Verbesserung "hörbar", aber nicht Tag & Nacht!
-- [x] Wie jeder Streamer/Network-Bridge benötigt er vernünftige Ethernet-Verkableung
+- [x] Wie jeder Streamer/Network-Bridge benötigt er vernünftige Ethernet-Verkabelung
   - WLAN wurde erst gar nicht verbaut und hat in einer Highend-Anlage auch NICHTS zu suchen, genau so wenig wie Bluetooth (maximale Störfaktoren - auch wenn im GHz-Bereich, hat Einfluss!)
   - Audiophiler LAN-Switch wird empfohlen und wenn man das Geld für sehr teuren DAC ausgibt, selbstverständlich zur perfekten Abrundung der digitalen Kette!
   - Ich nutze Paul Pang Quad Switch und als Ethernet-Verkabelung: "NEOTECH NEET-1008 Ethernet RJ45 Cable UP-OCC Silver 1m"
@@ -129,3 +135,11 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
 <br />
 
   <a href="https://ibb.co/j6W9rq2"><img src="https://i.ibb.co/j6W9rq2/Grimm-Web-UI.png" alt="Grimm-Web-UI" border="0"></a>   <a href="https://ibb.co/vckXH2B"><img src="https://i.ibb.co/vckXH2B/roon1.png" alt="roon1" border="0"></a> <a href="https://ibb.co/yhfrXnr"><img src="https://i.ibb.co/yhfrXnr/roon2.png" alt="roon2" border="0"></a> <a href="https://ibb.co/KWVbnkQ"><img src="https://i.ibb.co/KWVbnkQ/mu2-share.png" alt="mu2-share" border="0"></a>
+
+
+<br />>
+
+**#listen.learn.contribute!** \
+**gerihifi**
+
+...bei Interesse für eine Hörprobe: [https://hificouch.world/setups](https://hificouch.world/setups)
