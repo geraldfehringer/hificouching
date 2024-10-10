@@ -140,12 +140,12 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
 - [x] Der MU2 kann native DSD abspielen, daher einfach DSD-Files auf die MU2-Festplatte übertragen
 - Kann auch direkt über das Netzwerk kopiert werden, siehe [Anleitung](https://www.grimmaudio.com/wordpress/wp-content/uploads/Manual-MU2-Software-V0.9.6.pdf) wie das MU2 Netzwerk-Share angesprochen werden kann
 - Ich kopiere meine DSD (dsf) Dateien auf eine externe SSD-USB und schließe diese direkt an den MU2 und nutze Files von da
-- **Es findet KEINE PCM-Konvertierung statt, wie bei vielen DAC's, hat mir Elko bestätigt und hört man auch, kann ich nur empfehlen mal zu testen!**
+- Es findet KEINE PCM-Konvertierung statt, wie bei vielen DAC's, hat mir Elko bestätigt und hört man auch, kann ich nur empfehlen mal zu testen!
 <br />
 
-- [x] Der MU2 ist ja ein Roon-Core only und somit nur mittels Roon-App ansprechbar. Folgende Einstellung werden empfohlen (auch rege in Foren besprochen & getestet):
+- [x] Der MU2 ist ja ein Roon-Core (+ Bridge) only und somit nur mittels Roon-App ansprechbar. Folgende Einstellung werden empfohlen (auch rege in Foren besprochen & getestet):
 - **Externer Vorverstärker:** ROON: "Volume Control" auf "Fixed Volume" stellen / MU2 Settings: "Fixed Volume"
-- **Ohne Vorverstärker:** "Volume Control" auf "Device Volume" stellen
+- **Ohne Vorverstärker:** "Volume Control" auf "Device Volume" stellen / MU2 Settings: auf -7db Startup Vulume setzen (Regelung am MU2 Dial oder in der Roon App)
 <br />
 - [x] Der AES/EBU & SPDIF digital-Eingänge unterstützen DSD64 in 'DoP' Format und somit kann ein SACD-Transport daran angeschlossen werden der nativ den DSD-Layer (SACD kann ja max. DSD64) über derlei Anschlüsse überträgt
 - Ich selbst nutze den PS Audio Directwave und dieser unterstützt DSD-native nur über I2S (HDMI-Interface), daher nicht am MU2 angeschlossen, sondern am Holo May KTE :wink:
