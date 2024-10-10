@@ -147,7 +147,7 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
 - **Externer Vorverstärker:** ROON: "Volume Control" auf "Fixed Volume" stellen / MU2 Settings: "Fixed Volume"
 - **Ohne Vorverstärker:** "Volume Control" auf "Device Volume" stellen / MU2 Settings: auf -7db Startup Vulume setzen (Regelung am MU2 Dial oder in der Roon App)
 <br />
-- [x] Der AES/EBU & SPDIF digital-Eingänge unterstützen DSD64 in 'DoP' Format und somit kann ein SACD-Transport daran angeschlossen werden der nativ den DSD-Layer (SACD kann ja max. DSD64) über derlei Anschlüsse überträgt
+- [x] Die AES/EBU & SPDIF digital-Eingänge unterstützen DSD64 in 'DoP' Format und somit kann ein SACD-Transport daran angeschlossen werden der nativ den DSD-Layer (SACD kann ja max. DSD64) über derlei Anschlüsse überträgt
 - Ich selbst nutze den PS Audio Directwave SACD Transport und dieser unterstützt DSD-native nur über I2S (HDMI-Interface), daher nicht am MU2 angeschlossen, sondern am Holo May KTE :wink:
 <br />
 
