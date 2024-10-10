@@ -23,6 +23,8 @@ tags:
 
 <a href="https://ibb.co/2F0B26Y"><img src="https://i.ibb.co/2F0B26Y/20241010-134145.jpg" alt="20241010-134145" border="0"></a> <a href="https://ibb.co/c38gLRQ"><img src="https://i.ibb.co/c38gLRQ/20241010-134153.jpg" alt="20241010-134153" border="0"></a> 
 
+(Bilder anklicken zum Vergrößern!)
+
 Grimm Audio hat ja schon für Furore mit dem MU1 gezeigt und Ende letzten Jahres (2023) wurde ein neues Modell auf den Markt gebracht. Dies ist **keine** neue Version, da der **MU2** zusätzliche Vorverstärker-Sektion bekommen hat und somit einen vollwertigen Streamer-/Roon-Core/digitale und analoge Vorstufe darstellt.
 
 **Der Listenpreis liegt bei €18.000 und ist somit sicherlich im oberen Ende der Luxus-DAC's angesiedelt. Wobei es noch deutlich (absurder) im Ultra-Fi abgeht, siehe Topmodelle von: Antipodes, Taiko Extreme, Ideon Audio, TotalDac, Lampizator, MSB, Aries Cerat, Playback Design oder dCS - hier liegen wir jenseits von €40.000 (ohne Kabel) !!** :neutral_face:
@@ -48,14 +50,14 @@ Ich möchte hier keine Diskussion starten, wie bekloppt man sein muss, so viel f
 
 > Ich höre seit 2004 nur noch digital (CD/SACD/Streaming) und weder Kassette, Bandgerät oder Schallplatte! \
 > Ja ich hatte davor Platten, aber nie großer davon Fanboy gewesen und ja ich kenne einige sehr hochwertige Anlagen mit Dreher die top sind, steht außer Frage! \
-> &nbsp;
 > **WARUM?** \
 > **Da für mich eine digitale Musikreproduktion auf dem Niveau einer "analogen" Kette spielen kann! \
-> Leider werden hier viele Mythen der "Dreher-Fraktion" verteilt und zeigt sich auch bei einer Vielzahl an einschlägigen deutschen Hifi-YouTuber! Natürlich haben wir auch die Hifi-Urgesteine für die NUR die Schallplatte die Antwort auf alles ist - 42 :smirk:**
+> Leider werden hier viele Mythen der "Dreher-Fraktion" verteilt und zeigt sich auch bei einer Vielzahl an einschlägigen deutschen Hifi-YouTuber! \
+> Natürlich haben wir auch die Hifi-Urgesteine für die NUR die Schallplatte die Antwort auf alles ist - 42 :smirk:**
 
 :point_right: **Ich will damit sagen: wenn ich eine digitale Kette aufbaue, muss ich genau so viel Liebe & Begeisterung aufbringen, wie für analoge Musikquellen!**
 
-<br />
+---
 
 Viele Hifi-Enthusiasten wie ich auch selbst, steigen "überstürzt" in das Thema ein und lassen sich viel aufschwätzen, egal ob von den einschlägigen YT-Reviews, oder den Händlern unseres Vertrauens!
 
@@ -64,8 +66,6 @@ Hinzu kommt noch die DIY-Fraktion, die der Meinung ist Sie kann mit ein paar Vin
 Oder noch schlimmer, zu suggerieren man bekomme für €900 den "Endgame-DAC", weil hier Amir wieder die besten Messwerte und der YouTube-Reviewer den (monatlichen) "Next-Best-DAC ever" präsentiert hat!
 
 Auch ich habe schon viel (Lehr)Geld dahingehend verloren und habe durch die [Gabster Videos](https://www.youtube.com/@Gabster1) einiges mit [Ian Canada fabriziert](https://hificouch.world/blog/dac-reise-partIII) und war schon schwer begeistert. Aber am Ende des Tages bleibt es eine **Frickelei für Nerds** und ist absolut nichts, die sich hinsetzen wollen, eine **stabile Streaming-App** aufrufen und Musik genießen wollen!
-
-
 
 ---
 
@@ -155,10 +155,12 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
 
 <br />
 
-  <a href="https://ibb.co/j6W9rq2"><img src="https://i.ibb.co/j6W9rq2/Grimm-Web-UI.png" alt="Grimm-Web-UI" border="0"></a>   <a href="https://ibb.co/vckXH2B"><img src="https://i.ibb.co/vckXH2B/roon1.png" alt="roon1" border="0"></a> <a href="https://ibb.co/yhfrXnr"><img src="https://i.ibb.co/yhfrXnr/roon2.png" alt="roon2" border="0"></a> <a href="https://ibb.co/KWVbnkQ"><img src="https://i.ibb.co/KWVbnkQ/mu2-share.png" alt="mu2-share" border="0"></a>
+(Bilder anklicken zum Vergrößern!)
+
+<a href="https://ibb.co/j6W9rq2"><img src="https://i.ibb.co/j6W9rq2/Grimm-Web-UI.png" alt="Grimm-Web-UI" border="0"></a>   <a href="https://ibb.co/vckXH2B"><img src="https://i.ibb.co/vckXH2B/roon1.png" alt="roon1" border="0"></a> <a href="https://ibb.co/yhfrXnr"><img src="https://i.ibb.co/yhfrXnr/roon2.png" alt="roon2" border="0"></a> <a href="https://ibb.co/KWVbnkQ"><img src="https://i.ibb.co/KWVbnkQ/mu2-share.png" alt="mu2-share" border="0"></a>
 
 
-<br />>
+<br />
 
 **#listen.learn.contribute!** \
 **gerihifi**
