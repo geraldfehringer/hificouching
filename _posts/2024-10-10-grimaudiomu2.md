@@ -156,6 +156,8 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
 
 <br />
 
+Meine Roon-Einstellungen (ich nutze externen Vorverstärker!):
+
 (Bilder anklicken zum Vergrößern!)
 
 <a href="https://ibb.co/j6W9rq2"><img src="https://i.ibb.co/j6W9rq2/Grimm-Web-UI.png" alt="Grimm-Web-UI" border="0"></a>   <a href="https://ibb.co/vckXH2B"><img src="https://i.ibb.co/vckXH2B/roon1.png" alt="roon1" border="0"></a> <a href="https://ibb.co/yhfrXnr"><img src="https://i.ibb.co/yhfrXnr/roon2.png" alt="roon2" border="0"></a> <a href="https://ibb.co/KWVbnkQ"><img src="https://i.ibb.co/KWVbnkQ/mu2-share.png" alt="mu2-share" border="0"></a>
