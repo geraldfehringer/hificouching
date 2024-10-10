@@ -42,9 +42,9 @@ Leider wie ganz vieles im _Highend Bereich_ sind die Lautsprecher sehr, sehr üb
 
 
 - **DeVore Orang Utan 96 liegen bei ~€18.000 und der Einstieg bei halbwegs-vernünftigen Audio Note AN-E gehen ebenso los bei ~€16.000!**
-- **DeVore Reference, also mit zusätzlich 2x aktiv Tieftöner Gehäuse: €98.000 !! ..wir ignorieren mal die tollen Kupfer-Messing-gefrästen Komponenten**
+- **DeVore Reference, also mit zusätzlich 2x aktiv Tieftöner Gehäuse: €98.000 !! ..wir ignorieren mal die tollen Messing-gefrästen Komponenten**
 
-Das ist schon eine Ansage für derlei _einfache_ Gehäuse und 2/3 Treiber (okay, mit Superhochtöner im Bronze-Horn) 🫣
+Das ist schon eine Ansage für derlei _einfache_ (SNELL) Gehäuse! 🫣
 
 Daher habe ich in den einschlägigen HiFi- und DIY-Foren nach Erfahrungen zu Audio Note und DeVore mehrere Wochen recherchiert. \
 Viele unterschiedliche Meinungen, Fanboys, voreingenommene Kommentare ....**das Übliche!**
