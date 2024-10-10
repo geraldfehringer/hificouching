@@ -126,7 +126,7 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
 <br />
 
 - [x] Hingegen gute Verkabelung macht natürlich beim DAC immer Sinn und natürlich auch Stromfilter/Conditioner
-- Das verbaute "Schaltnetzteil" ist ein proprietäres, komplette Eigenentwicklung von Grimm und kommt aus Ihrer Pro-Audio Erfahrung
+- Das verbaute "Schaltnetzteil" ist ein proprietäres, komplette Eigenentwicklung von Grimm und ist wie auch bei LinnenberG Monos extrem gut (nein, es muss nicht immer ein Lineares sein!)
 - Habe verschiedene Stromkabel probiert, auch hier wieder kein Tag & Nacht Unterschied, leichte Nuancen. Aktuell nutze ich: "The Essence Reference-II" davor "LessLoss DFPC Reference"
 - Bei mir hängt der MU2 an einem Stromtank und im Akku-Mode ist schon bei einigen Songs eine Verbesserung "hörbar", aber nicht Tag & Nacht!
 <br />
