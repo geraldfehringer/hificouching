@@ -53,7 +53,7 @@ Ich möchte hier keine Diskussion starten, wie bekloppt man sein muss, so viel f
 >
 > **WARUM?** \
 > **Da für mich eine digitale Musikreproduktion auf dem Niveau einer "analogen" Kette spielen kann! \
-> Leider werden hier viele Mythen der "Dreher-Fraktion" verteilt und zeigt sich auch bei einer Vielzahl an einschlägigen deutschen Hifi-YouTuber! \
+> Leider werden hier viele Mythen der "Dreher-Fraktion" erzählt, ohne selber mal vernünftig getestets zu haben und zeigt sich auch bei einer Vielzahl an einschlägigen deutschen Hifi-YouTuber Aussagen! \
 > Natürlich haben wir auch die Hifi-Urgesteine für die NUR die Schallplatte die Antwort auf alles ist - 42 :smirk:**
 
 :point_right: **Ich will damit sagen: wenn ich eine digitale Kette aufbaue, muss ich genau so viel Liebe & Begeisterung aufbringen, wie für analoge Musikquellen!**
