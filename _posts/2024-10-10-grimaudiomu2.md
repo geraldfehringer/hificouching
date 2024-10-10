@@ -2,7 +2,7 @@
 title: Grimm Audio MU2 DAC
 layout: post
 post-image: "/assets/images/blog-grimm-audio-mu2/grimm-logo.png"
-description: Der (ultimative) DAC der meine Suche beendet hat!
+description: Der (ultimative) DAC der meine unruhige Suche beendet hat!
 toc: false
 tags:
 - HighEnd
@@ -46,9 +46,12 @@ Wie Ihr eventuell in meinen älteren [Blogs](https://hificouch.world/blog) nachl
 Seit vielen Jahren (um präzise zu sein, intensiv seit 2016) suche ich nach den "ultimativen" DAC - für **MEIN Budget!** \
 Ich möchte hier keine Diskussion starten, wie bekloppt man sein muss, so viel für einen DAC auszugeben! **Gegenfrage:** warum gibst Du so viel Geld für Autos, Smartphone, Uhren, Urlaub, Lautsprecher, Schallplatten, Dreher oder Verstärker aus? :grimacing:
 
-> Ich höre seit 2004 nur noch digital (CD/SACD/Streaming) und weder Kassette, Bandgerät oder Schallplatte! Ja ich hatte davor Platten, aber nie großer davon Fanboy gewesen und ja ich kenne einige sehr hochwertige Anlagen mit Dreher die top sind, steht außer Frage! \
+> Ich höre seit 2004 nur noch digital (CD/SACD/Streaming) und weder Kassette, Bandgerät oder Schallplatte! \
+> Ja ich hatte davor Platten, aber nie großer davon Fanboy gewesen und ja ich kenne einige sehr hochwertige Anlagen mit Dreher die top sind, steht außer Frage! \
+> &nbsp;
 > **WARUM?** \
-**Da für mich eine digitale Musikreproduktion auf dem Niveau einer "analogen" Kette spielen kann! Leider werden hier viele Mythen der "Dreher-Fraktion" verteilt und zeigt sich auch bei einer Vielzahl an einschlägigen deutschen Hifi-YouTuber! Natürlich haben wir auch die Hifi-Urgesteine für die NUR die Schallplatte die Antwort auf alles ist - 42 :smirk:**
+> **Da für mich eine digitale Musikreproduktion auf dem Niveau einer "analogen" Kette spielen kann! \
+> Leider werden hier viele Mythen der "Dreher-Fraktion" verteilt und zeigt sich auch bei einer Vielzahl an einschlägigen deutschen Hifi-YouTuber! Natürlich haben wir auch die Hifi-Urgesteine für die NUR die Schallplatte die Antwort auf alles ist - 42 :smirk:**
 
 :point_right: **Ich will damit sagen: wenn ich eine digitale Kette aufbaue, muss ich genau so viel Liebe & Begeisterung aufbringen, wie für analoge Musikquellen!**
 
@@ -82,9 +85,11 @@ Auch ich habe schon viel (Lehr)Geld dahingehend verloren und habe durch die [Gab
 - Ich nutze **nicht** die MU2-Vorstufe, da ich den [Soulution 725](https://soulution-audio.com/de/serie-7/soulution-725-vorverstaerker/) schon vorher hatte und eine andere Liga an Vorverstärker ist (für mich den Besten Solid-State den es gibt)!
 - Netzkabel (LessLoss DFPC Reference) am Stromtank S-1000
 <br />
+
 - **Endstufe: [LinnenberG](https://www.lenhifi.de/vertriebsmarken/linnenberg/georg-friedrich-h%C3%A4ndel/) G.F. Händel via XLR ([Gutewire](https://gutwire.com/products/interconnects/eon-z/) EON-Z XLR) an Soulution Vorverstärker**
 - Netzkabel (GigaWatt LC3-mK3) am Stromtank S-1000
 <br />
+
 - **Ethernet: MU2 <> [Paul Pang](https://ppaproduct.blogspot.com/) Quad LAN-Switch**
 - Stromkabel ([Gekko](https://gekkocables.com/) Cables) an [Cardas Audio Nautlilus](https://www.cardas.com/nautilus) Netzleiste
 - Ethernet-Kabel: [NEOTECH NEET-1008](https://www.audiophonics.fr/en/ethernet-rj45-cables/neotech-neet-1008-ethernet-rj45-cable-up-occ-silver-1m-p-15058.html) Ethernet RJ45 Cable UP-OCC Silver 1m
@@ -118,21 +123,25 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
 - [x] Super-fancy Absorber Basen unter dem MU2 machen KEINEN hörbaren Unterschied, kann man sich ersparen
 - Den Hinweis gibt sogar Grimm Audio selbst!
 <br />
+
 - [x] Hingegen gute Verkabelung macht natürlich beim DAC immer Sinn und natürlich auch Stromfilter/Conditioner
 - Das verbaute "Schaltnetzteil" ist ein proprietäres, komplette Eigenentwicklung von Grimm und kommt aus Ihrer Pro-Audio Erfahrung
 - Habe verschiedene Stromkabel probiert, auch hier wieder kein Tag & Nacht Unterschied, leichte Nuancen. Aktuell nutze ich: "The Essence Reference-II" davor "LessLoss DFPC Reference"
 - Bei mir hängt der MU2 an einem Stromtank und im Akku-Mode ist schon bei einigen Songs eine Verbesserung "hörbar", aber nicht Tag & Nacht!
 <br />
+
 - [x] Wie jeder Streamer/Network-Bridge benötigt er vernünftige Ethernet-Verkabelung
 - WLAN wurde erst gar nicht verbaut und hat in einer Highend-Anlage auch NICHTS zu suchen, genau so wenig wie Bluetooth (maximale Störfaktoren - auch wenn im GHz-Bereich, hat Einfluss!)
 - Audiophiler LAN-Switch wird empfohlen und wenn man das Geld für sehr teuren DAC ausgibt, selbstverständlich zur perfekten Abrundung der digitalen Kette!
 - Ich nutze Paul Pang Quad Switch und als Ethernet-Verkabelung: "NEOTECH NEET-1008 Ethernet RJ45 Cable UP-OCC Silver 1m"
 <br />
+
 - [x] Der MU2 kann native DSD abspielen, daher einfach DSD-Files auf die MU2-Festplatte übertragen
 - Kann auch direkt über das Netzwerk kopiert werden, siehe [Anleitung](https://www.grimmaudio.com/wordpress/wp-content/uploads/Manual-MU2-Software-V0.9.6.pdf) wie das MU2 Netzwerk-Share angesprochen werden kann
 - Ich kopiere meine DSD (dsf) Dateien auf eine externe SSD-USB und schließe diese direkt an den MU2 und nutze Files von da
 - **Es findet KEINE PCM-Konvertierung statt, wie bei vielen DAC's, hat mir Elko bestätigt und hört man auch, kann ich nur empfehlen mal zu testen!**
 <br />
+
 - [x] Der MU2 ist ja ein Roon-Core only und somit nur mittels Roon-App ansprechbar. Folgende Einstellung werden empfohlen (auch rege in Foren besprochen & getestet):
 - **Externer Vorverstärker:** ROON: "Volume Control" auf "Fixed Volume" stellen / MU2 Settings: "Fixed Volume"
 - **Ohne Vorverstärker:** "Volume Control" auf "Device Volume" stellen
@@ -140,6 +149,7 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
 - [x] Der AES/EBU & SPDIF digital-Eingänge unterstützen DSD64 in 'DoP' Format und somit kann ein SACD-Transport daran angeschlossen werden der nativ den DSD-Layer (SACD kann ja max. DSD64) über derlei Anschlüsse überträgt
 - Ich selbst nutze den PS Audio Directwave und dieser unterstützt DSD-native nur über I2S (HDMI-Interface), daher nicht am MU2 angeschlossen, sondern am Holo May KTE :wink:
 <br />
+
 - [x] Grimm Audio hat als einer von wenigen Herstellern, eine sehr enge Beziehung zu den Roon-Entwicklern, daher auch die Entscheidung nicht eigene Software vom Scratch zu Schreiben!
 - MU2 hat Roon Core & Bridge vorinstalliert und kann somit auch von einem anderen Roon Core als Bridge angesprochen werden. Sollte z.Bsp. schon weiterer Roon Core existieren, mit einer sehr großen Musikbibliothek (hat immer massiven Impact auf den CPU, da zu viel Aufbereitung von Metadaten!)
 
