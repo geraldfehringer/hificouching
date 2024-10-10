@@ -49,7 +49,7 @@ Seit vielen Jahren (um präzise zu sein, intensiv seit 2016) suche ich nach den 
 Ich möchte hier keine Diskussion starten, wie bekloppt man sein muss, so viel für einen DAC auszugeben! **Gegenfrage:** warum gibst Du so viel Geld für Autos, Smartphone, Uhren, Urlaub, Lautsprecher, Schallplatten, Dreher oder Verstärker aus? :grimacing:
 
 > Ich höre seit 2004 nur noch digital (CD/SACD/Streaming) und weder Kassette, Bandgerät oder Schallplatte! \
-> Ja ich hatte davor Platten, aber nie großer davon Fanboy gewesen und ja ich kenne einige sehr hochwertige Anlagen mit Dreher die top sind, steht außer Frage! \
+> Ja ich hatte davor Platten, aber war nie großer Fanboy davon gewesen und ja ich kenne einige sehr hochwertige Anlagen mit Dreher die top sind, steht außer Frage!
 >
 > **WARUM?** \
 > **Da für mich eine digitale Musikreproduktion auf dem Niveau einer "analogen" Kette spielen kann! \
