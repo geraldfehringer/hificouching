@@ -13,10 +13,10 @@ tags:
 # Hintergrund
 
 > **WICHTIG:**
-> IST KEIN WEITERER DEVORE O96 CLONE, SONDERN EIN KOMPLETTE NEUER LS MIT ÄNLICHEM GRUNDPRINZIP. JEDOCH AUSSCHLIEßLICH MIT HOCHWERTIGEN UND BESSEREN TREIBERN UND MATERIALIEN! DER AKTIVE SUBWOOFER SPIELT EBENFALLS IN EINER ÄHNLICHEN LIGA, OHNE MESSING-AUSPUFFROHREN!
+> IST KEIN WEITERER DEVORE O96 CLONE, SONDERN EIN KOMPLETTE NEUER LS MIT ÄNLICHEM GRUNDPRINZIP. JEDOCH AUSSCHLIEßLICH MIT HOCHWERTIGEN UND BESSEREN TREIBERN UND MATERIALIEN! DER AKTIVE SUBWOOFER SPIELT EBENFALLS IN EINER ÄHNLICHEN LIGA, OHNE MESSIG-AUSPUFFROHREN!
 
 
-`Update: 7. Mai 2024 / Tieftöner dazugekommen`
+`Update: 10. Oktober 2024`
 
 **Ich besitze bereits wertige Lautsprecher im Hauptwohnzimmer und für meinen 2. Hörraum, war ich auf der Suche nach Wand-naher Aufstellung und auch nicht zu wuchtig. Daher mein Fokus auf Audio Note und DeVore.** \
 **Ich bin auch absolut kein Fan von Bookshelf-Speaker, weder diese mitten in den Raum stehen haben möchte - für das volle Potential!**
@@ -31,7 +31,7 @@ Viele haben ja den _Hype_ mit Breitbändern in den letzten Jahren wahrgenommen. 
 **Ich selbst als kompletter DIY Lautsprecher-Gau habe die _La Grande_ von meinem Lieblingsmentor [Janos](https://www.youtube.com/@realworldaudio/playlists) nachgebaut.**
 
 **Diese basieren ursprünglich auf einem [Fostex FF 145WK](https://www.fostexinternational.com/docs/speaker_components/FF-WKSeries.shtml), der hammermäßig spielte, inkl. Bass.** \
-**Jedoch wollte ich nochmals Schippe drauflegen und habe mit Hilfe von Janos, mich für [Sonido SFR-175](https://sonido.hu/index2.php?lang=en) Alnico entschieden und werden meinen Hörraum nicht mehr verlassen!**
+**Jedoch wollte ich nochmals Schippe drauflegen und habe mit Hilfe von Janos, mich für [Sonido SFR-175 Alnico](https://sonido.hu/index2.php?lang=en) Alnico entschieden und werden meinen Hörraum nicht mehr verlassen!**
 
 ---
 
@@ -53,33 +53,30 @@ Viele unterschiedliche Meinungen, Fanboys, voreingenommene Kommentare ....**das 
 
 # DeVore Reverse Engineering
 
-Durch Zufall habe ich mich auch im Gebrauchtmarkt umgesehen und da sto&e ich auf Gunnar aus Lübeck, mit dem Anzeige-Titel: \
+Durch Zufall habe ich mich auch im Gebrauchtmarkt umgesehen und da sto&e ich auf die Anzeige mit dem Titel: \
 **_Devore Orangutan O96 | von Analyse zum Nachbau | ein Testbericht_**.
 
 **Das hat mich sofort hellhörig gemacht und habe Ihn gleich angeschrieben und gebeten mit das PDF zukommen zu lassen.**
 
-**Gunnar hat mir dies auch sofort unentgeltlich angeboten und am Abend ginge ich seinen 30-seitigen (!!) Detailbericht durch und ich wusste, ich muss mit Ihm in Kontakt treten!**
-
-Jeder der Interesse hat, sollte auf Ihn zugehen, da er sich wirklich sehr viel Mühe gegeben hat und auch fundiert, technisch beschreibt und kein Gequassel! \
-Er bietet sein PDF zum kleinen Preis an, siehe [Kleinanzeigen](https://www.kleinanzeigen.de/s-anzeige/devore-orangutan-o96-von-analyse-zum-nachbau-ein-testbericht/2665251052-172-24229) - seine Benutzerkennung ist [RobF](https://www.kleinanzeigen.de/s-bestandsliste.html?userId=134688342)
-
 Ich war schockiert, nicht überrascht da im HiFi-Markt die Bepreisung von Produkten schon lange NICHTS mehr mit dem Gegenwert des Gerätes/Lautsprechers zu tun hat!
 
-**Jedoch was in seinen originalen DeVore verbaut war, dass wird jeden versierten DIY'er nur wieder bestätigen und zum Lachen bringen!**
+**Jedoch was in seinen originalen DeVore verbaut war, dass wird jeden versierten DIY'er nur wieder bestätigen und zum Schmunzeln bringen!**
 
-Jetzt war ich anfixiert, wie Gunnar diese Probleme anging, um eine professionelle Version der OrangUtan 96 nachzubauen!
+Jetzt war ich fixiert, wie er diese Probleme anging, um eine professionelle Version der OrangUtan 96 nachzubauen!
 
 **Auch hier beschreibt er in allen Details, worauf er geachtet hat und warum aus einem 2-Monate Projekt, doch eher ein Jahr wurde. Alleine die Mühe die er sich gemacht hat, die BESTEN Bauteile für die Frequenzweiche zu kriegen & zu Verstehen, CHAPEAU !!!** 👏
 
-Gesagt, getan und natürlich habe ich die Nähe zu Lübeck aus Hamburg sofort ausgenutzt und habe Ihn besucht zu einer Hörprobe! Meinen DIY-Referenzverstärker (PX4 von [Josef/Röhrenfieber](https://www.roehrenfieber.com/px4)) eingepackt und los gings....
+Gesagt, getan und natürlich habe ich die Nähe zu Hamburg sofort ausgenutzt und habe Ihn besucht zu einer Hörprobe! Meinen kleinen unscheinbaren DIY-Referenzverstärker (PX4 von [Josef/Röhrenfieber](https://www.roehrenfieber.com/px4)) eingepackt und los ging es....
 
 ----
 
 # RobF Re-Loaded O96 AlNiCo REFERENCE
 
-Ich nenne diese einfach mal so, da Gunnar sich so viel Mühe gegeben hat, was es einfach verdient diesen **_seinen Lautsprecher_** zu nennen!
+Ich nenne diese einfach mal so, da er sich so viel Mühe gegeben hat, was es einfach verdient diesen **_seinen Lautsprecher_** zu nennen!
 
-**Hier mal einige Specs, welch echtes High'endiges er verbaut hat, in der Version die nun in meinem Besitz ist:**
+Es muß auch klar hingewiesen werden: **ES IST KEIN CLON einer O96, da er auch die Frequenzweiche komplett neu gemacht und deutlich andere Treiber verwendet hat!**
+
+**Hier mal einige Specs, welch echtes High'endiges verbaut wurde, in der Version die nun in meinem Besitz ist:**
 
 - **Echten 92dB Kennschalldruck, Impedanz: > 6 Ohm, 30 - 25.000 Hz**
 - **8'' SEAS EXOTIC [X2-08](https://www.seas.no/index.php?option=com_content&view=article&id=345:x2-08-exotic-w8&catid=56&Itemid=248) AlNiCo**
@@ -103,11 +100,11 @@ Aktive Tieftöner/Subwoofer:
 
 **F A Z I T:**
 
-- Gunnar weiss was er tut und seine akribische Art Lautsprecher zu entwickeln und zu bauen einen Applaus wert!
+- RobF weiss was er tut und seine akribische Art Lautsprecher zu entwickeln und zu bauen einen Applaus wert!
 - Auch sich derlei Hintergrundwissen für sein erstes Lautsprecherprojekt zu erarbeiten, zeigt von Professionalität + Können!
 - Verarbeitung, bis auf die letzte Kante, Furnier und Ölung: sehr gut!
 - Er ist ja auch schon an seinem nächsten Projekt dran, weiteres imposantes Projekt!
-- **Ich werde auf jeden Fall im Kontakt mit Ihm bleiben - DANKE GUNNAR!**
+- **DANKE ROBF!**
 
 ---
 
@@ -139,10 +136,8 @@ Hier steht auch großes Besteck, wie Soulution 725/Grimm Audio MU2/LinnenberG Mo
 
 **An welchen Elektronik habe ich Sie bislang getestet?**
 
-- **Röhrenvollverstärker:** PX4 / CF7, Cayin 805/300B, Audio Note Meishu Tonmeister Silver Sig
-- **Röhren Monos:** RV258 / RGN1404, Treiberstufe: ECC80 / ECC82, Vorverstärker: Velvet L2 6SN7, Schmendrik ECC80
-- **Transistor Endstufe:** Revidierten Marantz 2270, BrinkmNn Audio Marconi MK-II ÷ Brinkmann Stereo MK-II, Quad 405-2 full-modified
-- **Quellen:** Lumin U1/Qobuz, Abbas DAC 3.2SE, Holo May KTE, PS Audio SACD Transport, Swoboda Audio Sony CDPX505ES  full-modifiex
+- **Verstärker:**Cayin 805/300B / Audio Note Meishu Tonmeister 300B Line Silver Sig / Brinkmann Marconi MK-II mit Stereo MK-II
+- **Quellen:** Lumin U1/Qobuz, Abbas DAC 3.2SE, Swoboda CDP X505ES voll modifizierten CD-Player, Holo May Audio KTE DAC + PS Audio SACD via I2S (DSD nativ)
 
 ---
 
