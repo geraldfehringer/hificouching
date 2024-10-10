@@ -87,7 +87,7 @@ Auch ich habe schon viel (Lehr)Geld dahingehend verloren und habe durch die [Gab
 - Netzkabel (LessLoss DFPC Reference) am Stromtank S-1000
 <br />
 
-- **Endstufe: [LinnenberG](https://www.lenhifi.de/vertriebsmarken/linnenberg/georg-friedrich-h%C3%A4ndel/) G.F. Händel via XLR ([Gutewire](https://gutwire.com/products/interconnects/eon-z/) EON-Z XLR) an Soulution Vorverstärker**
+- **Endstufen: [LinnenberG](https://www.lenhifi.de/vertriebsmarken/linnenberg/georg-friedrich-h%C3%A4ndel/) G.F. Händel via XLR ([Gutewire](https://gutwire.com/products/interconnects/eon-z/) EON-Z XLR) an Soulution Vorverstärker**
 - Netzkabel (GigaWatt LC3-mK3) am Stromtank S-1000
 <br />
 
