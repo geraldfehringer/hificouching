@@ -31,7 +31,7 @@ Grimm Audio hat ja schon für Furore mit dem MU1 gezeigt und Ende letzten Jahres
 
 Somit kann der MU2 direkt an aktive Lautsprecher angestöpselt werden und kein weiteres Equipment mehr erforderlich, oder an die Endstufe und fungiert als hochwertige Vorstufe mit allen digitalen Eingängen die man(n) so braucht (AES/EBU, USB, SPDIF, TOSLINK)!
 
-**Über Testbericht schreibe ich hier nicht, da hierzu schon ausgezeichnete Testberichte vorliegen, siehe:**
+**Ist hier kein Testbericht, da hierzu schon ausgezeichnete Reviews vorliegen, siehe:**
 
 - [MU2 Reviews](https://www.grimmaudio.com/?category_name=reviews&tag=grimm-mu2)
 
