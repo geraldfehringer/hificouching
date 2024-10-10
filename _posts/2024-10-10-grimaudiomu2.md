@@ -82,7 +82,7 @@ Auch ich habe schon viel (Lehr)Geld dahingehend verloren und habe durch die [Gab
 
 **Komplette Verkabelung meiner Anlagen:** [Gerihifi Github](https://github.com/geraldfehringer/diretta/blob/main/gerihifi-setup.md)
 
-- **Vorverstärker: MU2 <> Soulution 750 via XLR-Verkabelung ([Driade Flow](https://www.theflowcable.com/order/) Ref 808 XLR)**
+- **Vorverstärker: MU2 <> Soulution 725 via XLR-Verkabelung ([Driade Flow](https://www.theflowcable.com/order/) Ref 808 XLR)**
 - Ich nutze **nicht** die MU2-Vorstufe, da ich den [Soulution 725](https://soulution-audio.com/de/serie-7/soulution-725-vorverstaerker/) schon vorher hatte und eine andere Liga an Vorverstärker ist (für mich den Besten Solid-State den es gibt)!
 - Netzkabel (LessLoss DFPC Reference) am Stromtank S-1000
 <br />
