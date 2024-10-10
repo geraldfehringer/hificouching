@@ -151,7 +151,7 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
 - Ich selbst nutze den PS Audio Directwave SACD Transport und dieser unterstützt DSD-native nur über I2S (HDMI-Interface), daher nicht am MU2 angeschlossen, sondern am Holo May KTE :wink:
 <br />
 
-- [x] Grimm Audio hat als einer von wenigen Herstellern, eine sehr enge Beziehung zu den Roon-Entwicklern, daher auch die Entscheidung nicht eigene Software vom Scratch zu Schreiben!
+- [x] Grimm Audio hat als einer von wenigen Herstellern, eine sehr enge Beziehung zu den Roon-Entwicklern, daher auch die Entscheidung nicht eigene Software vom Scratch zu schreiben!
 - MU2 hat Roon Core & Bridge vorinstalliert und kann somit auch von einem anderen Roon Core als Bridge angesprochen werden. Sollte z.Bsp. schon weiterer Roon Core existieren, mit einer sehr großen Musikbibliothek (hat immer massiven Impact auf den CPU, da zu viel Aufbereitung von Metadaten!)
 
 <br />
