@@ -3,7 +3,7 @@ title: DeVore O96 Reference in besser und bezahlbar?
 layout: post
 post-image: "/assets/images/blog-devore-diy/logo.png"
 description: DIY ist (kann) besser sein, meine persönliche Erfahrung mit O96 als Grundlage.
-toc: true
+toc: false
 tags:
 - lautsprecher
 - diy
@@ -113,9 +113,10 @@ Aktive Tieftöner/Subwoofer:
 
 <a href="https://ibb.co/DzdGb1p"><img src="https://i.ibb.co/DzdGb1p/20240507-181116.jpg" alt="20240507-181116" border="0"></a> <a href="https://ibb.co/SKD9MWz"><img src="https://i.ibb.co/SKD9MWz/20240507-181131.jpg" alt="20240507-181131" border="0"></a> <a href="https://ibb.co/QQTHHQ4"><img src="https://i.ibb.co/QQTHHQ4/20240507-181143.jpg" alt="20240507-181143" border="0"></a> <a href="https://ibb.co/QMVW2Xd"><img src="https://i.ibb.co/QMVW2Xd/20240507-181149.jpg" alt="20240507-181149" border="0"></a> <a href="https://ibb.co/FmPrvw6"><img src="https://i.ibb.co/FmPrvw6/20240507-181157.jpg" alt="20240507-181157" border="0"></a> <a href="https://ibb.co/r08PvbP"><img src="https://i.ibb.co/r08PvbP/20240507-181211.jpg" alt="20240507-181211" border="0"></a> <a href="https://ibb.co/ZKHgqws"><img src="https://i.ibb.co/ZKHgqws/20240507-181221.jpg" alt="20240507-181221" border="0"></a> <a href="https://ibb.co/68J3HbG"><img src="https://i.ibb.co/68J3HbG/20240507-181224.jpg" alt="20240507-181224" border="0"></a> <a href="https://ibb.co/C1ZyhWb"><img src="https://i.ibb.co/C1ZyhWb/20240507-181350.jpg" alt="20240507-181350" border="0"></a> <a href="https://ibb.co/fxBYqgX"><img src="https://i.ibb.co/fxBYqgX/20240507-181403.jpg" alt="20240507-181403" border="0"></a> <a href="https://ibb.co/NYjLmjK"><img src="https://i.ibb.co/NYjLmjK/20240507-181408.jpg" alt="20240507-181408" border="0"></a> <a href="https://ibb.co/Y0MSQwt"><img src="https://i.ibb.co/Y0MSQwt/20240507-181415.jpg" alt="20240507-181415" border="0"></a>
 
-RobF's original O96 Nachbau-Komponentenliste:
+RobF's Inside:
 
-![image](/assets/images/blog-devore-diy/thumbnail_O96%20MKII.jpg)
+<a href="https://ibb.co/hg98TWX"><img src="https://i.ibb.co/hg98TWX/20241006-105842.jpg" alt="20241006-105842" border="0"></a> <a href="https://ibb.co/bNPxsYV"><img src="https://i.ibb.co/bNPxsYV/20241006-105909.jpg" alt="20241006-105909" border="0"></a> <a href="https://ibb.co/3Wj8bsY"><img src="https://i.ibb.co/3Wj8bsY/20241006-110156.jpg" alt="20241006-110156" border="0"></a> <a href="https://ibb.co/BBcbwFt"><img src="https://i.ibb.co/BBcbwFt/20241006-110200.jpg" alt="20241006-110200" border="0"></a> <a href="https://ibb.co/H41n095"><img src="https://i.ibb.co/H41n095/20241006-110207.jpg" alt="20241006-110207" border="0"></a> <a href="https://ibb.co/B6sGR7H"><img src="https://i.ibb.co/B6sGR7H/20241006-110217.jpg" alt="20241006-110217" border="0"></a> <a href="https://ibb.co/2PqR2KR"><img src="https://i.ibb.co/2PqR2KR/20241006-110224.jpg" alt="20241006-110224" border="0"></a> <a href="https://ibb.co/RbfNTCH"><img src="https://i.ibb.co/RbfNTCH/20241006-110228.jpg" alt="20241006-110228" border="0"></a> <a href="https://ibb.co/qCq9frb"><img src="https://i.ibb.co/qCq9frb/20241006-110308.jpg" alt="20241006-110308" border="0"></a> <a href="https://ibb.co/zFcZyVN"><img src="https://i.ibb.co/zFcZyVN/20241006-110317.jpg" alt="20241006-110317" border="0"></a> <a href="https://ibb.co/LPHsQPJ"><img src="https://i.ibb.co/LPHsQPJ/20241010-101344.jpg" alt="20241010-101344" border="0"></a> <a href="https://ibb.co/Sx5q3Z7"><img src="https://i.ibb.co/Sx5q3Z7/20241010-101414.jpg" alt="20241010-101414" border="0"></a> <a href="https://ibb.co/NxBTTfW"><img src="https://i.ibb.co/NxBTTfW/20241010-101416.jpg" alt="20241010-101416" border="0"></a>
+
 ---
 
 # WIE spielen Sie nun?
