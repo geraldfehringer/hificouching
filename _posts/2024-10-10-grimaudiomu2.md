@@ -25,7 +25,7 @@ tags:
 
 (Bilder anklicken zum Vergrößern!)
 
-Grimm Audio hat ja schon für Furore mit dem MU1 gezeigt und Ende letzten Jahres (2023) wurde ein neues Modell auf den Markt gebracht. Dies ist **keine** neue Version, da der **MU2** zusätzliche Vorverstärker-Sektion bekommen hat und somit einen vollwertigen Streamer-/Roon-Core/digitale und analoge Vorstufe darstellt.
+Grimm Audio hat ja schon für Furore mit dem MU1 gesorgt und Ende letzten Jahres (2023) wurde ein neues Modell auf den Markt gebracht. Dies ist **keine** neue Version, da der **MU2** zusätzliche Vorverstärker-Sektion bekommen hat und somit einen vollwertigen Streamer-/Roon-Core/digitale und analoge Vorstufe darstellt.
 
 **Der Listenpreis liegt bei €18.000 und ist somit sicherlich im oberen Ende der Luxus-DAC's angesiedelt. Wobei es noch deutlich (absurder) im Ultra-Fi abgeht, siehe Topmodelle von: Antipodes, Taiko Extreme, Ideon Audio, TotalDac, Lampizator, MSB, Aries Cerat, Playback Design oder dCS - hier liegen wir jenseits von €40.000 (ohne Kabel) !!** :neutral_face:
 
