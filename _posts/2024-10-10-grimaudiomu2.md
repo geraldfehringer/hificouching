@@ -78,7 +78,7 @@ Auch ich habe schon viel (Lehr)Geld dahingehend verloren und habe durch die [Gab
 
 (Bilder anklicken zum Vergrößern!)
 
-<a href="https://ibb.co/fnCLsVq"><img src="https://i.ibb.co/fnCLsVq/20241010-134217.jpg" alt="20241010-134217" border="0"></a> <a href="https://ibb.co/nPR8LSq"><img src="https://i.ibb.co/nPR8LSq/20241010-141145.jpg" alt="20241010-141145" border="0"></a>
+<a href="https://ibb.co/fnCLsVq"><img src="https://i.ibb.co/fnCLsVq/20241010-134217.jpg" alt="20241010-134217" border="0"></a> <a href="https://ibb.co/nPR8LSq"><img src="https://i.ibb.co/nPR8LSq/20241010-141145.jpg" alt="20241010-141145" border="0"></a><a href="https://ibb.co/W2pHJ4h"><img src="https://i.ibb.co/W2pHJ4h/20241011-140903.jpg" alt="20241011-140903" border="0"></a> <a href="https://ibb.co/jghkbFJ"><img src="https://i.ibb.co/jghkbFJ/20241011-140915.jpg" alt="20241011-140915" border="0"></a>
 
 **Komplette Verkabelung meiner Anlagen:** [Gerihifi Github](https://github.com/geraldfehringer/diretta/blob/main/gerihifi-setup.md)
 
