@@ -113,7 +113,8 @@ Auch ich habe schon viel (Lehr)Geld dahingehend verloren und habe durch die [Gab
 - **Da modulare Architektur & FPGA im Einsatz, hat Elko Grimm schon angedeutet das es neue Software-Feature im nächsten großen Update geben wird (Bsp. UPnP-Support und Tidal-/Qobuz Connect), ohne zu hohen CPU-Impact und somit Seiteneffekte zu erzeugen!**
 
 
-> **FAZIT: extrem langzeit tauglicher DAC/Streamer und durch seine Größe verschwindet er komplett in einem Hifi-Setup. HINWEIS: der MU2 wird ziemlich heiß, unbedingt gut belüftet aufstellen!**
+> **FAZIT: extrem langzeit tauglicher DAC/Streamer und durch seine Größe verschwindet er komplett in einem Hifi-Setup. \
+> HINWEIS: der MU2 wird ziemlich heiß, unbedingt gut belüftet aufstellen!**
 
 ---
 
