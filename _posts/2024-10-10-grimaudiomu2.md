@@ -13,7 +13,7 @@ tags:
 
 <br>
 
-`Update: 10. Okt 2024`
+`Update: 22. Okt 2024`
 
 ---
 
@@ -147,6 +147,9 @@ Da Elko Grimm immer sehr hilfsbereit ist Fragen (auch von Noobs wie mir) zu bean
 - [x] Der MU2 ist ja ein Roon-Core (+ Bridge) only und somit nur mittels Roon-App ansprechbar. Folgende Einstellung werden empfohlen (auch rege in Foren besprochen & getestet):
 - **Externer Vorverstärker:** ROON: "Volume Control" auf "Fixed Volume" stellen / MU2 Settings: "Fixed Volume"
 - **Ohne Vorverstärker:** "Volume Control" auf "Device Volume" stellen / MU2 Settings: auf -7db Startup Vulume setzen (Regelung am MU2 Dial oder in der Roon App)
+<br />
+IMPORTANT NOTE FROM E.GRIMM: \
+The MU2 and MU1 are designed in such a way that Roon always needs to be set to 'Device Volume'. If the user does not want to use the volume control of the MU2 or MU1, he can disable the volume control in the web interface. Please note that it is very important for the MU2 user to in that case put the volume control at '0 dB' (or lower) in the device display (which is I believe '92' in the Roon volume.
 <br />
 - [x] Die AES/EBU & SPDIF digital-Eingänge unterstützen DSD64 in 'DoP' Format und somit kann ein SACD-Transport daran angeschlossen werden der nativ den DSD-Layer (SACD kann ja max. DSD64) über derlei Anschlüsse überträgt
 - Ich selbst nutze den PS Audio Directwave SACD Transport und dieser unterstützt DSD-native nur über I2S (HDMI-Interface), daher nicht am MU2 angeschlossen, sondern am Holo May KTE :wink:
