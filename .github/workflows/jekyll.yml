@@ -48,8 +48,7 @@ jobs:
         # Outputs to the './_site' directory by default
         run: |
           npm i -D pagecrypt
-          ls -la _site/
-          sudo npx pagecrypt "_site/tubeinventory.html" "_site/tubeinventory.html" "${{ secrets.PAGE_CRYPT_TUBES }}"
+          sudo npx pagecrypt "tubeinventory.md" "tubeinventory.md" "${{ secrets.PAGE_CRYPT_TUBES }}"
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
