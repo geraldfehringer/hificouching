@@ -41,6 +41,10 @@ jobs:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Encrypt pages with PageCrypt
+        run: |
+          npm i -D pagecrypt
+          sudo npx pagecrypt "_site/tubeinventory.html" "_site/tubeinventory.html" "${{ secrets.PAGE_CRYPT_TUBES }}"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
