@@ -13,6 +13,7 @@ Type,Vendor,Amount,Matched,€ value,Notes
 6080WA,G.E.C.,1,no,240,Black plates triple mica and double D-gitter
 5U4G (CV575),MWT,1,no,200,NOS 1960 grey plates schwarze Platte großer D Getter
 5U4G (CV1071),Mullard,1,no,300,NOS u52 Röhre Mullard Britischer GEC
+5U4G,Stradi,1,no,320,NEW bulb shape with hanging filament max. 550V
 5U4GB,Fiver,2,yes,370,NOS O-GETTER LONG BOTTLE 1960
 5Y3GT,TUNG-SOL,2,yes,78,NOS NIB (2034)
 5y3GT,Ultron,1,no,19,NOS 48/48mA
@@ -85,6 +86,7 @@ PX4,Marconi,1,no,220,NOS Grey Glass Valve Tube NOS
 PX4,KR-Audio,2,yes,900,NEW from KR Audio re-issued
 PX4,Emission Labs,2,yes,900,NEW from Czech Republic
 PX4,OSRAM,2,yes,1060,NOS LB20 England in orig. Military Box
+PX4,Stradi,2,yes,870,NEW,15Watt as 2A3 or AD1 but application fact. is 5.0
 EZ80 (6V4),Amperex,1,no,65,NOS NIB 45° Code KC0 V3A
 EZ11,TELEFUNKEN,1,no,19,RFT # NOS (2986)
 EZ11,TELEFUNKEN,1,no,60,CODE:ik=04.1937 # NOS (4453) 30/30mA
