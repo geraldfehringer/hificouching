@@ -32,6 +32,7 @@ GZ34,Mullard Valvo,1,no,180,NOS rare f32-B3D4 military code
 GZ34 (5AR4),Philips (Amperex),1,no,170,f33 DD-Getter 1962 NOS Miniwatt
 GZ34,TAD(CN),2,yes,100,TAD Redbase Premium Selected Tube Amp Doctor
 GZ34,Valvo,2,yes,180,Valvo Mullard GZ34 5AR4 f32 7 Rippenplattenseite Blackburn Factory Anfang 60er
+GZ34,Mullard,1,no,175,Valvo Mullard GZ34 5AR4 f32 7 Rippenplattenseite Blackburn Factory Anfang 60er
 EL84 (6BQ5),SYLVANIA,4,yes,405,Matched Quad (4 tubes) NOS NIB with High Emissions USA
 E182CC (7119),Philips,2,yes,200,Matched Pair / NOS NIB / same code (4210) 41.3/41.3 ; 41.3/41.3 mA 100%= 36/36 mA
 E80CC (6085/CV5989),Valvo,2,yes,140,NOS matched pair Valvo Red Code VB9 015
@@ -88,28 +89,33 @@ ECC88-WC,Wathen,2,yes,400,NEW more articulate musical and has the lowest noise f
 6N8S/6SN7GT/6N8P,MELZ,2,yes,150,NOS MELZ 1956
 6C33C/6S33S,Ulyanov,2,yes,90,NOS Triode same date 1977 (02-05-06-07) alls 150mA measured!
 6C33C,,4,yes,90,NOS Triode same date 1970 bought by callas audio nl
+EC806,Telefunken,2,yes,190,Matched pair EC806S TELEFUNKEN GOLDPIN RAUTE Röhre Tube E86C Valve Paar Valvula
+EC86,Valvo,2,yes,110,Matched pair EC86 VALVO NOS NEU Röhre Tube NEW 6CM4 Valve Paar Valvula CkA D1G2
+EC86,Phillips,2,yes,42,VALVO-PRODUKTION DER 1960ER JAHRE GRAUE PLATTEN GETTER MIT GRÖBCHEN
+EC86,Phillips,2,yes,40,960s PRODUCTION. 1960s PRODUCTION.GREY PLATES HALO GETTER MATCHED PAIR.
+EC86,MAZDA,2,yes,50,NOS MAZDA. 1960s RADIOTECHNIQUE PRODUCTION GREY PLATES HALO GETTER GOLD PIN 3 MICA
+EC86,MAZDA,2,yes,50,NOS MAZDA. 1960s RADIOTECHNIQUE PROD. GOLD PIN. 2. CH159
+EZ80 (6V4),Amperex,1,no,65,NOS NIB 45° Code KC0 V3A
+EZ11,TELEFUNKEN,1,no,19,RFT # NOS (2986)
+EZ11,TELEFUNKEN,1,no,60,CODE:ik=04.1937 # NOS (4453) 30/30mA
+EZ81, MULLARD,1,no,76,NOS # B-CODE # D-GETTER # NOS (4230)
+EF13,TELEFUNKEN,2,yes,60,CODE:ik=05.1944 # NOS (4422) 6.9/6.9mA
+EZ12,TELEFUNKEN,1,no,53,NOS # OO Getter (1499)
+EZ12,TELEFUNKEN,1,no,58,NOS # OO Getter # Labormuster (4268)
+EF12,PHILIPS MINIWATT,1,no,60,NOS (2992)
+EF12,Mullard,1,no,220,NOS sealed box
+EF86,Polam,2,yes,60,NOS EF86 6CF8 6BK8 Z729 6F22 Matched Pair Square Getter
+EF86,Telefunken,2,yes,140,NOS matched pair von BTB M8195 Pentode West UK pder NL
+EF86,Mullard,2,yes,150,NOS matched pair von BTB Diamond Raute
+EF86,Polam,2,yes,58,Polam EF86 6CF8 6BK8 Z729 6F22 Matched Pair Square Getter NOS NIB
+RGN 1404,Telefunken,2,no,150,NOS 4 Volt used NOS/NIB
+CF7 (TCF7/UF7/NF2/13H1),Valvo,2,no,118,NOS NIB New Pentode
+CF7,Valvo,2,no,32,Valvola NOS/NIB/NEW sealed box
+GM70,unbekannt,2,yes,200,NOS Endröhren
 PX4,Marconi,1,no,230,NOS Fat Shape Valve Tube with Cooling Fins Used Tested (V7)
 PX4,Marconi,1,no,220,NOS Grey Glass Valve Tube NOS
 PX4,KR-Audio,2,yes,900,NEW from KR Audio re-issued
 PX4,Emission Labs,2,yes,900,NEW from Czech Republic
 PX4,OSRAM,2,yes,1060,NOS LB20 England in orig. Military Box
 PX4,Stradi,2,yes,870,NEW 15Watt as 2A3 or AD1 but application fact. is 5.0
-EZ80 (6V4),Amperex,1,no,65,NOS NIB 45° Code KC0 V3A
-EZ11,TELEFUNKEN,1,no,19,RFT # NOS (2986)
-EZ11,TELEFUNKEN,1,no,60,CODE:ik=04.1937 # NOS (4453) 30/30mA
-EF13,TELEFUNKEN,2,yes,60,CODE:ik=05.1944 # NOS (4422) 6.9/6.9mA
-EZ12,TELEFUNKEN,1,no,53,NOS # OO Getter (1499)
-EZ12,TELEFUNKEN,1,no,58,NOS # OO Getter # Labormuster (4268)
-EF12,PHILIPS MINIWATT,1,no,60,NOS (2992)
-EF12,Mullard,1,no,220,NOS sealed box
-EZ81, MULLARD,1,no,76,NOS # B-CODE # D-GETTER # NOS (4230)
-RGN 1404,Telefunken,2,no,150,NOS 4 Volt used NOS/NIB
-CF7 (TCF7/UF7/NF2/13H1),Valvo,2,no,118,NOS NIB New Pentode
-CF7,Valvo,2,no,32,Valvola NOS/NIB/NEW sealed box
-GM70,unbekannt,2,yes,200,NOS Endröhren
-EF86,Polam,2,yes,60,NOS EF86 6CF8 6BK8 Z729 6F22 Matched Pair Square Getter
-EF86,Valvo,2,yes,100,Matched pair EC86 VALVO NOS NEU Röhre Tube NEW 6CM4 Valve Paar Valvula CkA D1G2
-EF86,Telefunken,2,yes,140,NOS matched pair von BTB M8195 Pentode West UK pder NL
-EF86,Mullard,2,yes,150,NOS matched pair von BTB Diamond Raute
-EC806,Telefunken,2,yes,190,Matched pair EC806S TELEFUNKEN GOLDPIN RAUTE Röhre Tube E86C Valve Paar Valvula
 
