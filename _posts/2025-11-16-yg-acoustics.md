@@ -1,5 +1,5 @@
 ---
-title: 300b Prinzessin, Diva oder doch eher Göre? 
+title: YG Acoustics, der beste Lautsprecher bis €40k?
 layout: post
 post-image: "/assets/images/blog-yg/yg-logo.png"
 description: Alles Rund um meine neuen TraumLAUTsprecher
