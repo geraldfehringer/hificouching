@@ -15,7 +15,7 @@ tags:
 
 >**DISCLAIMER: Die nachfolgenden Infos sind meine persönlichen Erfahrungen, mache keine Hersteller-Werbung und alles ist in meinem Besitz!**
 
-Hier eine etwas moderne Aufbereitung zu den YG Acoustics: [Carmel 3](https://setups.hificouch.world/yg-carmel3.html)**
+Hier eine etwas moderne Aufbereitung zu den YG Acoustics: **[Carmel 3](https://setups.hificouch.world/yg-carmel3.html)**
 
 
 
